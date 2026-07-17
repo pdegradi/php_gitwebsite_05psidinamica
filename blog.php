@@ -73,7 +73,7 @@ ob_start();
         <ul class="article-list">
             <?php foreach ($page_articles as $article): ?>
                 <li>
-                    <a href="<?= $articles_folder ?>/<?= htmlspecialchars($article['slug']) ?>.php">
+                    <a href="/<?= $articles_folder ?>/<?= htmlspecialchars($article['slug']) ?>.php">
                         <span class="article-list__title"><?= htmlspecialchars($article['title']) ?></span>
                         <?php if (!empty($article['date'])): ?>
                             <span class="article-list__date"><?= htmlspecialchars(format_article_date($article['date'])) ?></span>
