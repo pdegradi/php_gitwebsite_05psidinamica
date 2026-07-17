@@ -11,7 +11,7 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
-<h2>test</h2>
+<h2>test articolo 7</h2>
 
 <?php
 $article_body = ob_get_clean();
