@@ -1,0 +1,70 @@
+<?php
+define('FRAMEWORK_ENTRY', true);
+require __DIR__ . '/../includes/config.php';
+
+[
+    'title'          => $article_title,
+    'date'           => $article_date,
+    'featured_image' => $featured_image
+] = get_current_article_data($articles);
+
+ob_start();
+?>
+
+<h2>L'Asse P: l'organizzazione di personalità nel PDM</h2>
+<p>L'Asse P del PDM segue il modello strutturale di Kernberg, modificando però la denominazione delle tre macrostrutture in <strong>sana</strong>, <strong>borderline</strong> e <strong>nevrotica</strong>: una personalità borderline di livello alto è più vicina all'organizzazione nevrotica, una di livello basso più vicina a quella psicotica.</p>
+
+<h3>Le funzioni fondamentali della personalità</h3>
+<p>La valutazione del livello di organizzazione (sano, borderline, nevrotico) si basa su sette funzioni: le relazioni oggettuali, la tolleranza degli affetti, l'integrazione tra Super-io, ideale dell'Io e Io ideale, l'esame di realtà, l'identità, la forza dell'Io e la resilienza. Come il modello di Kernberg e la SWAP, il PDM è pensato per accompagnare il DSM, non sostituirlo, avvicinando la clinica psicodinamica alla ricerca.</p>
+
+<h3>La nosografia di personalità</h3>
+<p>Oltre al livello generale di organizzazione, l'Asse P offre una lista di disturbi (definiti al plurale per sottolineare l'eterogeneità interna a ciascuna diagnosi), per ciascuno dei quali vengono indicati i pattern costituzionali-maturativi, la tensione principale, gli affetti principali, le credenze patogene su di sé e sugli altri, e i modi principali di difesa, con eventuali sottotipi. Per i <strong>disturbi depressivi di personalità</strong>, per esempio: una possibile predisposizione genetica; una tensione tra bontà e cattiveria, o tra solitudine e relazionalità; affetti di tristezza, colpa e vergogna; la credenza che vi sia "qualcosa di intrinsecamente cattivo o inadeguato" in sé, e che gli altri, se lo conoscessero davvero, lo rifiuterebbero; difese come introiezione, capovolgimento, idealizzazione degli altri e svalutazione di sé; e due sottotipi, introiettivo e anaclitico.</p>
+<p>L'Asse P elenca inoltre disturbi schizoidi, paranoidi, psicopatici (sottotipi antisociali, passivi vs aggressivi), narcisistici (arroganti vs depressi), sadici e sadomasochistici, masochistici (autofrustranti, morali vs relazionali), depressivi (anaclitici vs introiettivi, ipomaniacali), somatizzanti, dipendenti (passivi-aggressivi, controdipendenti), fobici (evitanti, controfobici), ansiosi, ossessivo-compulsivi (ossessivi vs compulsivi), isterici/istrionici (inibiti vs espansivi), dissociativi, e una categoria mista/altro.</p>
+
+<h2>L'Asse M: il funzionamento mentale</h2>
+<p>Una volta valutata la personalità, il clinico valuta il funzionamento mentale su una scala a 8 livelli, da capacità ottimali e appropriate all'età fino a gravi lacune, considerando: la capacità di regolazione, attenzione e apprendimento; la capacità di relazioni e intimità; la qualità dell'esperienza interna (sicurezza e rispetto di sé); l'esperienza, espressione e comunicazione degli affetti; i pattern difensivi; la capacità di formare rappresentazioni interne (inclusa la mentalizzazione); la capacità di differenziazione e integrazione (forza dell'Io, coesione del Sé, stabilità dell'esame di realtà); la capacità di auto-osservazione (insight emotivo); e la capacità di costruire standard e ideali interni.</p>
+
+<h2>L'Asse S: l'esperienza soggettiva dei disturbi clinici</h2>
+<p>L'Asse S riprende la nosografia dell'Asse I del DSM, riformulando i disturbi in modo descrittivo per cogliere l'esperienza soggettiva associata ai sintomi (in termini di stati affettivi, pattern cognitivi, stati somatici e pattern relazionali), invece di limitarsi a un elenco di criteri diagnostici.</p>
+
+<h2>La classificazione dei disturbi mentali di bambini e adolescenti</h2>
+<p>Poiché la personalità del bambino è ancora in sviluppo, la valutazione segue un ordine diverso da quella degli adulti: prima il funzionamento mentale (corrispondente all'Asse M), poi il livello di sanità e la tipologia prevalente della personalità, infine i pattern sintomatici e l'esperienza soggettiva.</p>
+
+<h3>La valutazione della personalità del bambino</h3>
+<p>Il profilo di personalità "in formazione" del bambino, su un continuum da normale a disfunzionale, si valuta attraverso: profondità, ampiezza e flessibilità delle relazioni; esperienza e espressione delle emozioni; ampiezza e struttura di fantasie, pensieri e affetti; flessibilità delle strategie di coping e difesa; stabilità dell'esame di realtà; capacità di regolare gli impulsi; valori interiorizzati; e capacità di auto-osservazione.</p>
+
+<h3>Le categorie di personalità per bambini e adolescenti</h3>
+<p>Per evitare l'etichettamento precoce (data la continua evoluzione della personalità infantile), non si parla di disturbi ma di categorie più vaghe e con terminologia diversa da quella degli adulti: timorosi della vicinanza (schizoide), sospettosi/diffidenti, antisociali, narcisistici, impulsivi/esplosivi, autopunitivi, depressivi, somatizzanti, dipendenti, evitanti/coartati (con variante controfobica, per chi mostra un livello di paura anormalmente basso, cercando rischi e attività estreme), ansiosi, ossessivo-compulsivi, istrionici, su base disregolatoria, e misti.</p>
+
+<h3>La valutazione dei pattern sintomatici e dell'esperienza soggettiva</h3>
+<p>Come per gli adulti, quest'ultimo asse riprende la classificazione del DSM aggiungendo dettagli su pattern cognitivi, affettivi, relazionali e somatici, per: disturbi d'ansia, dell'umore, del comportamento dirompente, reattivi (per esempio post-traumatici), del funzionamento mentale (memoria, attenzione), psicofisiologici (anoressia, bulimia), dello sviluppo (regolazione, alimentazione, evacuazione, sonno, attaccamento, sindrome autistica e di Asperger), e una categoria mista.</p>
+
+<h2>I disturbi mentali nei neonati e nei bambini molto piccoli</h2>
+<p>L'ultima parte del PDM valuta i disturbi mentali nei neonati e nei bambini molto piccoli, articolata in quattro assi. L'<strong>Asse I</strong> riguarda i disturbi primari: <strong>interattivi</strong> (difficoltà di regolazione tra bambino e caregiver o nella famiglia), <strong>regolatori dell'elaborazione sensoriale</strong> (variazioni costituzionali come iper o ipo-responsività sensoriale, difficoltà di pianificazione motoria) e <strong>neuroevolutivi della relazione e della comunicazione</strong> (difficoltà di base di comunicazione, comprensione e pensiero). La diagnosi dell'Asse I va formulata solo dopo aver valutato gli altri tre assi: l'<strong>Asse II</strong> (capacità evolutive funzionali ed emotive), l'<strong>Asse III</strong> (capacità di regolazione dell'elaborazione sensoriale) e l'<strong>Asse IV</strong> (pattern relazionali bambino-caregiver e familiari, oltre a eventuali condizioni mediche o neurologiche).</p>
+
+<h2>Il ruolo delle neuroscienze nella comprensione della psicopatologia</h2>
+<p>La critica all'eccessiva categorialità della diagnosi descrittiva del DSM è condivisa oggi da diverse discipline, anche per il contributo delle neuroscienze: il concetto di <strong>plasticità cerebrale</strong> aiuta a spiegare come un individuo sia in continuo divenire, e come una stessa diagnosi possa cambiare nel tempo. Le neuroscienze hanno mostrato che alcune caratteristiche neurobiologiche di rischio per i disturbi mentali non dipendono solo dalla genetica, ma anche dall'esperienza: le esperienze vissute dalla nascita (traumi, farmaci, stili relazionali e di attaccamento) regolano l'espressione genica e agiscono come fattori di rischio o di protezione, spostando l'attenzione dal singolo disturbo ai circuiti neuronali e alle dimensioni che ne definiscono il rischio.</p>
+
+<h3>Il ruolo delle neuroscienze nella diagnosi psicologica</h3>
+<p>I sistemi diagnostici più usati, come il DSM, non tengono conto dell'organizzazione dei circuiti neuronali sottostanti ai comportamenti. Questo è un limite sia nella <strong>pratica clinica</strong> (la comorbilità è la regola, non l'eccezione, proprio perché i circuiti emotivi e cognitivi sono fortemente interconnessi) sia nella <strong>ricerca</strong> (è difficile isolare gruppi di pazienti con una sola diagnosi pura, il che mette in discussione la validità degli studi basati su categorie diagnostiche).</p>
+
+<h2>Il progetto RDoC (Research Domain Criteria)</h2>
+<p>Nel 2009 il <strong>National Institute of Mental Health</strong> (NIMH) statunitense ha lanciato il progetto <strong>"Research Domain Criteria"</strong> (RDoC), un progetto di ricerca (non di pratica clinica) volto a sviluppare una nuova classificazione <strong>dimensionale</strong> dei disturbi mentali, basata su comportamenti osservabili e indici neurobiologici, indipendente dalle categorie nosografiche tradizionali.</p>
+
+<h3>Gli obiettivi del progetto</h3>
+<p>Gli obiettivi a lungo termine sono validare nuovi paradigmi sperimentali, suggerire nuovi trattamenti, definire sottogruppi clinici più omogenei e favorire la collaborazione tra ricerca e clinica; quelli a breve termine sono identificare le dimensioni del funzionamento mentale, validare nuovi strumenti di misura e promuovere studi su popolazioni cliniche e non cliniche.</p>
+
+<h3>La matrice RDoC</h3>
+<p>Il progetto si rappresenta come una matrice, pubblicata nel 2012 da Morris e Cuthbert: le righe indicano i domini del funzionamento mentale, le colonne le diverse unità di analisi con cui misurarli. I domini principali sono: il <strong>sistema di valenza negativa</strong> (paura, ansia, perdita, frustrazione); il <strong>sistema di valenza positiva</strong> (motivazione, responsività ai rinforzi); i <strong>sistemi cognitivi</strong> (attenzione, memoria, linguaggio, controllo cognitivo); i <strong>processi sociali</strong> (imitazione, teoria della mente, mentalizzazione, paura di attaccamento/separazione); e i <strong>sistemi di arousal e regolazione</strong> (ritmo circadiano, sonno). Ogni dominio viene studiato attraverso diverse unità di analisi, dai geni ai circuiti neuronali, dagli indici fisiologici ai comportamenti osservabili fino alle valutazioni soggettive.</p>
+
+<h3>Definire i domini del funzionamento mentale</h3>
+<p>L'obiettivo del progetto è arrivare a una diagnosi dimensionale, integrata su base multidisciplinare, che consideri insieme geni, esperienze, comportamento e misure fisiologiche. È un obiettivo ambizioso e ancora agli inizi: restano problemi aperti, per esempio come ridurre l'eterogeneità dei pazienti clinici studiati insieme (per esempio, distinguere un paziente con depressione da uno con demenza di Alzheimer nello studio dello stesso dominio).</p>
+
+<h2>La ricerca in psicoterapia</h2>
+<p>Il primo obiettivo della ricerca in psicoterapia è valutare se la psicoterapia, nel suo insieme, funziona: permette di ottenere cambiamenti? La sua efficacia è maggiore di altri metodi, per esempio gli psicofarmaci? Quale approccio funziona meglio — comportamentale, psicodinamico, cognitivo? Cosa succede in una psicoterapia che determina il cambiamento, e cosa fanno paziente e terapeuta per raggiungerlo?</p>
+
+
+<?php
+$article_body = ob_get_clean();
+
+require __DIR__ . '/../includes/layout/layout-article.php';

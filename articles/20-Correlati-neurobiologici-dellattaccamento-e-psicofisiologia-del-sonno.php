@@ -1,0 +1,89 @@
+<?php
+define('FRAMEWORK_ENTRY', true);
+require __DIR__ . '/../includes/config.php';
+
+[
+    'title'          => $article_title,
+    'date'           => $article_date,
+    'featured_image' => $featured_image
+] = get_current_article_data($articles);
+
+ob_start();
+?>
+
+<h2>Correlati neurobiologici dell'attaccamento</h2>
+<h3>La psicologia dinamica e lo sviluppo infantile</h3>
+<p>A partire dalla teoria classica di Freud, l'interesse della psicologia dinamica si è spostato sempre di più verso i primi anni di vita e le prime interazioni con i genitori. Fu Freud stesso, introducendo la teoria dello sviluppo psicosessuale, il primo a parlare dell'età infantile come fondamentale per la personalità e la psicopatologia, usando il <strong>metodo ricostruttivo</strong> basato sulle associazioni libere in terapia con gli adulti. Un filone di autori ha poi affiancato a questo metodo un metodo osservativo diretto sui bambini (l'<strong>Infant Observation</strong>, da Anna Freud a Esther Bick), criticato però per la circolarità tra procedura e teoria; un'altra area della psicologia dinamica si è invece avvicinata al metodo empirico, con Bowlby, Ainsworth e gli esponenti dell'<strong>Infant Research</strong> (Sander, Stern, Tronick).</p>
+
+<h3>Attaccamento e funzionamento psichico</h3>
+<p>La teoria dell'attaccamento propone un modello di come la mente umana si organizzi, nei primi anni di vita, sulla base delle relazioni affettive con le figure di riferimento: un cervello ancora immaturo si organizza cioè sulla base dell'ambiente in cui si sviluppa. Da Ainsworth in poi, paradigmi come la Strange Situation e lo Still Face hanno reso questo tema oggetto di studio empirico, mostrando che i legami di attaccamento svolgono una funzione psicobiologica sia a <strong>livello cognitivo</strong> (organizzano i Modelli Operativi Interni, che ci permettono di affrontare situazioni nuove con aspettative adeguate) sia a <strong>livello fisiologico</strong> (influenzano la nostra risposta alle situazioni stressanti): la sensibilità genitoriale, definita soprattutto dalla cognizione materna e dalla funzione riflessiva, influenza sia i MOI del bambino sia il suo sistema di regolazione psicofisiologica, ed è per questo fondamentale nello spiegare la psicopatologia e il funzionamento psicosociale futuro.</p>
+
+<h3>L'Infant Research e lo sviluppo psicofisiologico</h3>
+<p>Attaccamento e Infant Research si intrecciano, nutrendosi entrambi di risultati di ricerca multidisciplinari sullo sviluppo della personalità. L'Infant Research pone però ancora più l'accento sul legame tra sviluppo psichico e maturazione fisiologica: il sistema di vita è un processo di continuo adattamento reciproco tra organismo e ambiente, in parte auto-regolatorio, e il grado in cui madre e bambino gestiscono insieme i compiti evolutivi determina il destino dello sviluppo psicofisiologico.</p>
+
+<h3>La relazione di attaccamento influenza la struttura e la funzionalità cerebrale</h3>
+<p>Il cervello regola il comportamento, ma il comportamento modifica a sua volta la struttura e la funzionalità cerebrale: questa capacità del sistema nervoso centrale di modificarsi in risposta all'ambiente si chiama <strong>plasticità neuronale</strong>.</p>
+
+<h3>La maturazione cerebrale</h3>
+<p>Nei primi anni di vita, i circuiti corticali e subcorticali si formano a partire da una <strong>sovrabbondanza di contatti sinaptici</strong> geneticamente determinata; sono poi i processi di interazione con l'ambiente a guidare la selezione delle connessioni più efficaci. Questa è la spiegazione psicobiologica dell'idea, già vista nell'Infant Research, che selezioniamo i circuiti neuronali più funzionali all'ambiente in cui viviamo: questa selezione regola in particolare l'<strong>apprendimento emotivo</strong>, la cui memoria (a differenza della memoria dichiarativa, stabile solo dopo i 3-4 anni) può essere codificata fin dalla nascita.</p>
+
+<h3>Gli ingredienti dei legami emotivi</h3>
+<p>Gli stimoli della relazione con la figura di riferimento comprendono la comunicazione faccia a faccia, le vocalizzazioni, i gesti e il contatto fisico: questi scambi precoci vengono immagazzinati nella conoscenza relazionale implicita, integrata nel legame di attaccamento, che non è quindi solo psicologico ma anche neurobiologico, radicato nel corpo.</p>
+
+<h3>L'attaccamento come regolazione dello stress</h3>
+<p>Il legame di attaccamento è oggi definito soprattutto come una strategia di <strong>regolazione dello stress</strong>: la madre, attraverso il proprio comportamento, regola le variazioni di attivazione fisiologica del bambino, che attraverso l'apprendimento emotivo condizionato seleziona i circuiti neuronali più efficaci per rispondere agli stress dell'ambiente. Per esempio, il modo in cui una madre reagisce al pianto di un neonato (distrarlo, innervosirsi, cullarlo cantando) viene appreso dal bambino come modello di gestione dello stress.</p>
+
+<h3>L'etero-regolazione delle emozioni e gli stimoli stressanti</h3>
+<p>All'inizio la regolazione degli stati di attivazione è esterna, e dipende dalla sensibilità materna (cognizione materna, funzione riflessiva, regolazione delle emozioni). Gli stimoli stressanti per un bambino possono essere dolorosi ma anche semplicemente nuovi: la capacità di tollerare e integrare situazioni nuove è fondamentale per l'adattamento, e si apprende in modo condizionato dal modo in cui chi si prende cura di noi reagisce (per esempio, riprendendo la teoria di Sander, nella fase in cui il bambino prova a mangiare da solo, la risposta materna — permissiva o restrittiva — verrà appresa e riproposta in altre situazioni nuove).</p>
+
+<h3>La regolazione delle emozioni: una sintesi</h3>
+<p>Lo sviluppo psicofisiologico del bambino è un processo di adattamento che avviene attraverso l'auto-regolazione del bambino in un contesto di regolazione interattiva con la madre; queste capacità si organizzano in un modello degli stati affettivi; il sistema di attaccamento è una strategia di comunicazione e gestione delle proprie emozioni, e organizza le modalità di regolazione psicofisiologica dello stress. Questa capacità di adattamento è affidata, nei primi anni di vita, soprattutto ai processi affettivi, prima che i processi cognitivi, con la crescita, si intreccino sempre di più con essi.</p>
+
+<h3>Le emozioni e la bioregolazione</h3>
+<p>Le emozioni, processi adattivi e multi-componenziali attivati da eventi rilevanti per l'individuo, costituiscono oggi il sistema di <strong>bioregolazione</strong> più importante del nostro funzionamento: rispondendo agli stimoli rilevanti, permettono al cervello di adattarsi efficacemente all'ambiente.</p>
+
+<h3>Le emozioni e l'emisfero destro</h3>
+<p>Numerosi studi documentano una dominanza dell'<strong>emisfero destro</strong> per diverse componenti delle emozioni: la comunicazione attraverso i canali mimici e vocali, le componenti vegetative della risposta emozionale, l'esperienza soggettiva delle emozioni e i processi di condizionamento emozionale inconscio — mentre l'emisfero sinistro ha più rilievo nel controllo delle risposte emozionali. Per questo l'apprendimento emotivo è particolarmente legato ai primi anni di vita, quando l'emisfero destro matura più rapidamente del sinistro (responsabile delle capacità verbali) e ha, prima dei 2 anni, un volume maggiore: una crescita fortemente modulata dalle comunicazioni emotive con la figura di attaccamento, e alla base dello sviluppo socio-emozionale.</p>
+
+<h3>La comunicazione dell'emisfero destro: le prove dal neuroimaging</h3>
+<p>Diversi studi supportano questa teoria: bambini di 2 mesi mostrano una maggiore attivazione dell'emisfero destro di fronte a volti femminili; nella comunicazione faccia a faccia, è l'emisfero destro del bambino a processare le informazioni visive e uditive; l'emisfero destro materno si attiva in risposta al pianto del bambino; e coerentemente, la maggior parte delle madri culla il proprio bambino tenendolo dal lato sinistro del corpo, controllato appunto dall'emisfero destro.</p>
+
+<h3>L'apprendimento emotivo dal punto di vista neurobiologico</h3>
+<p>Quando un bambino viene cullato o gli viene cantata una ninna nanna, si rinforzano specifici circuiti neuronali: la presenza ripetuta della madre è alla base del condizionamento che genera l'apprendimento emotivo. Poiché nei primi 2 anni di vita i circuiti limbici dell'emisfero destro attraversano una fase critica di sviluppo, questi apprendimenti si stabilizzano attraverso un processo simile all'imprinting descritto da Lorenz: ciò che si apprende durante la maturazione di queste aree tende a diventare parte stabile della personalità.</p>
+
+<h3>La teoria neurobiologica dell'attaccamento di Allan Schore</h3>
+<p>Secondo <strong>Allan Schore</strong>, in una versione semplificata della sua teoria, un bambino che sviluppa un attaccamento sicuro sviluppa efficacemente l'emisfero destro ed è predisposto a una buona salute mentale, mentre un attaccamento insicuro o traumatico altera lo sviluppo dell'emisfero destro predisponendo alla psicopatologia. In una versione più articolata, è lo sviluppo dei sistemi limbici dell'emisfero destro, guidato dalla relazione con la figura di riferimento nei primi due anni di vita, a determinare questa predisposizione.</p>
+
+<h3>Il modello gerarchico dello sviluppo dei circuiti limbici dell'emisfero destro</h3>
+<p>Alla nascita è attiva soprattutto l'<strong>amigdala</strong>, che regola per esempio il riconoscimento dell'odore materno. Verso le 8 settimane inizia un periodo critico per il <strong>cingolato anteriore</strong>, legato alla regolazione di sorriso, pianto, riconoscimento dei volti e modulazione del Sistema Nervoso Autonomo. Nel corso del primo anno maturano l'<strong>insula</strong> e la <strong>corteccia parietale</strong>, che regolano l'esperienza delle sensazioni corporee e la capacità di distinguere sé stessi dagli altri. Dai 9 mesi ai 2 anni si sviluppa infine la <strong>corteccia orbitofrontale</strong>, che secondo Schore è il correlato biologico del sistema di attaccamento.</p>
+
+<h3>La corteccia orbito-frontale</h3>
+<p>La corteccia orbito-frontale, situata nella superficie inferiore del lobo frontale sopra le orbite oculari, si trova tra il sistema limbico e la corteccia prefrontale, in una posizione che le permette di collegare le due aree; si espande particolarmente nell'emisfero destro, dove è considerata il sistema esecutivo, regolando anche l'asse ipotalamo-ipofisi-surrene collegato alle reazioni da stress.</p>
+
+<h3>La corteccia orbito-frontale: il centro cerebrale del legame di attaccamento?</h3>
+<p>Il suo sviluppo critico, tra i 10-12 mesi e la fine del secondo anno, coincide con il periodo in cui si forma, a livello comportamentale, il sistema di attaccamento. La corteccia orbitofrontale regola l'elaborazione dei volti, le risposte emozionali positive a stimoli tattili, gustativi, olfattivi e musicali, le risposte negative a volti tristi o arrabbiati, la regolazione degli stati di attivazione corporei, e l'anticipazione dei rinforzi positivi o negativi — un aspetto centrale nel sistema di attaccamento, dato che la nostra capacità di prevedere l'ambiente si costruisce proprio sul legame di attaccamento.</p>
+
+<h2>Psicofisiologia del sonno: dai sogni al sonno REM</h2>
+<h3>Il sogno per Sigmund Freud</h3>
+<p>Nel 1900 Freud pubblica "L'interpretazione dei sogni", definendo il sogno come la realizzazione di un desiderio: la soddisfazione allucinatoria di un desiderio infantile rimosso che, attraverso il lavoro onirico, produce un sogno manifesto dietro cui si nasconde un sogno latente. Con Freud, sonno e sogno smettono di essere considerati processi passivi.</p>
+
+<h3>Le idee precedenti a Freud</h3>
+<p>Prima di Freud il sonno era visto come un processo passivo: nel 1912 Coriat lo definiva "uno stato passivo di assoluto riposo del cervello", e nel 1913 Piéron come "uno stato fisiologico periodicamente necessario... caratterizzato da un'interruzione dei complessi rapporti sensoriali e motori che collegano il soggetto con il suo ambiente". Anche nell'arte di fine Ottocento il sonno era raffigurato come una sorta di morte reversibile.</p>
+
+<h3>La scoperta del sonno REM (1953)</h3>
+<p>Nel 1953 <strong>Eugene Aserinsky</strong> e <strong>Nathaniel Kleitman</strong>, osservando il sonno di alcuni bambini, notarono fasi con movimenti oculari rapidi sotto le palpebre e un tracciato EEG desincronizzato, simile a quello della veglia: questa fase, trovata poi anche negli adulti, venne chiamata sonno <strong>REM</strong> (Rapid Eye Movements).</p>
+
+<h3>I due processi che regolano il sonno (Borbély, 1982)</h3>
+<p>Secondo Borbély, il sonno è regolato dal <strong>processo omeostatico</strong> (processo S: il tempo per addormentarsi è inversamente proporzionale alla durata della veglia precedente) e dal <strong>processo circadiano</strong> (processo C, l'orologio biologico, regolato soprattutto dal ciclo luce-buio e da stimoli sociali come l'orario della cena).</p>
+
+<h3>Il processo omeostatico</h3>
+<p>Ogni sistema vivente complesso è auto-correttivo, alla ricerca di un'ottimalità omeostatica. Gli stati di veglia sono regolati da un sistema di cellule e fibre nervose nel tronco encefalico, la <strong>formazione reticolare attivante</strong>, che invia informazioni a talamo e corteccia: la sua inibizione corrisponde al sonno profondo. L'equilibrio sonno-veglia è regolato dall'inibizione reciproca tra il sistema di veglia e il <strong>nucleo preottico ventro-laterale</strong>, considerato oggi l'interruttore che fa passare il cervello dalla veglia al sonno.</p>
+
+<h3>Il processo circadiano</h3>
+<p>Sonno e veglia sono cicli circadiani (dal latino "circa diem", quasi un giorno) con un ritmo di circa 24 ore, regolati dall'orologio biologico, la cui base neurobiologica è il <strong>nucleo ipotalamico sopra-chiasmatico</strong>.</p>
+
+
+<?php
+$article_body = ob_get_clean();
+
+require __DIR__ . '/../includes/layout/layout-article.php';
