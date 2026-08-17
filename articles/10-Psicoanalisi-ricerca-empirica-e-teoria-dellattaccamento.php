@@ -11,10 +11,13 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
-<!-- <h2>Psicoanalisi e psicologia empirica</h2> -->
+<h2>Psicoanalisi e psicologia empirica</h2>
+
+<!--
 <h3>I modelli teorici approfonditi finora</h3>
 <p>Nella prima parte del corso abbiamo approfondito una serie di teorie che caratterizzano la storia della psicoanalisi: la teoria classica di Freud, la teoria kleiniana, le teorie della Scuola Inglese delle Relazioni Oggettuali, la Psicologia dell'Io (a partire dalle proposte di Anna Freud e Heinz Hartmann), la Psicologia dell'identità di Erik Erikson e la Psicologia del Sé di Heinz Kohut, e infine le teorie più moderne che considerano la mente umana come fondamentalmente sociale: la psicoanalisi interpersonale di Sullivan, il modello relazionale di Stephen Mitchell e la teoria intersoggettiva di Stolorow e Atwood.</p>
 <p>Va sottolineato che questo percorso non è esaustivo: non sono state approfondite altre teorie comunque fondamentali nella storia della psicoanalisi, per esempio quelle di Jung, Adler, Ferenczi, o di autori più recenti come Kernberg, Lacan e Bowlby. La scelta è stata fatta per delineare come la teoria psicoanalitica sia cambiata dalle prime proposte di Freud fino alle teorie più condivise nella psicologia dinamica accademica contemporanea.</p>
+-->
 
 <h3>Il declino della psicoanalisi in ambito accademico</h3>
 <p>La storia della psicoanalisi non è cambiata solo a livello concettuale, ma anche nel grado di accettazione in ambito accademico, clinico e sociale. Le teorie freudiane hanno influenzato enormemente la cultura del secolo scorso, e negli Stati Uniti e in Europa il pensiero psicoanalitico ha inizialmente dominato la psicologia accademica e la pratica clinica. Nonostante dopo Freud siano nate numerose scuole e teorie psicoanalitiche, la psicoanalisi contemporanea riceve oggi molto meno spazio nella psicologia accademica e nella pratica clinica rispetto alla psicoanalisi classica. Il tema ha avuto anche una risonanza sociale: nel 2007 un articolo del New York Times, accompagnato dalla vignetta della tipica poltrona di Freud che cade dalla finestra, si interrogava sul perché la teoria di Freud fosse insegnata ampiamente in diverse facoltà universitarie americane, ma sempre meno nelle facoltà di Psicologia.</p>
@@ -74,6 +77,43 @@ ob_start();
 
 <h3>Psicoanalisi e ricerca empirica: conclusioni</h3>
 <p>Nella psicologia la ricerca empirica non può sempre essere condotta con facilità, e i criteri di validità restano spesso un problema da affrontare e discutere nell'interpretazione dei risultati. Ciò nonostante, la verifica empirica delle ipotesi teoriche è considerata sempre più indispensabile in ambito accademico e clinico: questo significa che le università scelgono quali teorie insegnare anche in base alla loro verificabilità empirica, e che uno stato può decidere di finanziare solo le psicoterapie basate su prove di efficacia. È in questo senso che va compresa l'affermazione di Otto Kernberg: la psicoanalisi ha bisogno di una linea di ricerca solida per sopravvivere come scienza e come pratica clinica. Si tratta, in fondo, anche di una questione politica, sociale ed economica.</p>
+
+<h2>Psicoanalisi e psicologia empirica (riassunto)</h2>
+
+<p>Dopo Freud sono nate tante teorie psicoanalitiche diverse. Ognuna però è rimasta isolata, senza confrontarsi con le altre. Per questo la psicoanalisi ha perso spazio nelle università, rispetto al passato. Nasce quindi una domanda: come si fa a capire quale teoria è migliore?</p>
+
+<ul>
+    <li><strong>Due idee diverse</strong>: per Stephen Mitchell basta il giudizio degli psicoterapeuti, maturato nel lavoro clinico di ogni giorno. Peter Fonagy non è d'accordo: con questo metodo le teorie continuano solo ad aumentare, invece di migliorare. Otto Kernberg è d'accordo con Fonagy: la psicoanalisi ha bisogno di una vera ricerca scientifica, per sopravvivere come scienza e come professione.</li>
+    <li><strong>Una critica al metodo scientifico</strong>: alcuni psicoanalisti pensano che la ricerca scientifica sia troppo semplice per studiare una cosa complessa come la mente. Kernberg risponde che ogni singolo studio è solo un piccolo pezzo di un puzzle. Serve tempo, e serve mettere insieme tanti studi, per costruire un quadro completo.</li>
+    <li><strong>Un passo verso la scienza</strong>: con la teoria dell'attaccamento di Bowlby e Ainsworth, la psicoanalisi inizia ad avvicinarsi alla ricerca scientifica.</li>
+</ul>
+
+<p>Come funziona una ricerca scientifica? Segue sempre cinque passaggi:</p>
+
+<ol>
+    <li>si fa un'<strong>ipotesi</strong>, cioè un'idea da verificare;</li>
+    <li>si sceglie il metodo;</li>
+    <li>si raccolgono i dati;</li>
+    <li>si analizzano i dati;</li>
+    <li>si interpretano i risultati, confrontandoli con altri studi.</li>
+</ol>
+
+<p>Ecco alcuni concetti importanti, spiegati in modo semplice:</p>
+
+<ul>
+    <li>Una <strong>teoria</strong> è un'idea su come funzionano le cose. Per essere scientifica, deve poter essere dimostrata falsa: è il <strong>principio di falsificabilità</strong>, proposto da Karl Popper. Nessuna teoria è sicura al cento per cento. Ma più studi la confermano, più possiamo fidarci. Per questo si dice che la scienza è un <strong>processo cumulativo</strong>: cresce poco alla volta, un passo dopo l'altro.</li>
+    <li>Per studiare un'idea, bisogna renderla concreta. Si passa da una <strong>definizione teorica astratta</strong> (l'idea generale) a una <strong>definizione operazionale</strong> (qualcosa che si può vedere e misurare davvero).</li>
+    <li>Ci sono tre modi per fare ricerca:
+        <ul>
+            <li><strong>ricerca osservazionale</strong>: si guarda cosa succede, senza intervenire. Se ci sono più osservatori, si controlla anche quanto sono d'accordo tra loro (l'<strong>indice di accordo</strong>);</li>
+            <li><strong>ricerca correlazionale</strong>: si vede se due cose vanno insieme, ma non si può dire quale delle due causi l'altra;</li>
+            <li><strong>ricerca sperimentale</strong>: le persone vengono divise in due gruppi, scelti a caso (<strong>assegnazione casuale</strong>). Si cambia una cosa sola, chiamata <strong>variabile indipendente</strong>, e si osserva l'effetto su un'altra, chiamata <strong>variabile dipendente</strong>.</li>
+        </ul>
+    </li>
+    <li>La <strong>validità</strong> dice quanto possiamo fidarci dei risultati di uno studio. La <strong>validità interna</strong> dice se il risultato dipende davvero dalla causa che abbiamo studiato. La <strong>validità esterna</strong> dice se quel risultato vale anche in altre situazioni, non solo in quella studiata.</li>
+</ul>
+
+<p>In conclusione: oggi si chiede sempre di più alla psicoanalisi di basarsi su dati scientifici. Questo conta molto, perché decide quali teorie si insegnano nelle università e quali terapie vengono pagate. È quindi anche una questione economica e politica, non solo scientifica.</p>
 
 <h2>La teoria dell'attaccamento</h2>
 <h3>La società psicoanalitica britannica negli anni '40</h3>
