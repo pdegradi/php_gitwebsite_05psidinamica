@@ -13,7 +13,7 @@ ob_start();
 
 <h2>La diagnosi in psicologia dinamica</h2>
 <h3>La diagnosi psicologica</h3>
-<p>Secondo la definizione di Dazzi, Lingiardi e Gazzillo (2009), valida per la psicologia e la psicoterapia in generale: "per diagnosi psicologica intendiamo sia il processo per mezzo del quale cerchiamo di conoscere il funzionamento psichico di un determinato soggetto, sia la denominazione, basata su una terminologia condivisa dalla comunità scientifica, che attribuiamo a tale funzionamento".</p>
+<p>Secondo la definizione di <strong>Dazzi</strong>, <strong>Lingiardi</strong> e <strong>Gazzillo</strong> (2009), valida per la psicologia e la psicoterapia in generale: "per <strong>diagnosi psicologica</strong> intendiamo sia il processo per mezzo del quale cerchiamo di conoscere il funzionamento psichico di un determinato soggetto, sia la denominazione, basata su una terminologia condivisa dalla comunità scientifica, che attribuiamo a tale funzionamento".</p>
 
 <h3>Cosa deve identificare la diagnosi?</h3>
 <p>Da un lato, la diagnosi deve identificare gli aspetti specifici e individuali di quel particolare paziente, unico nella propria esperienza di vita; dall'altro, deve definire ciò che quel paziente ha in comune con altri, sottolineando gli aspetti generalizzabili dei sintomi. Senza denominatori comuni tra i profili psicologici, sarebbe impossibile comunicare tra clinici o basarsi su protocolli di trattamento già validati in letteratura.</p>
@@ -49,7 +49,7 @@ ob_start();
 <p>Proposta da <strong>Drew Westen</strong> e <strong>Jonathan Shedler</strong>, la SWAP valuta tratti e stili di personalità, sani e patologici, in adulti e adolescenti, partendo da una concezione dimensionale della personalità che va integrata con una concezione categoriale per formulare una diagnosi appropriata.</p>
 
 <h3>La diagnosi funzionale: quattro domini</h3>
-<p>La diagnosi di personalità si basa su quattro domini funzionali: le motivazioni, gli standard ideali, i valori morali, le paure e i conflitti; gli stili cognitivi, le strategie di regolazione delle emozioni e i meccanismi di difesa; le rappresentazioni di sé, degli altri e delle relazioni tra i due; e il modo in cui questi domini si sono sviluppati nel corso della vita.</p>
+<p>La diagnosi di personalità si basa su <strong>quattro domini funzionali</strong>: le motivazioni, gli standard ideali, i valori morali, le paure e i conflitti; gli stili cognitivi, le strategie di regolazione delle emozioni e i meccanismi di difesa; le rappresentazioni di sé, degli altri e delle relazioni tra i due; e il modo in cui questi domini si sono sviluppati nel corso della vita.</p>
 
 <h3>La procedura SWAP</h3>
 <p>Attraverso l'esplorazione sistematica di questi domini, la SWAP fornisce una formulazione del caso condivisibile e generalizzabile, avvicinando clinica e ricerca. Segue una procedura <strong>Q-sort</strong>: il clinico, dopo 3-5 colloqui di valutazione, distribuisce 200 affermazioni descrittive (SWAP-200) su una scala da 0 (non descrive il paziente) a 7 (lo descrive totalmente), seguendo però una <strong>distribuzione fissa</strong> del numero di item per ciascun punteggio, in modo da ridurre al minimo le differenze soggettive tra valutatori.</p>
@@ -64,7 +64,7 @@ ob_start();
 <p>Sulla base di analisi condotte su un ampio campione, Westen e Shedler (2007) hanno proposto una nosografia empiricamente derivata in quattro cluster: <strong>interiorizzante</strong> (ansioso, depressivo, dipendente, schizoide), <strong>esteriorizzante</strong> (psicopatico, paranoide, schizoide), <strong>borderline</strong> (emotivamente disregolato, istrionico/impulsivo) e uno stile di <strong>alto funzionamento</strong>.</p>
 
 <h2>Il Manuale Diagnostico Psicodinamico (PDM Task Force, 2006)</h2>
-<p>Il <strong>PDM</strong> mira a integrare le informazioni del DSM, combinando gli aspetti idiografici (individuali, dimensionali) con quelli nomotetici (generalizzabili). È opera dell'"Alliance of Psychoanalytic Organizations" (che riunisce le principali società psicoanalitiche americane e internazionali), e tra i suoi autori figurano Kernberg, Westen e Fonagy.</p>
+<p>Il <strong>PDM</strong> mira a integrare le informazioni del DSM, combinando gli aspetti <strong>idiografici</strong> (individuali, dimensionali) con quelli <strong>nomotetici</strong> (generalizzabili). È opera dell'"Alliance of Psychoanalytic Organizations" (che riunisce le principali società psicoanalitiche americane e internazionali), e tra i suoi autori figurano Kernberg, Westen e Fonagy.</p>
 
 <h3>Le caratteristiche principali del PDM</h3>
 <p>Aggiunge gli aspetti dimensionali della psicopatologia a quelli categoriali del DSM; dà per scontata sia la comorbilità sia l'eterogeneità interna ai disturbi; considera l'esperienza soggettiva del paziente, identificando la struttura di personalità come il contesto in cui sintomi e segni assumono senso; sottolinea la dimensione evolutiva della diagnosi (una persona può cambiare profilo nel tempo); e pone in rilievo le dimensioni implicite e inferenziali del funzionamento psichico.</p>

@@ -51,7 +51,7 @@ ob_start();
 <h2>I meccanismi di difesa e l’importanza dell’IO</h2>
 
 <p>Freud era partito dal modello topico della mente (conscio, preconscio, inconscio) 
-    per arrivare poi al modello strutturale, composto da tre istanze che agiscono soprattutto 
+    per arrivare poi al <strong>modello strutturale</strong>, composto da tre istanze che agiscono soprattutto 
     a livello inconscio: Es, Io e Super-Io. Su questa base, Anna Freud si chiede quale 
     sia davvero l’obiettivo della cura.</p>
 
@@ -116,7 +116,7 @@ ob_start();
     del bambino in un adulto civile, adattato alla società.</p>
 
 <p>I compiti regolatori dell’Io permettono lo sviluppo di capacità cognitive complesse 
-    (il cosiddetto processo secondario, cioè il pensiero logico e razionale, distinto dal 
+    (il cosiddetto <strong>processo secondario</strong>, cioè il pensiero logico e razionale, distinto dal 
     processo primario che è invece il pensiero pulsionale e irrazionale tipico dell’inconscio). 
     Difese funzionali e forti danno quindi una personalità ben definita — costituiscono il 
     carattere — e favoriscono anche lo sviluppo di intelligenza, memoria e attenzione.</p>
@@ -228,7 +228,7 @@ ob_start();
 <p>Per Freud, l’Io si sviluppa attraverso il principio di realtà, cioè a causa delle frustrazioni 
     imposte dall’Es (l’istanza pulsionale inconscia). Hartmann amplia questa visione: lo sviluppo 
     dell’Io non deriva solo dal conflitto con le pulsioni e il Super-Io. Alcune funzioni dell’Io — 
-    dette apparati di autonomia primaria, come memoria, linguaggio e percezione — sono presenti 
+    dette <strong>apparati di autonomia primaria</strong>, come memoria, linguaggio e percezione — sono presenti 
     fin dalla nascita e si sviluppano in modo autonomo, non per effetto delle frustrazioni.</p>
 
 <p>Lo sviluppo dell’Io è quindi determinato da:</p>
@@ -248,11 +248,11 @@ ob_start();
     associando la fame all’allattamento, prova inizialmente a soddisfare il bisogno “allucinando” 
     il seno; scoprendo che questo non basta a placare la fame, sperimenta una prima frustrazione 
     da cui nasce il principio di realtà. Questo si rafforza con lo sviluppo, dà forma a Io e Super-Io, 
-    e orienta la libido verso l’esterno (libido oggettuale, cioè rivolta verso altre persone/oggetti).</p>
+    e orienta la libido verso l’esterno (<strong>libido oggettuale</strong>, cioè rivolta verso altre persone/oggetti).</p>
 
 <p>Per Hartmann, invece, le potenzialità dell’Io (linguaggio, pensiero, percezione, comprensione 
     dell’oggetto) sono già presenti alla nascita e si sviluppano da sole, purché l’ambiente sia 
-    “mediamente prevedibile” (cioè sufficientemente stabile e normale). Alla nascita, Es, Io e 
+    “<strong>mediamente prevedibile</strong>” (cioè sufficientemente stabile e normale). Alla nascita, Es, Io e 
     Super-Io non sono ancora distinti tra loro: la psiche è immatura e indifferenziata.</p>
 
 <h2>L’adattamento</h2>
@@ -299,11 +299,11 @@ ob_start();
 
 <h2>La fusione psicologica</h2>
 
-<p>Spitz introduce il concetto di fusione psicologica: alla nascita il neonato non riesce a 
+<p>Spitz introduce il concetto di <strong>fusione psicologica</strong>: alla nascita il neonato non riesce a 
     interpretare da solo la grande quantità di stimoli che riceve. 
     La “madre sufficientemente buona” (concetto di Winnicott: una madre non perfetta, ma capace 
     di rispondere in modo adeguato ai bisogni del bambino) svolge, nel primo anno di vita, 
-    la funzione di “Io ausiliario”: comprende empaticamente i bisogni del bambino e regola 
+    la funzione di “<strong>Io ausiliario</strong>”: comprende empaticamente i bisogni del bambino e regola 
     la sua esperienza, calmandolo e aiutandolo a organizzare gli stimoli (funzione di madre-ambiente). 
     Attraverso questa relazione a due (diadica), il bambino sviluppa progressivamente la 
     capacità dell’Io di gestire e regolare da solo la propria esperienza.</p>
@@ -316,7 +316,7 @@ ob_start();
     per costruire legami emotivi con le altre persone. Queste capacità permettono lo sviluppo 
     della cura per l’altro e di relazioni profonde e soddisfacenti.</p>
 
-<p>Avere un oggetto libidico (cioè una persona verso cui è diretto un attaccamento stabile e selettivo) 
+<p>Avere un <strong>oggetto libidico</strong> (cioè una persona verso cui è diretto un attaccamento stabile e selettivo)
     è una conquista evolutiva, non qualcosa con cui nasciamo già dotati. Rappresenta una capacità 
     psicologica complessa: quella di mantenere un attaccamento personale e selettivo anche quando 
     la persona non è fisicamente presente. Come mostrato dallo studio di Spitz sui bambini in 
@@ -359,7 +359,7 @@ psichici individuati da Spitz sono:</p>
     (un disturbo nella formazione del Sé).</p>
 
 <p>Nei primi anni di vita la madre funziona come uno “specchio” per il bambino, che inizialmente 
-    non distingue ancora il Sé dall’altro. Questa funzione di rispecchiamento è cruciale: se 
+    non distingue ancora il Sé dall’altro. Questa <strong>funzione di rispecchiamento</strong> è cruciale: se 
     la madre è imprevedibile, instabile, ansiosa o ostile, il bambino tende a interpretare 
     questi atteggiamenti come proprie caratteristiche di personalità (per esempio: se la 
     madre è ansiosa, il bambino tenderà a percepire se stesso come ansioso), compromettendo 
@@ -367,14 +367,14 @@ psichici individuati da Spitz sono:</p>
 
 <h2>Lo sviluppo: Il processo di separazione e individuazione</h2>
 
-<p>Per Mahler, lo sviluppo procede attraverso un processo di separazione e individuazione, in queste fasi:</p>
+<p>Per Mahler, lo sviluppo procede attraverso un <strong>processo di separazione e individuazione</strong>, in queste fasi:</p>
 
 <ul>
-    <li>nei primissimi mesi di vita, il bambino attraversa uno stadio di narcisismo primario assoluto: 
+    <li>nei primissimi mesi di vita, il bambino attraversa uno stadio di <strong>narcisismo primario assoluto</strong>:
         non è consapevole delle cure materne, è completamente immerso in sé stesso (prevale il sonno 
         sulla veglia, e le pulsioni sono rivolte verso l’interno);</li>
     <li>dalla fine del secondo mese, compare una prima vaga consapevolezza dell’oggetto che soddisfa 
-        i bisogni: è la fase della simbiosi normale;</li>
+        i bisogni: è la <strong>fase della simbiosi normale</strong>;</li>
     <li>segue la fase più importante per la salute mentale, quella della separazione e individuazione 
         (circa dai 4 mesi ai 3 anni), articolata in momenti successivi:
         <ul>

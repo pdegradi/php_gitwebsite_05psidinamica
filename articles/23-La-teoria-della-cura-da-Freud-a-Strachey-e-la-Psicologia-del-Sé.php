@@ -48,7 +48,7 @@ ob_start();
 <p>Le teorie contemporanee considerano il contro-transfert un processo chiave (mentre la teoria classica lo voleva nascosto): riflette le difficoltà interpersonali ripetitive del paziente. Per esempio, un paziente che teme l'abbandono può, con il proprio stile relazionale appreso dai genitori, provocare proprio nel terapeuta i sentimenti (per esempio di noia o pesantezza) che lo spingono ad allontanarsi — mostrando come le modalità relazionali di uno influenzino quelle dell'altro.</p>
 
 <h3>Le rivelazioni contro-transferali selettive</h3>
-<p>Nessun approccio suggerisce che il terapeuta debba parlare continuamente di come si sente; alcuni autori propongono però l'utilità di rivelazioni contro-transferali selezionate con giudizio, nei momenti critici del percorso, dichiarate e discusse con il paziente: sottolineando la soggettività delle proprie reazioni, il terapeuta offre al paziente una modalità relazionale attiva e cooperativa, di lavoro comune.</p>
+<p>Nessun approccio suggerisce che il terapeuta debba parlare continuamente di come si sente; alcuni autori propongono però l'utilità di <strong>rivelazioni contro-transferali</strong> selezionate con giudizio, nei momenti critici del percorso, dichiarate e discusse con il paziente: sottolineando la soggettività delle proprie reazioni, il terapeuta offre al paziente una modalità relazionale attiva e cooperativa, di lavoro comune.</p>
 
 <h3>L'azione terapeutica nella psicoanalisi contemporanea</h3>
 <p>La psicoanalisi contemporanea affianca agli interventi che favoriscono l'insight (come nella psicoanalisi classica) interventi che favoriscono un nuovo tipo di relazione: non si ritiene più che un solo metodo funzioni sempre, e si promuove una maggiore flessibilità della tecnica in base al singolo paziente.</p>
@@ -57,7 +57,7 @@ ob_start();
 <p>La relazione nel processo analitico permette: un'<strong>esperienza emozionale correttiva</strong>, che attiva nuove strategie interattive più adattive; l'<strong>interiorizzazione di una funzione</strong> non ancora usata dal paziente (per esempio imparare ad auto-consolarsi grazie alle capacità consolatorie del terapeuta); e l'<strong>interiorizzazione degli atteggiamenti affettivi</strong> del terapeuta, che attenua la severità del Super-io del paziente.</p>
 
 <h3>Le strategie secondarie</h3>
-<p>La terapia psicoanalitica contemporanea condivide anche con altri approcci alcune strategie secondarie: l'esplorazione delle convinzioni disfunzionali (simile alla psicoeducazione cognitiva), la promozione di strategie di risoluzione dei problemi, la tecnica dell'esposizione (tipica delle terapie comportamentali) e la self-disclosure (le rivelazioni personali del terapeuta).</p>
+<p>La terapia psicoanalitica contemporanea condivide anche con altri approcci alcune <strong>strategie secondarie</strong>: l'esplorazione delle convinzioni disfunzionali (simile alla psicoeducazione cognitiva), la promozione di strategie di risoluzione dei problemi, la tecnica dell'esposizione (tipica delle terapie comportamentali) e la self-disclosure (le rivelazioni personali del terapeuta).</p>
 
 <h3>La teoria della cura contemporanea: una sintesi</h3>
 <p>Si basa su una relazione bipersonale (la costruzione di un nuovo modo di relazionarsi è centrale); è focalizzata sul presente (paziente e terapeuta sullo stesso piano, non più su livelli diversi); ed è definita attiva, una coppia al lavoro, in cui l'analista partecipa attivamente al percorso di cambiamento insieme al paziente.</p>
