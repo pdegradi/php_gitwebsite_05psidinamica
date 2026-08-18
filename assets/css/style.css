@@ -162,6 +162,25 @@ table td {border: solid 1px var(--border); padding: var(--padding-table);}
    size than the surrounding text. */
 .math-block {margin: 1.75rem 0;padding: 1.25rem 1.1rem;background: var(--bg-elevated);border: 1px solid var(--border);border-radius: 6px;font-size: 1.15em;text-align: center;overflow-x: auto;}
 
+/* ---------- Summary blocks (riassunto) ---------- */
+
+/* Callout wrapping a "(riassunto)" section: a subtle accent-tinted
+   panel (no border/rule) so it reads as a distinct, skimmable block
+   while scrolling. */
+.summary-block {
+    margin: 2.5rem 0;
+    padding: 1.5rem 1.75rem;
+    background: color-mix(in srgb, var(--accent) 10%, var(--bg-elevated));
+    border-radius: 10px;
+}
+.summary-block h2 {
+    margin: 0 0 1rem;
+    padding-top: 0;
+    border-top: none;
+    font-size: var(--font-size-h3);
+}
+.summary-block > :last-child {margin-bottom: 0;}
+
 /* ---------- Gallery ---------- */
 
 .gallery {display: flex;flex-wrap: wrap;gap: 0.6rem;margin: 1.5rem 0;}
