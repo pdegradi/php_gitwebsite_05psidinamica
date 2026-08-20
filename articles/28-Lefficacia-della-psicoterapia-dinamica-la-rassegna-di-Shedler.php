@@ -11,57 +11,166 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
+
+
+
+
+
 <h2>La crisi della psicoanalisi</h2>
-<p>Con la diffusione di numerosi modelli teorici in psicologia dinamica, è sorta una domanda difficile da risolvere con il semplice criterio "se la terapia funziona, la teoria è valida" (ogni approccio, infatti, portava risultati che sembravano confermare proprio quella teoria): quale modello funziona davvero, e quale trattamento merita di essere sostenuto? A questo si è aggiunto un declino della professione, con una diminuzione delle richieste di trattamento psicoanalitico, mentre in ambito accademico si affermava sempre più l'idea di una scienza fondata sulla verifica empirica e sulla multidisciplinarietà, che ha progressivamente messo la psicoanalisi ai margini.</p>
+<p>Con la diffusione di numerosi modelli teorici in psicologia dinamica, è sorta una domanda difficile da risolvere con il semplice
+criterio "se la terapia funziona, la teoria è valida" (ogni approccio, infatti, portava risultati che sembravano confermare proprio
+quella teoria): quale modello funziona davvero, e quale trattamento merita di essere sostenuto? A questo si è aggiunto un declino
+della professione, con una diminuzione delle richieste di trattamento psicoanalitico, mentre in ambito accademico si affermava
+sempre più l'idea di una scienza fondata sulla verifica empirica e sulla multidisciplinarietà, che ha progressivamente messo la
+psicoanalisi ai margini.</p>
+
+
 
 <h3>Le due posizioni</h3>
-<p>Di fronte a questa crisi si sono formate due posizioni: quella, vicina a Freud (e alla psicoanalisi francese), secondo cui la ricerca empirica è inutile e persino dannosa, perché farebbe perdere alla disciplina la propria specificità; e quella, sostenuta dalla International Psychoanalytical Association (IPA) britannica, secondo cui la ricerca empirica è l'unica via per uscire dalla crisi, chiarire quali concetti tra le tante teorie funzionino davvero e scartare quelli che non funzionano.</p>
+<p>Di fronte a questa crisi si sono formate due posizioni: quella, vicina a Freud (e alla psicoanalisi francese), secondo cui la
+ricerca empirica è inutile e persino dannosa, perché farebbe perdere alla disciplina la propria specificità; e quella, sostenuta
+dalla International Psychoanalytical Association (IPA) britannica, secondo cui la ricerca empirica è l'unica via per uscire dalla
+crisi, chiarire quali concetti tra le tante teorie funzionino davvero e scartare quelli che non funzionano.</p>
+
+
 
 <h3>Le decisioni dell'IPA</h3>
-<p>A partire dal 1990 l'IPA ha preso posizioni ufficiali in questo senso: nel 1991 la prima conferenza annuale sulla ricerca in psicoterapia dinamica, nel 1996 la prima scuola estiva per la formazione di ricercatori, nel 1997 un comitato di consulenza per la ricerca.</p>
+<p>A partire dal 1990 l'IPA ha preso posizioni ufficiali in questo senso: nel 1991 la prima conferenza annuale sulla ricerca in
+psicoterapia dinamica, nel 1996 la prima scuola estiva per la formazione di ricercatori, nel 1997 un comitato di consulenza per la
+ricerca.</p>
+
+
+
+
+
 
 <h2>La ricerca sull'efficacia della psicoterapia in generale</h2>
-<p>Nel 2013, sulla rivista <em>Psychotherapy</em>, l'American Psychological Association ha pubblicato un articolo che dichiarava dimostrata l'efficacia della psicoterapia in generale, indipendentemente dall'orientamento: un effetto medio-alto (attorno a 0,80), con circa l'80% di pazienti che migliora rispetto a chi non fa terapia.</p>
+<p>Nel 2013, sulla rivista <em>Psychotherapy</em>, l'American Psychological Association ha pubblicato un articolo che dichiarava
+dimostrata l'efficacia della psicoterapia in generale, indipendentemente dall'orientamento: un effetto medio-alto (attorno a 0,80),
+con circa l'80% di pazienti che migliora rispetto a chi non fa terapia.</p>
+
+
 
 <h3>La metanalisi di Smith, Glass e Miller (1980)</h3>
-<p>La prima metanalisi sull'efficacia della psicoterapia in generale, condotta da questi autori nel 1980 su 475 studi di orientamenti e diagnosi diverse, trovò un effetto di 0,85 (per riferimento: un effetto attorno a 0,2 è considerato basso, a 0,5 moderato, a 0,8 alto) — un risultato confermato da metanalisi successive.</p>
+<p>La prima metanalisi sull'efficacia della psicoterapia in generale, condotta da questi autori nel 1980 su 475 studi di orientamenti
+e diagnosi diverse, trovò un effetto di 0,85 (per riferimento: un effetto attorno a 0,2 è considerato basso, a 0,5 moderato, a 0,8
+alto) — un risultato confermato da metanalisi successive.</p>
+
+
+
+
+
 
 <h2>La ricerca in psicoterapia dinamica (Shedler, 2010)</h2>
-<p><strong>Jonathan Shedler</strong>, nell'articolo "The Efficacy of Psychodynamic Psychotherapy" (American Psychologist, 2010), affronta la diffusa convinzione che la psicoterapia dinamica manchi di evidenza empirica: secondo l'autore, il problema non è l'assenza di ricerca, ma la sua scarsa diffusione in ambito accademico, dovuta al conflitto interno tra chi sostiene e chi osteggia la ricerca empirica in psicoanalisi.</p>
+<p><strong>Jonathan Shedler</strong>, nell'articolo "The Efficacy of Psychodynamic Psychotherapy" (American Psychologist, 2010),
+affronta la diffusa convinzione che la psicoterapia dinamica manchi di evidenza empirica: secondo l'autore, il problema non è
+l'assenza di ricerca, ma la sua scarsa diffusione in ambito accademico, dovuta al conflitto interno tra chi sostiene e chi osteggia
+la ricerca empirica in psicoanalisi.</p>
+
+
 
 <h3>Che cos'è la psicoterapia dinamica?</h3>
-<p>Nella ricerca, la psicoterapia dinamica è definita come l'insieme dei trattamenti basati su concetti e metodi psicoanalitici, ma di durata inferiore alla psicoanalisi classica (in genere una o due sedute a settimana), con l'obiettivo di esplorare aspetti di sé non del tutto conosciuti dal paziente, in particolare quelli che emergono nella relazione terapeutica (transfert e contro-transfert): non si limita ai sintomi, ma mira a una conoscenza di sé più ampia.</p>
+<p>Nella ricerca, la psicoterapia dinamica è definita come l'insieme dei trattamenti basati su concetti e metodi psicoanalitici, ma di
+durata inferiore alla psicoanalisi classica (in genere una o due sedute a settimana), con l'obiettivo di esplorare aspetti di sé
+non del tutto conosciuti dal paziente, in particolare quelli che emergono nella relazione terapeutica (transfert e
+contro-transfert): non si limita ai sintomi, ma mira a una conoscenza di sé più ampia.</p>
+
+
 
 <h3>Le caratteristiche della psicoterapia dinamica</h3>
-<p>Si riconosce per: <strong>il focus sulle esperienze affettive e la promozione dell'insight emozionale</strong>; <strong>l'esplorazione dei tentativi di evitare pensieri e sentimenti</strong> (i meccanismi di difesa); <strong>l'identificazione di temi e comportamenti ricorrenti</strong>; <strong>l'importanza del passato e della sua relazione con il presente</strong>; <strong>il focus sulle relazioni interpersonali e sulla relazione terapeutica stessa</strong>; e <strong>l'esplorazione della vita fantasmatica del paziente</strong>, in sedute non strutturate in cui si incoraggia a parlare liberamente.</p>
+<p>Si riconosce per: <strong>il focus sulle esperienze affettive e la promozione dell'insight emozionale</strong>;
+<strong>l'esplorazione dei tentativi di evitare pensieri e sentimenti</strong> (i meccanismi di difesa); <strong>l'identificazione
+di temi e comportamenti ricorrenti</strong>; <strong>l'importanza del passato e della sua relazione con il presente</strong>;
+<strong>il focus sulle relazioni interpersonali e sulla relazione terapeutica stessa</strong>; e <strong>l'esplorazione della vita
+fantasmatica del paziente</strong>, in sedute non strutturate in cui si incoraggia a parlare liberamente.</p>
+
+
 
 <h3>Le principali metanalisi citate da Shedler</h3>
-<p>La metanalisi di <strong>Abbass, Hancock, Henderson e Kisely (2006)</strong>, pubblicata nella rigorosa Cochrane Library, riassume 23 studi randomizzati controllati (1431 pazienti, terapie psicodinamiche brevi, meno di 40 ore): l'effetto sul miglioramento generale dei sintomi è di 0,97 a fine trattamento e addirittura 1,51 dopo 9 mesi o più — con effetti simili, da moderati ad alti, anche su sintomi somatici, ansia e depressione.</p>
-<p>La metanalisi di <strong>Leichsenring, Rabung e Leibing (2004)</strong>, su Archives of General Psychiatry, su 17 studi randomizzati (624 pazienti in terapia psicodinamica di circa 21 sedute, confrontati con 894 in altra terapia psicologica o 115 in lista d'attesa) trova un effetto di 1,39 subito dopo la terapia e 1,57 dopo circa 13 mesi.</p>
-<p>La metanalisi di <strong>Abbass, Kisely e Kroenke (2009)</strong> su terapie brevi per disturbi somatici trova effetti da moderati ad alti: 0,69 per i sintomi psichiatrici generali, 0,97 per quelli depressivi, 0,74 per l'ansia, 0,59 per i sintomi somatici.</p>
-<p>La metanalisi di <strong>Leichsenring e Leibing (2003)</strong>, sull'American Journal of Psychiatry, confronta 15 studi di terapia psicodinamica (durata media 37 settimane, effetto 1,46) con 11 studi di terapia cognitivo-comportamentale (durata media 16 settimane, effetto 1,00) per i disturbi di personalità: i due risultati non sono stati confrontati direttamente tra loro, ma entrambi i trattamenti risultano efficaci — un pattern che ha portato alcuni autori a ipotizzare un ruolo centrale dei fattori aspecifici comuni alle terapie.</p>
-<p>La metanalisi di <strong>Leichsenring e Rabung (2008)</strong>, sul Journal of the American Medical Association, valuta la terapia psicodinamica a lungo termine (oltre un anno o 50 sedute) per disturbi mentali complessi (multipli, cronici o di personalità), trovando un effetto complessivo di 0,96.</p>
+<p>La metanalisi di <strong>Abbass, Hancock, Henderson e Kisely (2006)</strong>, pubblicata nella rigorosa Cochrane Library, riassume
+23 studi randomizzati controllati (1431 pazienti, terapie psicodinamiche brevi, meno di 40 ore): l'effetto sul miglioramento
+generale dei sintomi è di 0,97 a fine trattamento e addirittura 1,51 dopo 9 mesi o più — con effetti simili, da moderati ad alti,
+anche su sintomi somatici, ansia e depressione.</p>
+<p>La metanalisi di <strong>Leichsenring, Rabung e Leibing (2004)</strong>, su Archives of General Psychiatry, su 17 studi
+randomizzati (624 pazienti in terapia psicodinamica di circa 21 sedute, confrontati con 894 in altra terapia psicologica o 115 in
+lista d'attesa) trova un effetto di 1,39 subito dopo la terapia e 1,57 dopo circa 13 mesi.</p>
+<p>La metanalisi di <strong>Abbass, Kisely e Kroenke (2009)</strong> su terapie brevi per disturbi somatici trova effetti da moderati
+ad alti: 0,69 per i sintomi psichiatrici generali, 0,97 per quelli depressivi, 0,74 per l'ansia, 0,59 per i sintomi somatici.</p>
+<p>La metanalisi di <strong>Leichsenring e Leibing (2003)</strong>, sull'American Journal of Psychiatry, confronta 15 studi di terapia
+psicodinamica (durata media 37 settimane, effetto 1,46) con 11 studi di terapia cognitivo-comportamentale (durata media 16
+settimane, effetto 1,00) per i disturbi di personalità: i due risultati non sono stati confrontati direttamente tra loro, ma
+entrambi i trattamenti risultano efficaci — un pattern che ha portato alcuni autori a ipotizzare un ruolo centrale dei fattori
+aspecifici comuni alle terapie.</p>
+<p>La metanalisi di <strong>Leichsenring e Rabung (2008)</strong>, sul Journal of the American Medical Association, valuta la terapia
+psicodinamica a lungo termine (oltre un anno o 50 sedute) per disturbi mentali complessi (multipli, cronici o di personalità),
+trovando un effetto complessivo di 0,96.</p>
+
+
 
 <h3>Un confronto (Shedler, 2010)</h3>
-<p>Shedler mette a confronto, in una tabella, gli effetti trovati per la psicoterapia in generale, per la terapia cognitivo-comportamentale (da moderati ad alti per diversi disturbi), per gli psicofarmaci nella depressione (effetti più deboli) e per la psicoterapia psicodinamica (da moderati a molto alti, confermati da diverse metanalisi). Va però considerato con cautela: uno studio farmacologico è più facile da standardizzare (dosi, tempi, principio attivo) di uno psicoterapeutico, il che rende più complessa l'interpretazione di cosa esattamente, nella psicoterapia, produca l'effetto osservato.</p>
+<p>Shedler mette a confronto, in una tabella, gli effetti trovati per la psicoterapia in generale, per la terapia
+cognitivo-comportamentale (da moderati ad alti per diversi disturbi), per gli psicofarmaci nella depressione (effetti più deboli) e
+per la psicoterapia psicodinamica (da moderati a molto alti, confermati da diverse metanalisi). Va però considerato con cautela:
+uno studio farmacologico è più facile da standardizzare (dosi, tempi, principio attivo) di uno psicoterapeutico, il che rende più
+complessa l'interpretazione di cosa esattamente, nella psicoterapia, produca l'effetto osservato.</p>
+
+
 
 <h3>L'efficacia per specifici disturbi</h3>
-<p>La terapia psicodinamica ha mostrato efficacia per la <strong>depressione</strong> (anche post-partum, in pazienti oncologici, in versione online e in combinazione con la farmacoterapia, utile per favorire l'aderenza al trattamento), per il <strong>disturbo da lutto complicato</strong> (superiore sia alla lista d'attesa sia a un supporto generico), e per i <strong>disturbi d'ansia</strong> (fobia sociale, disturbo d'ansia generalizzato, attacchi di panico, con risultati non diversi dalla terapia cognitivo-comportamentale). Per il <strong>disturbo post-traumatico da stress</strong> le prime evidenze sono positive ma poco consistenti, per campioni troppo piccoli; per il <strong>disturbo ossessivo-compulsivo</strong> uno studio non ha trovato differenze rispetto alla sola farmacoterapia. È risultata efficace anche per il <strong>disturbo da sintomi somatici</strong> e per i <strong>disturbi di personalità</strong> (supportata da numerosi studi e due metanalisi), con risultati preliminari anche per i <strong>disturbi alimentari</strong> (studi però con bassa potenza statistica) e per la <strong>dipendenza da oppiacei</strong> (mentre per la dipendenza da cocaina la semplice consulenza individuale è risultata più efficace sia della terapia psicodinamica sia di quella cognitivo-comportamentale). Indicazioni preliminari esistono anche per l'uso eccessivo di servizi psichiatrici e per la terapia di coppia (senza differenze rispetto alla terapia comportamentale).</p>
+<p>La terapia psicodinamica ha mostrato efficacia per la <strong>depressione</strong> (anche post-partum, in pazienti oncologici, in
+versione online e in combinazione con la farmacoterapia, utile per favorire l'aderenza al trattamento), per il <strong>disturbo da
+lutto complicato</strong> (superiore sia alla lista d'attesa sia a un supporto generico), e per i <strong>disturbi d'ansia</strong>
+(fobia sociale, disturbo d'ansia generalizzato, attacchi di panico, con risultati non diversi dalla terapia
+cognitivo-comportamentale). Per il <strong>disturbo post-traumatico da stress</strong> le prime evidenze sono positive ma poco
+consistenti, per campioni troppo piccoli; per il <strong>disturbo ossessivo-compulsivo</strong> uno studio non ha trovato
+differenze rispetto alla sola farmacoterapia. È risultata efficace anche per il <strong>disturbo da sintomi somatici</strong> e per
+i <strong>disturbi di personalità</strong> (supportata da numerosi studi e due metanalisi), con risultati preliminari anche per i
+<strong>disturbi alimentari</strong> (studi però con bassa potenza statistica) e per la <strong>dipendenza da oppiacei</strong>
+(mentre per la dipendenza da cocaina la semplice consulenza individuale è risultata più efficace sia della terapia psicodinamica
+sia di quella cognitivo-comportamentale). Indicazioni preliminari esistono anche per l'uso eccessivo di servizi psichiatrici e per
+la terapia di coppia (senza differenze rispetto alla terapia comportamentale).</p>
+
+
 
 <h3>Alcune osservazioni conclusive</h3>
-<p>Le terapie psicodinamiche valutate empiricamente sono quelle rese sistematiche da un manuale, che fornisce linee guida senza per questo eliminare flessibilità e autonomia del terapeuta. La ricerca futura dovrebbe approfondire l'efficacia per PTSD, disturbo ossessivo-compulsivo, disturbi alimentari e da dipendenza. Nel complesso, la qualità della ricerca sulla psicoterapia dinamica non è inferiore a quella sulla terapia cognitivo-comportamentale.</p>
+<p>Le terapie psicodinamiche valutate empiricamente sono quelle rese sistematiche da un manuale, che fornisce linee guida senza per
+questo eliminare flessibilità e autonomia del terapeuta. La ricerca futura dovrebbe approfondire l'efficacia per PTSD, disturbo
+ossessivo-compulsivo, disturbi alimentari e da dipendenza. Nel complesso, la qualità della ricerca sulla psicoterapia dinamica non
+è inferiore a quella sulla terapia cognitivo-comportamentale.</p>
+
+
 
 <h3>Fattori specifici e fattori aspecifici</h3>
-<p>Poiché diversi orientamenti terapeutici mostrano tutti effetti importanti, senza chiare prove che uno sia superiore agli altri, alcuni autori hanno ipotizzato un ruolo centrale dei <strong>fattori aspecifici</strong> (per esempio l'alleanza terapeutica, l'empatia) rispetto a quelli specifici di ciascun orientamento. L'interpretazione più probabile, però, è che fattori specifici e aspecifici si rinforzino reciprocamente, e che sia la loro interazione a spiegare gran parte del cambiamento — un tema da approfondire per costruire trattamenti sempre più mirati, specialmente per i pazienti più complessi.</p>
+<p>Poiché diversi orientamenti terapeutici mostrano tutti effetti importanti, senza chiare prove che uno sia superiore agli altri,
+alcuni autori hanno ipotizzato un ruolo centrale dei <strong>fattori aspecifici</strong> (per esempio l'alleanza terapeutica,
+l'empatia) rispetto a quelli specifici di ciascun orientamento. L'interpretazione più probabile, però, è che fattori specifici e
+aspecifici si rinforzino reciprocamente, e che sia la loro interazione a spiegare gran parte del cambiamento — un tema da
+approfondire per costruire trattamenti sempre più mirati, specialmente per i pazienti più complessi.</p>
+
+
+
+
+
 
 <h2>Le rassegne sistematiche</h2>
-<p>Tutte le rassegne condividono l'obiettivo di descrivere la letteratura esistente su un argomento; all'interno di questo insieme più ampio si distinguono le <strong>rassegne sistematiche</strong> (che a loro volta includono le metanalisi, con la loro componente statistica).</p>
+<p>Tutte le rassegne condividono l'obiettivo di descrivere la letteratura esistente su un argomento; all'interno di questo insieme più
+ampio si distinguono le <strong>rassegne sistematiche</strong> (che a loro volta includono le metanalisi, con la loro componente
+statistica).</p>
+
+
 
 <h3>Le rassegne narrative</h3>
-<p>Una rassegna narrativa (per esempio un capitolo di libro, o il resoconto di un esperto) non punta a coprire il 100% della letteratura pubblicata, ma a mettere in evidenza i punti principali e la storia di un tema, da un punto di vista parzialmente oggettivo ma anche influenzato dagli interessi personali dell'autore: è quindi descrittiva, priva di una strategia di ricerca sistematica.</p>
+<p>Una rassegna narrativa (per esempio un capitolo di libro, o il resoconto di un esperto) non punta a coprire il 100% della
+letteratura pubblicata, ma a mettere in evidenza i punti principali e la storia di un tema, da un punto di vista parzialmente
+oggettivo ma anche influenzato dagli interessi personali dell'autore: è quindi descrittiva, priva di una strategia di ricerca
+sistematica.</p>
+
+
 
 <h3>Le rassegne sistematiche</h3>
-<p>Si distinguono per l'uso di metodi pre-pianificati e documentati in un protocollo, applicati in modo rigoroso per ridurre al minimo gli errori sistematici e casuali: definendo a priori i metodi di ricerca, selezione, estrazione e valutazione critica dei dati, permettono anche ad altri ricercatori di aggiornare la rassegna in futuro, seguendo lo stesso protocollo documentato.</p>
+<p>Si distinguono per l'uso di metodi pre-pianificati e documentati in un protocollo, applicati in modo rigoroso per ridurre al minimo
+gli errori sistematici e casuali: definendo a priori i metodi di ricerca, selezione, estrazione e valutazione critica dei dati,
+permettono anche ad altri ricercatori di aggiornare la rassegna in futuro, seguendo lo stesso protocollo documentato.</p>
 
 
 <?php

@@ -32,36 +32,45 @@ avvicinando così la teoria alla psicologia empirica.</p>
 
 
 <h3>La rassegna del 1954 e la definizione di deprivazione materna</h3>
-<p>Per <strong>deprivazione materna</strong> si intende "l'interazione carente tra il bambino e la figura materna" (figura di allevamento principale, 
+<p>Per <strong>deprivazione materna</strong> si intende "l'interazione carente tra il bambino e la figura materna" (figura di
+allevamento principale,
 che nella maggior parte dei casi è la madre biologica). La deprivazione materna era stata studiata in tre situazioni distinte:</p>
 <ul>
 <li><strong>carenza materna</strong>: insufficienza delle interazioni, quando la madre per qualunque motivo non è presente;</li>
-<li><strong>distorsione materna</strong>: distorsione qualitativa delle interazioni, indipendentemente dal loro numero (per esempio nel caso di madri con depressione severa, dove l'interazione non è scarsa ma è alterata nella qualità);</li>
-<li><strong>discontinuità materna</strong>: discontinuità relazionale dovuta alla separazione, quando un legame di attaccamento già formato viene interrotto.</li>
+<li><strong>distorsione materna</strong>: distorsione qualitativa delle interazioni, indipendentemente dal loro numero (per esempio nel
+caso di madri con depressione severa, dove l'interazione non è scarsa ma è alterata nella qualità);</li>
+<li><strong>discontinuità materna</strong>: discontinuità relazionale dovuta alla separazione, quando un legame di attaccamento già
+formato viene interrotto.</li>
 </ul>
 
 
 <h3>I tre metodi di ricerca sulla deprivazione materna</h3>
-<p>Nel 1954, <strong>Ainsworth</strong> e <strong>Bowlby</strong> esaminarono insieme la letteratura empirica sugli effetti della deprivazione materna, 
+<p>Nel 1954, <strong>Ainsworth</strong> e <strong>Bowlby</strong> esaminarono insieme la letteratura empirica sugli effetti della
+deprivazione materna,
 distinguendo 3 tre metodi di ricerca sulla deprivazione materna</p>
 <ul>
-    <li><strong>studio retrospettivo dei casi</strong>: si studia un gruppo di pazienti con la stessa sindrome. Il loro passato viene analizzato per identificare i fattori 
+    <li><strong>studio retrospettivo dei casi</strong>: si studia un gruppo di pazienti con la stessa sindrome. Il loro passato viene
+analizzato per identificare i fattori
     associati e formulare ipotesi di causa-effetto</li>
-    <li><strong>follow-up retrospettivo</strong>: segue la logica opposta. Si osserva un gruppo di bambini che ha vissuto la stessa esperienza precoce 
+    <li><strong>follow-up retrospettivo</strong>: segue la logica opposta. Si osserva un gruppo di bambini che ha vissuto la stessa
+esperienza precoce
     (per esempio una separazione dalla madre) e li si segue nel tempo, per vedere se sviluppano un determinato disturbo. 
     Questo metodo ha però dei limiti: richiede tempi molto lunghi, ed è difficile controllare l'omogeneità del campione</li>
-    <li><strong>osservazione diretta</strong>: consiste nell'osservare i bambini nel corso stesso dell'esperienza deprivante (per esempio in istituti o ospedali), 
+    <li><strong>osservazione diretta</strong>: consiste nell'osservare i bambini nel corso stesso dell'esperienza deprivante (per esempio
+in istituti o ospedali),
     permettendo di studiarne la risposta iniziale e l'adattamento</li>
 </ul>
 
 
 
 <h3>Le fasi di risposta alla separazione</h3>
-<p>Usando l'osservazione diretta <strong>Robertson</strong> e collaboratori osservarono con questo metodo bambini tra 1 e 4 anni separati dalla madre in istituti, 
+<p>Usando l'osservazione diretta <strong>Robertson</strong> e collaboratori osservarono con questo metodo bambini tra 1 e 4 anni
+separati dalla madre in istituti,
 concentrandosi sulle conseguenze della rottura di relazioni già consolidate.</p>
 <p>Robertson osservò che la separazione dalla madre procedeva attraverso tre fasi tipiche:</p>
 <ul>
-    <li>una <strong>fase di protesta</strong>, in cui il bambino piange e manifesta una profonda angoscia, cercando di ritrovare la madre</li>
+    <li>una <strong>fase di protesta</strong>, in cui il bambino piange e manifesta una profonda angoscia, cercando di ritrovare la
+madre</li>
     <li>una <strong>fase di disperazione</strong>, in cui il bambino, sempre più sfiduciato, rinuncia progressivamente a cercarla</li>
     <li>una <strong>fase di distacco</strong>, in cui appare più tranquillo e accetta le cure delle figure sostitutive</li>
 </ul>
@@ -71,24 +80,35 @@ concentrandosi sulle conseguenze della rottura di relazioni già consolidate.</p
 
 
 <h3>Le conclusioni della rassegna del 1954</h3>
-<p>Bowlby e Ainsworth conclusero che la deprivazione materna nella prima e seconda infanzia ha conseguenze dannose per lo sviluppo del bambino, 
+<p>Bowlby e Ainsworth conclusero che la deprivazione materna nella prima e seconda infanzia ha conseguenze dannose per lo sviluppo del
+bambino,
     ma con effetti molto variabili per tipo, durata e gravità.</p>
 
 
 
 <h3>Lo studio sui Ganda in Uganda (1963)</h3>
 <p>Le prime ricerche sul campo di Ainsworth furono condotte in Uganda. 
-L'obiettivo era osservare il tipo di attaccamento madre-bambino nella popolazione locale e le risposte dei bambini alla separazione dalla madre, in uno studio di circa 7 mesi.</p>
+L'obiettivo era osservare il tipo di attaccamento madre-bambino nella popolazione locale e le risposte dei bambini alla separazione
+dalla madre, in uno studio di circa 7 mesi.</p>
 
-<p>Il campione era composto da 28 bambini appartenenti a famiglie di religioni diverse e situazioni coniugali diverse: un campione volutamente vario. 
-Per 7 mesi furono condotte visite sistematiche di circa due ore, durante le quali la ricercatrice intervistava le madri e osservava il comportamento dei bambini con una scheda strutturata.</p>
+<p>Il campione era composto da 28 bambini appartenenti a famiglie di religioni diverse e situazioni coniugali diverse: un campione
+volutamente vario.
+Per 7 mesi furono condotte visite sistematiche di circa due ore, durante le quali la ricercatrice intervistava le madri e osservava
+il comportamento dei bambini con una scheda strutturata.</p>
 
 
 <?php /*
-<p>Ainsworth definì l'<strong>attaccamento</strong> come la capacità del bambino di distinguere la madre dalle altre persone, e di risponderle in modo differenziato. 
+<p>Ainsworth definì l'<strong>attaccamento</strong> come la capacità del bambino di distinguere la madre dalle altre persone, e di
+risponderle in modo differenziato.
 una definizione che lo studio le permise poi di tradurre in comportamenti osservabili, come modelli di attaccamento. 
-Tra questi: il <strong>pianto differenziato</strong> (solo all'uscita della madre, non di altri adulti), il <strong>sorriso differenziato</strong>, la <strong>vocalizzazione differenziata</strong> e l'<strong>orientamento visuomotorio</strong> verso la madre; inoltre il seguirla, l'arrampicarsi su di lei, il nascondere il viso nel suo grembo, l'esplorare l'ambiente allontanandosi solo per brevi distanze per poi tornare da lei, l'aggrapparsi, l'accoglierla alzando le braccia o battendo le mani.</p>
-<p>Proprio dall'osservazione di questo andare e tornare durante l'esplorazione, Ainsworth individuò il contributo centrale della sua ricerca alla teoria dell'attaccamento: il concetto di <strong>base sicura</strong>. Ciò che definisce una relazione di attaccamento è la capacità del bambino di esplorare l'ambiente facendo ritorno dalla madre quando si allontana troppo, usandola come un porto sicuro a cui tornare sempre.</p>
+Tra questi: il <strong>pianto differenziato</strong> (solo all'uscita della madre, non di altri adulti), il <strong>sorriso
+differenziato</strong>, la <strong>vocalizzazione differenziata</strong> e l'<strong>orientamento visuomotorio</strong> verso la
+madre; inoltre il seguirla, l'arrampicarsi su di lei, il nascondere il viso nel suo grembo, l'esplorare l'ambiente allontanandosi
+solo per brevi distanze per poi tornare da lei, l'aggrapparsi, l'accoglierla alzando le braccia o battendo le mani.</p>
+<p>Proprio dall'osservazione di questo andare e tornare durante l'esplorazione, Ainsworth individuò il contributo centrale della sua
+ricerca alla teoria dell'attaccamento: il concetto di <strong>base sicura</strong>. Ciò che definisce una relazione di attaccamento
+è la capacità del bambino di esplorare l'ambiente facendo ritorno dalla madre quando si allontana troppo, usandola come un porto
+sicuro a cui tornare sempre.</p>
 */ ?>
 <p>Ainsworth definì l'<strong>attaccamento</strong> come la capacità del bambino di distinguere la madre dalle altre 
 persone e di risponderle in modo diverso rispetto a chiunque altro. A livello pratico nello studio Ainsworth osservò i seguenti 
@@ -103,26 +123,32 @@ comportamenti osservabili, che funzionano come modelli di attaccamento:</p>
 </ul>
 
 <p>Proprio dall'osservazione di questo andare e tornare durante l'esplorazione nasce il concetto di <strong>base sicura</strong>. 
-Ciò che definisce una relazione di attaccamento, per Ainsworth, è la capacità del bambino di esplorare l'ambiente sapendo di poter tornare dalla 
+Ciò che definisce una relazione di attaccamento, per Ainsworth, è la capacità del bambino di esplorare l'ambiente sapendo di poter
+tornare dalla
 madre quando si allontana troppo — usandola come un porto sicuro a cui fare sempre ritorno.</p>
 
 
 <p>Le osservazioni di Ainsworth mostrarono:</p>
 <ul>
-    <li>nel <strong>primo trimestre</strong> i primi comportamenti di attaccamento compaiono, ancora pochi e poco definiti, tra le 8 e le 12 settimane</li>
-    <li>nel <strong>secondo trimestre</strong> il bambino mostra una preferenza per la madre attraverso sorriso e vocalizzazione differenziati</li>
+    <li>nel <strong>primo trimestre</strong> i primi comportamenti di attaccamento compaiono, ancora pochi e poco definiti, tra le 8 e le
+12 settimane</li>
+    <li>nel <strong>secondo trimestre</strong> il bambino mostra una preferenza per la madre attraverso sorriso e vocalizzazione
+differenziati</li>
     <li>nel <strong>terzo trimestre</strong>, dai 6 mesi, inizia a seguirla quando esce dalla stanza</li>
-    <li>nel <strong>quarto trimestre</strong> piange meno all'uscita della madre, mostrando i primi segni di fiducia nel poterla usare come base sicura, mentre compare tipicamente la paura degli estranei</li>
+    <li>nel <strong>quarto trimestre</strong> piange meno all'uscita della madre, mostrando i primi segni di fiducia nel poterla usare come
+base sicura, mentre compare tipicamente la paura degli estranei</li>
 </ul>    
 
 
 <p>Nello studio sui Ganda, Ainsworth classificò</p>
 <ul>
     <li>16 bambini con <strong>attaccamento sicuro</strong> (pianto meno frequente)</li>
-    <li>7 con <strong>attaccamento insicuro</strong> (pianto frequente, comportamento capriccioso, scarso uso della madre come base sicura)</li>
+    <li>7 con <strong>attaccamento insicuro</strong> (pianto frequente, comportamento capriccioso, scarso uso della madre come base
+sicura)</li>
     <li>5 come <strong>non attaccati</strong>, privi di un modello di attaccamento riconoscibile</li>
 </ul>    
-<p>Contrariamente all'idea diffusa all'epoca che il bambino andasse lasciato piangere per non viziarlo, Ainsworth osservò che una risposta materna pronta e 
+<p>Contrariamente all'idea diffusa all'epoca che il bambino andasse lasciato piangere per non viziarlo, Ainsworth osservò che una
+risposta materna pronta e
 adeguata era associata a un bambino che piange meno e sviluppa più facilmente un attaccamento sicuro.</p>
 <p>I fattori associati a un attaccamento sicuro risultarono essere:</p>
 <ul>
@@ -132,12 +158,14 @@ adeguata era associata a un bambino che piange meno e sviluppa più facilmente u
     <li>la capacità e motivazione della madre a fornire informazioni sul proprio bambino</li>
     <li>l'atteggiamento positivo della madre verso l'allattamento al seno</li>
 </ul>    
-<p>Non risultarono invece associati alla sicurezza dell'attaccamento né la presenza di più caregiver, né la modalità di allattamento (al seno o con il biberon).</p>
+<p>Non risultarono invece associati alla sicurezza dell'attaccamento né la presenza di più caregiver, né la modalità di allattamento
+(al seno o con il biberon).</p>
 
 
 
 <h3>La Strange Situation</h3>
-<p>Tornata dall'Uganda, Ainsworth mise a punto una procedura di laboratorio in grado di valutare lo stile di attaccamento del bambino: la <strong>Strange Situation</strong>.</p>
+<p>Tornata dall'Uganda, Ainsworth mise a punto una procedura di laboratorio in grado di valutare lo stile di attaccamento del bambino:
+la <strong>Strange Situation</strong>.</p>
 <p>La procedura prevede due stanze (una per l'esperimento, una per l'osservazione) e più osservatori con compiti diversi.</p> 
 <p>La Strange Situation si articola in otto episodi: </p>
 <ol>
@@ -150,7 +178,8 @@ adeguata era associata a un bambino che piange meno e sviluppa più facilmente u
     <li>l'estranea rientra</li>
     <li>la madre rientra e si ricongiunge con il bambino</li>
 </ol>
-<p>Le variabili osservate comprendono il comportamento esplorativo, l'orientamento visivo, il pianto, la risposta all'uscita e al ritorno della madre, 
+<p>Le variabili osservate comprendono il comportamento esplorativo, l'orientamento visivo, il pianto, la risposta all'uscita e al
+ritorno della madre,
     la risposta all'ingresso dell'estranea e la risposta a essere presi in braccio o adagiati a terra.</p>
 
 <p>I bambini furono classificati in tre gruppi:</p>
@@ -173,7 +202,8 @@ adeguata era associata a un bambino che piange meno e sviluppa più facilmente u
     <li>la libertà di esplorare e imparare</li>
     <li>il piacere reciproco che madre e bambino ricavano dai loro scambi</li>
 </ul>
-<p>La funzione più importante dell'attaccamento resta la capacità del bambino di usare la figura di allevamento come base sicura per esplorare il mondo.</p>
+<p>La funzione più importante dell'attaccamento resta la capacità del bambino di usare la figura di allevamento come base sicura per
+esplorare il mondo.</p>
 
 <p>Bowlby e Ainsworth ritenevano che la diffusione delle responsabilità di cura tra più adulti non fosse del tutto auspicabile: 
 la figura materna principale può ricevere aiuto, ma deve restare unica e avere un ruolo prevalente rispetto alle altre figure di cura.</p>
@@ -184,7 +214,8 @@ la figura materna principale può ricevere aiuto, ma deve restare unica e avere 
 
 
 <h2>La ricerca contemporanea sull'attaccamento</h2>
-<p>La teoria dell'attaccamento sostiene che i <strong>comportamenti genitoriali</strong> attivano il sistema di attaccamento innato in modi diversi: 
+<p>La teoria dell'attaccamento sostiene che i <strong>comportamenti genitoriali</strong> attivano il sistema di attaccamento innato in
+modi diversi:
 alcuni comportamenti promuovono uno stile di attaccamento sicuro, altri facilitano l'instaurarsi di un attaccamento insicuro.</p>
 
 <p>Lo stile di attaccamento diventa parte della personalità attraverso la formazione dei MOI (modelli operativi interni), 

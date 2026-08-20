@@ -11,77 +11,208 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
+
+
+
+
+
 <h2>L'Infant Research: i cinque principi in dettaglio</h2>
-<p>Lo sviluppo del Sé, secondo l'Infant Research, è un processo <strong>intersoggettivo</strong>, cioè un processo che avviene tra due organismi, tra due individui (come per la teoria intersoggettiva).</p>
+<p>Lo sviluppo del Sé, secondo l'Infant Research, è un processo <strong>intersoggettivo</strong>, cioè un processo che avviene tra due
+organismi, tra due individui (come per la teoria intersoggettiva).</p>
+
+
 
 <h3>Primo principio: il rifiuto della centralità della teoria psicoanalitica</h3>
-<p>Per i maggiori esponenti dell'<strong>Infant Research</strong> non si può condurre un'osservazione partendo dall'idea che la teoria psicoanalitica sia l'unica chiave di interpretazione dei dati: questo perché l'Infant Research adotta una prospettiva empirica, che significa mettere tutto in discussione (richiamando ancora la frase di Bertolt Brecht: "rimetteremo tutto, tutto in discussione... a passo di lumaca"). L'Infant Observation, al contrario, nasce come metodo clinico basato sull'idea che l'osservazione della fase preverbale potesse validare le ipotesi psicoanalitiche derivate dal metodo ricostruttivo: un metodo che quindi non considera altre possibili interpretazioni dello sviluppo infantile, perché è costruito sulla stessa teoria che dovrebbe verificare. Anna Freud, esprimendo bene questa impostazione, scriveva di essere "influenzata dalla viva impressione dell'enorme vantaggio del metodo analitico su tutti gli altri metodi di osservazione", con "un certo senso di superiorità" verso gli altri modi di accedere alla psiche del bambino. Proprio per questo, come già visto, la <strong>circolarità tra procedura e teoria</strong> dell'Infant Observation la rende, secondo il principio di falsificabilità di Popper, un metodo poco scientifico: l'obiettivo della ricerca dovrebbe essere mettere alla prova una teoria, non confermarla.</p>
+<p>Per i maggiori esponenti dell'<strong>Infant Research</strong> non si può condurre un'osservazione partendo dall'idea che la teoria
+psicoanalitica sia l'unica chiave di interpretazione dei dati: questo perché l'Infant Research adotta una prospettiva empirica, che
+significa mettere tutto in discussione (richiamando ancora la frase di Bertolt Brecht: "rimetteremo tutto, tutto in discussione...
+a passo di lumaca"). L'Infant Observation, al contrario, nasce come metodo clinico basato sull'idea che l'osservazione della fase
+preverbale potesse validare le ipotesi psicoanalitiche derivate dal metodo ricostruttivo: un metodo che quindi non considera altre
+possibili interpretazioni dello sviluppo infantile, perché è costruito sulla stessa teoria che dovrebbe verificare. Anna Freud,
+esprimendo bene questa impostazione, scriveva di essere "influenzata dalla viva impressione dell'enorme vantaggio del metodo
+analitico su tutti gli altri metodi di osservazione", con "un certo senso di superiorità" verso gli altri modi di accedere alla
+psiche del bambino. Proprio per questo, come già visto, la <strong>circolarità tra procedura e teoria</strong> dell'Infant
+Observation la rende, secondo il principio di falsificabilità di Popper, un metodo poco scientifico: l'obiettivo della ricerca
+dovrebbe essere mettere alla prova una teoria, non confermarla.</p>
+
+
 
 <h3>Secondo principio: l'approccio multidisciplinare</h3>
-<p>Se la teoria psicoanalitica non è l'unica prospettiva valida, ne consegue che chi studia la prima infanzia deve adottare un <strong>approccio multidisciplinare</strong>, arricchendo il quadro teorico con gli apporti di altri campi (psichiatria, neuroscienze, biologia, genetica): solo una prospettiva multidimensionale può davvero far progredire la conoscenza.</p>
+<p>Se la teoria psicoanalitica non è l'unica prospettiva valida, ne consegue che chi studia la prima infanzia deve adottare un
+<strong>approccio multidisciplinare</strong>, arricchendo il quadro teorico con gli apporti di altri campi (psichiatria,
+neuroscienze, biologia, genetica): solo una prospettiva multidimensionale può davvero far progredire la conoscenza.</p>
+
+
 
 <h3>Terzo principio: il bambino come organismo attivo</h3>
-<p>Per l'Infant Research il bambino è un <strong>organismo attivo</strong>, dotato fin dalla nascita di capacità di riconoscimento e differenziazione degli stimoli: la sua mente distingue precocemente il sé dall'altro e forma aspettative (la <strong>memoria implicita</strong>) che orientano l'attenzione verso l'ambiente. Il bambino è inoltre predisposto all'interazione con il mondo umano fin dalla nascita, con abilità che promuovono lo scambio affettivo con il genitore. Questo si oppone direttamente all'idea, tipica della psicoanalisi classica, di uno stato iniziale indifferenziato tra bambino e madre: secondo l'Infant Research non nasciamo "tabula rasa", ma con una serie di capacità socio-affettive e relazionali già pronte all'uso.</p>
+<p>Per l'Infant Research il bambino è un <strong>organismo attivo</strong>, dotato fin dalla nascita di capacità di riconoscimento e
+differenziazione degli stimoli: la sua mente distingue precocemente il sé dall'altro e forma aspettative (la <strong>memoria
+implicita</strong>) che orientano l'attenzione verso l'ambiente. Il bambino è inoltre predisposto all'interazione con il mondo
+umano fin dalla nascita, con abilità che promuovono lo scambio affettivo con il genitore. Questo si oppone direttamente all'idea,
+tipica della psicoanalisi classica, di uno stato iniziale indifferenziato tra bambino e madre: secondo l'Infant Research non
+nasciamo "tabula rasa", ma con una serie di capacità socio-affettive e relazionali già pronte all'uso.</p>
+
+
 
 <h3>Quarto principio: lo sviluppo come costruzione continua</h3>
-<p>L'Infant Research critica le teorie che descrivono lo sviluppo come una serie di fasi o tappe (per esempio la teoria psicosessuale di Freud, o le posizioni schizoparanoide e depressiva di Melanie Klein), proponendo invece un <strong>modello di costruzione continua</strong>: una progressione di cambiamenti evolutivi, nei primi tre anni di vita, che riorganizzano verso una maggiore complessità le caratteristiche biologiche, cognitive, affettive e sociali dell'individuo, in base alla maturazione del sistema nervoso. Questi cambiamenti compaiono in momenti sensibili precoci, ma non vengono mai sostituiti: continuano a operare per tutta la vita, in modo simile a quanto già sostenuto da Winnicott e da Erik Erikson sulle fasi dello sviluppo dell'Io. Le teorie, anche quando propongono metodi nuovi, non nascono mai dal nulla, ma si costruiscono sulla conoscenza già accumulata.</p>
+<p>L'Infant Research critica le teorie che descrivono lo sviluppo come una serie di fasi o tappe (per esempio la teoria psicosessuale
+di Freud, o le posizioni schizoparanoide e depressiva di Melanie Klein), proponendo invece un <strong>modello di costruzione
+continua</strong>: una progressione di cambiamenti evolutivi, nei primi tre anni di vita, che riorganizzano verso una maggiore
+complessità le caratteristiche biologiche, cognitive, affettive e sociali dell'individuo, in base alla maturazione del sistema
+nervoso. Questi cambiamenti compaiono in momenti sensibili precoci, ma non vengono mai sostituiti: continuano a operare per tutta
+la vita, in modo simile a quanto già sostenuto da Winnicott e da Erik Erikson sulle fasi dello sviluppo dell'Io. Le teorie, anche
+quando propongono metodi nuovi, non nascono mai dal nulla, ma si costruiscono sulla conoscenza già accumulata.</p>
+
+
 
 <h3>Quinto principio: lo sviluppo del Sé come processo bipersonale</h3>
-<p>Il modo in cui gestiamo i cambiamenti evolutivi dipende dalla capacità di auto-regolazione del bambino, ma anche dalle abilità che maturiamo nell'interazione con la madre o con la figura principale di accudimento. Lo sviluppo del Sé corrisponde quindi a un modello organizzativo degli affetti che si forma in un sistema interattivo bipersonale (qui ritroviamo il modello intersoggettivo di Stolorow e Atwood), in cui il genitore ha il ruolo di modulatore degli stati affettivi del bambino: la regolazione affettiva diventa così un fattore chiave nelle differenze individuali di personalità e nella capacità di reagire allo stress. Lo sviluppo del Sé è quindi un equilibrio delicato tra capacità auto-regolatorie innate e capacità etero-regolatorie apprese nella relazione con l'adulto.</p>
+<p>Il modo in cui gestiamo i cambiamenti evolutivi dipende dalla capacità di auto-regolazione del bambino, ma anche dalle abilità che
+maturiamo nell'interazione con la madre o con la figura principale di accudimento. Lo sviluppo del Sé corrisponde quindi a un
+modello organizzativo degli affetti che si forma in un sistema interattivo bipersonale (qui ritroviamo il modello intersoggettivo
+di Stolorow e Atwood), in cui il genitore ha il ruolo di modulatore degli stati affettivi del bambino: la regolazione affettiva
+diventa così un fattore chiave nelle differenze individuali di personalità e nella capacità di reagire allo stress. Lo sviluppo del
+Sé è quindi un equilibrio delicato tra capacità auto-regolatorie innate e capacità etero-regolatorie apprese nella relazione con
+l'adulto.</p>
+
+
+
+
+
 
 <h2>Louis Sander e la prospettiva sistemica</h2>
-<p>Il padre dell'Infant Research è considerato <strong>Louis Sander</strong>, che introduce la <strong>prospettiva sistemica</strong>: il sistema di vita (l'organismo, l'individuo che nasce e si sviluppa) si definisce attraverso l'interazione di due processi primari. L'<strong>attività primaria</strong> è l'impeto interno, la motivazione innata del bambino ad adattarsi e integrarsi con l'ambiente (una motivazione simile a quella descritta dalla teoria dell'attaccamento), mentre l'<strong>organizzazione</strong> è la capacità del sistema di autoregolarsi per restare coerente e unito, costruita reciprocamente dal bambino e da chi si prende cura di lui.</p>
+<p>Il padre dell'Infant Research è considerato <strong>Louis Sander</strong>, che introduce la <strong>prospettiva sistemica</strong>:
+il sistema di vita (l'organismo, l'individuo che nasce e si sviluppa) si definisce attraverso l'interazione di due processi
+primari. L'<strong>attività primaria</strong> è l'impeto interno, la motivazione innata del bambino ad adattarsi e integrarsi con
+l'ambiente (una motivazione simile a quella descritta dalla teoria dell'attaccamento), mentre l'<strong>organizzazione</strong> è
+la capacità del sistema di autoregolarsi per restare coerente e unito, costruita reciprocamente dal bambino e da chi si prende cura
+di lui.</p>
+
+
 
 <h3>Il senso di sé come agente</h3>
-<p>L'obiettivo dello sviluppo è l'adattamento, cioè costruire un senso di sé come agente differenziato, valido e competente nel proprio contesto di vita: un obiettivo che Sander riconosce debitore sia della Psicologia del Sé di Kohut, sia dell'idea di Winnicott del vero Sé come centro creativo della propria esperienza.</p>
+<p>L'obiettivo dello sviluppo è l'adattamento, cioè costruire un senso di sé come agente differenziato, valido e competente nel
+proprio contesto di vita: un obiettivo che Sander riconosce debitore sia della Psicologia del Sé di Kohut, sia dell'idea di
+Winnicott del vero Sé come centro creativo della propria esperienza.</p>
+
+
 
 <h3>La sequenza dei compiti adattivi: da 0 a 13 mesi</h3>
 <ul>
-<li><strong>0-3 mesi, "regolazione iniziale"</strong>: madre e bambino devono trovare un ritmo condiviso per il sonno e l'alimentazione, che dipende sia dalle capacità regolatorie innate del bambino sia dalle abitudini proposte dalla madre;</li>
-<li><strong>4-6 mesi, "scambio reciproco"</strong>: nelle attività di routine, madre e bambino iniziano a coordinarsi a vicenda (per esempio la madre risponde sorridendo ai primi sorrisi del bambino);</li>
-<li><strong>7-9 mesi, "presa d'iniziativa"</strong>: attraverso l'indipendenza motoria (per esempio il tentativo di mangiare da solo), il bambino inizia a prendere l'iniziativa nell'interazione, e la reazione della madre a questi tentativi contribuisce a formare la personalità del bambino;</li>
-<li><strong>10-13 mesi, "focalizzazione"</strong>: il bambino impara a valutare la disponibilità della madre in base alle risposte ottenute ai propri comportamenti.</li>
+<li><strong>0-3 mesi, "regolazione iniziale"</strong>: madre e bambino devono trovare un ritmo condiviso per il sonno e
+l'alimentazione, che dipende sia dalle capacità regolatorie innate del bambino sia dalle abitudini proposte dalla madre;</li>
+<li><strong>4-6 mesi, "scambio reciproco"</strong>: nelle attività di routine, madre e bambino iniziano a coordinarsi a vicenda (per
+esempio la madre risponde sorridendo ai primi sorrisi del bambino);</li>
+<li><strong>7-9 mesi, "presa d'iniziativa"</strong>: attraverso l'indipendenza motoria (per esempio il tentativo di mangiare da solo),
+il bambino inizia a prendere l'iniziativa nell'interazione, e la reazione della madre a questi tentativi contribuisce a formare la
+personalità del bambino;</li>
+<li><strong>10-13 mesi, "focalizzazione"</strong>: il bambino impara a valutare la disponibilità della madre in base alle risposte
+ottenute ai propri comportamenti.</li>
 </ul>
+
+
 
 <h3>La sequenza dei compiti adattivi: da 14 a 36 mesi</h3>
 <ul>
-<li><strong>14-18 mesi, "affermazione"</strong>: il bambino gestisce la propria assertività nell'interazione con la madre, promuovendo comportamenti volontari diretti a un obiettivo;</li>
-<li><strong>18-36 mesi, "riconoscimento" e "inversione"</strong>: il riconoscimento è la capacità del bambino di comunicare a parole i propri stati interni, che la madre può validare o meno; l'inversione riguarda i comportamenti con cui il bambino rompe intenzionalmente l'armonia dell'interazione — il modo in cui la madre reagisce a questi episodi (per esempio interpretandoli come un capriccio isolato, oppure generalizzandoli a un tratto stabile del carattere del bambino) contribuisce a definirne la personalità.</li>
+<li><strong>14-18 mesi, "affermazione"</strong>: il bambino gestisce la propria assertività nell'interazione con la madre, promuovendo
+comportamenti volontari diretti a un obiettivo;</li>
+<li><strong>18-36 mesi, "riconoscimento" e "inversione"</strong>: il riconoscimento è la capacità del bambino di comunicare a parole i
+propri stati interni, che la madre può validare o meno; l'inversione riguarda i comportamenti con cui il bambino rompe
+intenzionalmente l'armonia dell'interazione — il modo in cui la madre reagisce a questi episodi (per esempio interpretandoli come
+un capriccio isolato, oppure generalizzandoli a un tratto stabile del carattere del bambino) contribuisce a definirne la
+personalità.</li>
 </ul>
 
+
+
 <h3>La teoria epigenetica dello sviluppo</h3>
-<p>La teoria di Sander viene anche chiamata <strong>teoria epigenetica dello sviluppo</strong>: l'epigenetica studia i cambiamenti del fenotipo di un organismo dovuti ai fattori ambientali, cioè l'effetto dell'ambiente sulla genetica. Contro l'idea che la direzione fosse a senso unico (dalla biologia alla personalità), le teorie moderne, incluso Sander, riconoscono una <strong>bidirezionalità</strong> tra biologia e ambiente: il grado in cui madre e bambino gestiscono insieme i compiti evolutivi determina il destino dello sviluppo psicofisiologico, non solo le caratteristiche di personalità.</p>
+<p>La teoria di Sander viene anche chiamata <strong>teoria epigenetica dello sviluppo</strong>: l'epigenetica studia i cambiamenti del
+fenotipo di un organismo dovuti ai fattori ambientali, cioè l'effetto dell'ambiente sulla genetica. Contro l'idea che la direzione
+fosse a senso unico (dalla biologia alla personalità), le teorie moderne, incluso Sander, riconoscono una
+<strong>bidirezionalità</strong> tra biologia e ambiente: il grado in cui madre e bambino gestiscono insieme i compiti evolutivi
+determina il destino dello sviluppo psicofisiologico, non solo le caratteristiche di personalità.</p>
+
+
 
 <h3>I principi della teoria sistemica</h3>
 <ul>
-<li>il sistema di vita è un processo di adattamento reciproco e continuo tra organismo e ambiente, con una direzionalità che può sempre cambiare;</li>
-<li>il sistema di vita è auto-regolatorio: emergono pattern di interazione senza che siano prima definiti, selezionati nell'incontro specifico tra quell'organismo e quell'ambiente;</li>
-<li>l'essere umano deve saper rispondere attivamente a qualunque esigenza si presenti, affidandosi a capacità apprese di auto-organizzazione per ristabilire l'equilibrio.</li>
+<li>il sistema di vita è un processo di adattamento reciproco e continuo tra organismo e ambiente, con una direzionalità che può sempre
+cambiare;</li>
+<li>il sistema di vita è auto-regolatorio: emergono pattern di interazione senza che siano prima definiti, selezionati nell'incontro
+specifico tra quell'organismo e quell'ambiente;</li>
+<li>l'essere umano deve saper rispondere attivamente a qualunque esigenza si presenti, affidandosi a capacità apprese di
+auto-organizzazione per ristabilire l'equilibrio.</li>
 </ul>
+
+
+
+
+
 
 <h2>Daniel Stern e le competenze precoci del neonato</h2>
-<p><strong>Daniel Stern</strong> (1934-2012) è un secondo autore fondamentale dell'Infant Research. Il principio centrale della sua teoria sono le capacità che il neonato possiede già dalla nascita: riconosce l'odore del latte materno dopo poche ore di vita, è predisposto al contatto visivo, mostra una preferenza per il volto e la voce umana (in particolare quella materna), e riconosce le proprie vocalizzazioni distinguendole da quelle di altri neonati già dal primo giorno. Una capacità fondamentale, che spiega la rapidità dei primi apprendimenti, è la <strong>percezione amodale</strong>: la capacità di ottenere un'informazione attraverso una modalità sensoriale e tradurla in un'altra, che permette al neonato una visione già "unitaria" del mondo.</p>
+<p><strong>Daniel Stern</strong> (1934-2012) è un secondo autore fondamentale dell'Infant Research. Il principio centrale della sua
+teoria sono le capacità che il neonato possiede già dalla nascita: riconosce l'odore del latte materno dopo poche ore di vita, è
+predisposto al contatto visivo, mostra una preferenza per il volto e la voce umana (in particolare quella materna), e riconosce le
+proprie vocalizzazioni distinguendole da quelle di altri neonati già dal primo giorno. Una capacità fondamentale, che spiega la
+rapidità dei primi apprendimenti, è la <strong>percezione amodale</strong>: la capacità di ottenere un'informazione attraverso una
+modalità sensoriale e tradurla in un'altra, che permette al neonato una visione già "unitaria" del mondo.</p>
+
+
 
 <h3>L'esperimento di Meltzoff e Borton (1979)</h3>
-<p>In questo celebre esperimento, 32 neonati (16 maschi e 16 femmine, tra i 26 e i 33 giorni di vita) tennero in bocca per 90 secondi, senza vederlo, un ciuccio ruvido o uno liscio; in seguito venivano loro mostrati visivamente entrambi i ciucci per 20 secondi (con la posizione controbilanciata per controllare eventuali preferenze di lato). Indipendentemente da genere, familiarità con i ciucci e tipo di allattamento, la maggior parte dei neonati fissava più a lungo il ciuccio corrispondente a quello tenuto in bocca: pur non avendolo mai visto, erano in grado di associare correttamente l'immagine alla sensazione tattile provata, dimostrando la capacità di percezione amodale.</p>
+<p>In questo celebre esperimento, 32 neonati (16 maschi e 16 femmine, tra i 26 e i 33 giorni di vita) tennero in bocca per 90 secondi,
+senza vederlo, un ciuccio ruvido o uno liscio; in seguito venivano loro mostrati visivamente entrambi i ciucci per 20 secondi (con
+la posizione controbilanciata per controllare eventuali preferenze di lato). Indipendentemente da genere, familiarità con i ciucci
+e tipo di allattamento, la maggior parte dei neonati fissava più a lungo il ciuccio corrispondente a quello tenuto in bocca: pur
+non avendolo mai visto, erano in grado di associare correttamente l'immagine alla sensazione tattile provata, dimostrando la
+capacità di percezione amodale.</p>
+
+
 
 <h3>Il senso del Sé secondo Stern</h3>
-<p>Per Stern il <strong>senso del Sé</strong> è un'esperienza soggettiva organizzante, che dà coerenza e continuità all'esperienza integrando percezioni, affetti, motivazioni e rappresentazioni. Stern distingue diversi sensi del Sé, ciascuno accompagnato dalla comparsa di nuove modalità di relazione:</p>
+<p>Per Stern il <strong>senso del Sé</strong> è un'esperienza soggettiva organizzante, che dà coerenza e continuità all'esperienza
+integrando percezioni, affetti, motivazioni e rappresentazioni. Stern distingue diversi sensi del Sé, ciascuno accompagnato dalla
+comparsa di nuove modalità di relazione:</p>
 <ul>
 <li><strong>senso del sé emergente</strong> (0-2 mesi): prima organizzazione che collega esperienze isolate;</li>
-<li><strong>senso del sé nucleare</strong> (2-6 mesi): include l'esperienza di un Sé costante, agente, coeso, affettivo e dotato di memoria;</li>
-<li><strong>senso del sé soggettivo</strong> (8-18 mesi circa): implica l'esperienza della compartecipazione degli stati affettivi con l'altro;</li>
-<li><strong>senso del sé verbale</strong> (dopo i 18 mesi, detto anche oggettivo): si sviluppa con la comparsa del linguaggio, e corrisponde al Sé autoriflessivo che si esprime nel gioco simbolico e nelle prime forme di narrazione di sé.</li>
+<li><strong>senso del sé nucleare</strong> (2-6 mesi): include l'esperienza di un Sé costante, agente, coeso, affettivo e dotato di
+memoria;</li>
+<li><strong>senso del sé soggettivo</strong> (8-18 mesi circa): implica l'esperienza della compartecipazione degli stati affettivi con
+l'altro;</li>
+<li><strong>senso del sé verbale</strong> (dopo i 18 mesi, detto anche oggettivo): si sviluppa con la comparsa del linguaggio, e
+corrisponde al Sé autoriflessivo che si esprime nel gioco simbolico e nelle prime forme di narrazione di sé.</li>
 </ul>
 
+
+
 <h3>Il mondo rappresentazionale e le RIG</h3>
-<p>Ancor prima del senso del sé verbale (ma anche oltre), il bambino immagazzina le prime esperienze interattive come episodi singoli, comprendenti percezioni, sensazioni, azioni, affetti e scopi in una precisa sequenza temporale: una memoria implicita, presente sin dalla nascita, fatta soprattutto di reazioni affettive e capacità auto-regolatorie. Attraverso la ripetizione, questi episodi vengono astratti in rappresentazioni generalizzate d'interazione, chiamate da Stern <strong>RIG</strong> ("Representations of Interactions that have been Generalized").</p>
+<p>Ancor prima del senso del sé verbale (ma anche oltre), il bambino immagazzina le prime esperienze interattive come episodi singoli,
+comprendenti percezioni, sensazioni, azioni, affetti e scopi in una precisa sequenza temporale: una memoria implicita, presente sin
+dalla nascita, fatta soprattutto di reazioni affettive e capacità auto-regolatorie. Attraverso la ripetizione, questi episodi
+vengono astratti in rappresentazioni generalizzate d'interazione, chiamate da Stern <strong>RIG</strong> ("Representations of
+Interactions that have been Generalized").</p>
+
+
 
 <h3>Le RIG e l'inconscio rappresentazionale</h3>
-<p>Le RIG non sono altro che l'<strong>inconscio rappresentazionale</strong> già incontrato nelle teorie relazionali-intersoggettive e nei Modelli Operativi Interni della teoria dell'attaccamento: le ripetute interazioni precoci con le figure genitoriali vengono astratte in rappresentazioni generali che diventano un modello di ciò che dobbiamo aspettarci (l'inconscio preriflessivo della teoria intersoggettiva). Queste rappresentazioni non sono inconsce perché rimosse, ma perché implicite: da qui il termine coniato da Stern, <strong>"conoscenza relazionale implicita"</strong>.</p>
+<p>Le RIG non sono altro che l'<strong>inconscio rappresentazionale</strong> già incontrato nelle teorie relazionali-intersoggettive e
+nei Modelli Operativi Interni della teoria dell'attaccamento: le ripetute interazioni precoci con le figure genitoriali vengono
+astratte in rappresentazioni generali che diventano un modello di ciò che dobbiamo aspettarci (l'inconscio preriflessivo della
+teoria intersoggettiva). Queste rappresentazioni non sono inconsce perché rimosse, ma perché implicite: da qui il termine coniato
+da Stern, <strong>"conoscenza relazionale implicita"</strong>.</p>
+
+
+
+
+
 
 <h2>Gli esiti dello sviluppo</h2>
-<p>Il bambino arriva al mondo equipaggiato di competenze auto-regolatorie precoci, che vengono però modulate dall'interazione con il genitore. Durante il primo anno di vita emerge così il <strong>sistema diadico</strong> madre-bambino: un'organizzazione affettiva basata sulla sintonizzazione degli stati emotivi, e sulle sue possibili interruzioni, rotture e riparazioni. Le modalità di queste interazioni determinano quanto il bambino si senta efficace nel comunicare il proprio disagio, e quanto la madre si senta capace di porre rimedio alle rotture della sintonizzazione: una mancata riparazione materna nello scambio diadico può spingere il bambino verso forme prolungate di auto-regolazione, che rischiano di compromettere le sue competenze affettive e relazionali in via di sviluppo.</p>
+<p>Il bambino arriva al mondo equipaggiato di competenze auto-regolatorie precoci, che vengono però modulate dall'interazione con il
+genitore. Durante il primo anno di vita emerge così il <strong>sistema diadico</strong> madre-bambino: un'organizzazione affettiva
+basata sulla sintonizzazione degli stati emotivi, e sulle sue possibili interruzioni, rotture e riparazioni. Le modalità di queste
+interazioni determinano quanto il bambino si senta efficace nel comunicare il proprio disagio, e quanto la madre si senta capace di
+porre rimedio alle rotture della sintonizzazione: una mancata riparazione materna nello scambio diadico può spingere il bambino
+verso forme prolungate di auto-regolazione, che rischiano di compromettere le sue competenze affettive e relazionali in via di
+sviluppo.</p>
 
 
 <?php
