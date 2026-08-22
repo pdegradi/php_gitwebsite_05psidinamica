@@ -15,27 +15,23 @@ ob_start();
 
 
 
-
 <h2>Il modello sistemico diadico di Beebe e Lachmann</h2>
-<p>Secondo <strong>Beebe</strong> e <strong>Lachmann</strong>, tre principi organizzativi regolano l'incontro interattivo tra madre e
-bambino:</p>
+<img XXclass="zoomable" src="/assets/images/beebe.webp" />
+<p>Per <strong>Beebe</strong> e <strong>Lachmann</strong>, l'interazione tra madre e bambino è regolata da tre principi:</p>
 <ol>
-<li>la <strong>regolazione attesa</strong>: definisce la prevedibilità e la continuità dell'interazione, costruita su un sistema di
-norme condiviso che conforma ciascun partner alle aspettative dell'altro (per esempio, un ritmo condiviso sul sonno porta armonia;
-la sua assenza può diventare un fattore di stress e portare a più rotture affettive);</li>
-<li>la <strong>rottura e riparazione</strong>: la capacità di organizzare e coordinare esperienze in contrasto tra loro, riducendone
-l'impatto — cioè la capacità di gestire situazioni disfunzionali. Questa capacità, più della semplice quantità di momenti di
-armonia, è quella che meglio predice uno sviluppo psicofisiologico sano;</li>
-<li>i <strong>momenti affettivi intensi</strong>: eventi né prevedibili né disfunzionali, caratterizzati da una forte esperienza
-affettiva e un'intensa attivazione bio-comportamentale.</li>
+<li>la <strong>regolazione attesa</strong>: madre e bambino imparano un ritmo condiviso e prevedibile (per esempio, sapere quando
+il bambino dorme). Se lo trovano, l'interazione procede in armonia; se manca, diventa una fonte di stress e porta a più rotture
+affettive</li>
+<li>la <strong>rottura e riparazione</strong>: la capacità di affrontare momenti di contrasto e di riportarli all'equilibrio</li>
+<li>i <strong>momenti affettivi intensi</strong>: eventi imprevedibili, né armoniosi né disfunzionali, che scatenano emozioni
+forti e un'intensa attivazione del corpo.</li>
 </ol>
 
+<p>Come nelle altre teorie moderne della psicologia dinamica, la psicopatologia non nasce da un singolo evento traumatico, ma dal
+ripetersi nel tempo di modi disfunzionali di regolarsi insieme. Una madre stressata ogni tanto non è un problema: lo diventa solo
+se questo diventa il suo modo abituale di accudire.</p>
 
 
-<h3>La psicopatologia nel modello diadico</h3>
-<p>Come nelle altre teorie della psicologia dinamica moderna, la psicopatologia non deriva da un singolo evento traumatico, ma
-dall'accumulazione di modelli interattivi disfunzionali di regolazione psicofisiologica: una madre stressata dall'accudimento
-occasionalmente non è un problema, ma se questa diventa la sua modalità sistematica, il rischio di psicopatologia aumenta.</p>
 
 
 
@@ -43,13 +39,9 @@ occasionalmente non è un problema, ma se questa diventa la sua modalità sistem
 
 
 <h2>La regolazione emotiva nella prima infanzia</h2>
-<p>Chiariamo innanzitutto cosa intendiamo per <strong>figura di accudimento</strong>: useremo il termine "madre" in senso ampio, per
-indicare la figura di accudimento principale del bambino, che non è necessariamente la madre biologica (può essere una madre
-adottiva o un padre).</p>
+<p>Con il termine "madre" intendiamo la figura di accudimento principale del bambino, che non è necessariamente 
+la madre biologica (può essere una madre adottiva o un padre).</p>
 
-
-
-<h3>Lo studio delle interazioni faccia a faccia</h3>
 <p>Secondo l'Infant Research, la relazione bipersonale tra madre e bambino promuove lo sviluppo psicofisiologico soprattutto
 attraverso le <strong>interazioni faccia a faccia</strong>: è così che il bambino impara il significato del proprio comportamento
 espressivo, le caratteristiche delle persone importanti per lui, e le informazioni cognitive e affettive che gli permettono di
@@ -57,47 +49,36 @@ inserirsi nella propria cultura e di definire la propria identità.</p>
 
 
 
+
 <h3>Le ricerche di Ed Tronick sulla comunicazione faccia a faccia (1978)</h3>
-<p>Un autore americano, <strong>Ed Tronick</strong>, pubblicò nel 1978, con i suoi collaboratori, i risultati di uno studio sulla
-comunicazione faccia a faccia tra madre e bambino (sul "Journal of the American Academy of Child and Adolescent Psychiatry"), con
-l'obiettivo di esaminare le capacità auto-regolatorie del bambino e l'importanza per lui dell'interazione reciproca con la madre,
-basandosi sulle teorie intersoggettive di autori come Louis Sander e Daniel Stern. Vennero definiti come comportamenti da
+<img XXclass="zoomable" src="/assets/images/Ed-Tronick.webp" />
+<p>Un autore americano, <strong>Ed Tronick</strong>, pubblicò nel 1978 i risultati di uno studio sulla
+comunicazione faccia a faccia tra madre e bambino con
+l'obiettivo di esaminare le capacità auto-regolatorie del bambino e l'importanza per lui dell'interazione reciproca con la madre<</p>
+
+<p>Vennero definiti come comportamenti da
 osservare: vocalizzazioni, direzione dello sguardo, orientamento e posizione del capo, espressione del volto, quantità di
-movimento, movimento di palpebre, mani, piedi e posizione della lingua. Il campione era piccolo: 7 madri con i rispettivi bambini
-(di 1-4 mesi), osservate in un numero di sedute variabile (da una sola seduta fino a 6).</p>
+movimento, movimento di palpebre, mani, piedi e posizione della lingua.</p>
 
-
-
-<h3>La procedura: il paradigma dello Still Face</h3>
 <p>Madre e bambino si sedevano l'uno di fronte all'altro, ripresi da due telecamere separate. Veniva chiesto alla madre di svolgere il
-<strong>paradigma del volto immobile</strong> ("Still Face"): tenere il viso fermo e con espressione neutra, sospendendo ogni
-comunicazione con il bambino, per osservare come questi reagisse all'interruzione del normale feedback emotivo. In ordine casuale
-(per controllare l'effetto della sequenza), le madri giocavano con il bambino per 3 minuti oppure tenevano il volto immobile per 3
+<strong>paradigma dello  Still Face</strong>: tenere il viso fermo e con espressione neutra, sospendendo ogni
+comunicazione con il bambino, per osservare come questi reagisse all'interruzione del normale feedback emotivo.</p> 
+
+<p>In ordine casuale le madri giocavano con il bambino per 3 minuti oppure tenevano il volto immobile per 3
 minuti, poi, dopo una pausa di 30 secondi, si passava alla situazione opposta. Due osservatori indipendenti valutavano i
-comportamenti dei volti (visti affiancati sullo stesso monitor) a rallentatore, con un accordo richiesto di almeno 0,85.</p>
+comportamenti dei volti.</p>
+
+<p>I risultati furono che nella situazione di volto immobile, rispetto al gioco, i bambini sorridevano meno, mantenevano meno a lungo lo sguardo e il capo
+verso la madre, e restavano più a lungo accasciati e immobili sul seggiolino.</p>
 
 
-
-<h3>I risultati</h3>
-<p>Nella situazione di volto immobile, rispetto al gioco, i bambini sorridevano meno, mantenevano meno a lungo lo sguardo e il capo
-verso la madre, e restavano più a lungo accasciati e immobili sul seggiolino — anche se questo primo studio va considerato con
-cautela, dato il campione molto ridotto.</p>
-
-
-
-<h3>Il comportamento della madre influenza il comportamento del bambino</h3>
-<p>Il paradigma dello Still Face è stato ripreso in numerosi studi successivi: nell'insieme, questi mostrano che i bambini reagiscono
+<p>Studi successivi hanno mostrato che i bambini reagiscono
 su più livelli (comunicativo, comportamentale, affettivo, attentivo) ritirandosi dall'interazione sociale e mostrando disagio
-generale, indipendentemente da età e genere. Una meta-analisi recente segnala comunque la necessità di studi su campioni più ampi e
-meglio definiti, dato che il vero ruolo dell'età nelle capacità auto- ed etero-regolatorie resta poco chiaro.</p>
+generale, indipendentemente da età e genere.</p>
 
-
-
-<h3>Le reazioni fisiologiche</h3>
 <p>La maggior parte degli studi sullo Still Face si è concentrata sui comportamenti osservabili, ma alcuni hanno misurato anche indici
 fisiologici, trovando durante l'episodio del volto immobile un aumento del battito cardiaco, dei livelli di cortisolo, della
-conduttanza cutanea e della temperatura del viso: un tema su cui, a oggi, esiste ancora un solo studio, e che richiede quindi
-ulteriori verifiche.</p>
+conduttanza cutanea e della temperatura del viso.</p>
 
 
 
@@ -105,6 +86,7 @@ ulteriori verifiche.</p>
 
 
 <h2>Il modello di mutua regolazione reciproca (Gianino e Tronick, 1988)</h2>
+<img XXclass="zoomable" src="/assets/images/Tronick.webp" />
 <p>Sulla base di questi risultati, <strong>Gianino</strong> e <strong>Tronick</strong> proposero nel 1988 il modello di <strong>mutua
 regolazione reciproca</strong>: madre e bambino condividono un obiettivo interattivo comune, regolato congiuntamente attraverso
 comportamenti interattivi che sono soprattutto manifestazioni affettive. Questo perché i primi apprendimenti del bambino si basano
@@ -210,16 +192,6 @@ psicofisiologico sano rispetto alla semplice quantità di episodi di sintonizzaz
 
 
 
-
-
-
-<h2>La regolazione del sonno nella prima infanzia</h2>
-
-
-
-<h3>Gli stati di umore nel bambino piccolo</h3>
-<p>Le emozioni, studiate attraverso il paradigma dello Still Face, sono risposte brevi a situazioni specifiche. Gli <strong>stati di
-umore</strong>, invece, sono stati affettivi permanenti, che durano nel tempo.</p>
 
 
 <?php
