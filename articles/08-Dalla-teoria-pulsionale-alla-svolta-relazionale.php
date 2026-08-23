@@ -14,23 +14,23 @@ ob_start();
 <!-- <h2>Dalla teoria pulsionale alla svolta relazionale</h2> -->
 <p>Per introdurre le teorie di Sullivan (psicoanalisi interpersonale) e di Mitchell (modello relazionale) conviene richiamare la
 teoria freudiana delle pulsioni. Secondo Freud, ogni essere umano è caratterizzato da tensioni fisiche innate e asociali che
-premono per essere gratificate (le pulsioni sessuali e aggressive), ma questa gratificazione è limitata da esigenze sociali. Il
+premono per essere gratificate — le pulsioni sessuali e aggressive — ma questa gratificazione è limitata da esigenze sociali. Il
 conflitto tra queste esigenze innate (natura) e le esigenze sociali (società) è alla base del pensiero secondario, che nasce dal
-principio di realtà: le capacità cognitive si formano proprio per modulare e risolvere questo conflitto, organizzandosi nelle
+principio di realtà. Le capacità cognitive si formano proprio per modulare e risolvere questo conflitto, organizzandosi nelle
 strutture dell'Io e del Super-io che controllano gli impulsi istintuali infantili. Individuo e società sono quindi in contrasto tra
 loro, e il compito dello sviluppo è la socializzazione, cioè adattarsi al mondo in cui si vive.</p>
 <p>Gli orientamenti psicoanalitici contemporanei "relazionali" (la teoria interpersonale di Sullivan, il modello relazionale di
-Mitchell, la teoria intersoggettiva) prendono le distanze da questo modello pulsionale: per queste teorie la funzione principale
-della mente è formare e preservare i legami con gli altri, che non sono un modo secondario per risolvere le pulsioni, ma l'essenza
+Mitchell, la teoria intersoggettiva) prendono le distanze da questo modello pulsionale. Per queste teorie la funzione principale
+della mente è formare e preservare i legami con gli altri: non sono un modo secondario per risolvere le pulsioni, ma l'essenza
 stessa della vita psichica.</p>
 <p>Per queste teorie possono esistere differenze costituzionali tra le persone, ma i significati che ne derivano dipendono dal modo in
-cui le persone significative reagiscono a ciascuno di noi: biologia e processi interpersonali costituiscono cicli continui di
-influenza reciproca, e non è più possibile distinguere una componente biologica da una componente relazionale, perché fanno parte
-della stessa cosa. Questa svolta relazionale ribalta un'idea diffusa anche nel senso comune, per cui esisterebbero aspetti
-emozionali più primitivi e "veri" (per esempio quando diciamo che una persona arrabbiata ha "finalmente mostrato quello che pensava
-davvero"), mentre il pensiero razionale sarebbe solo una maschera più artificiale imposta dalla società. Per le teorie relazionali,
-invece, la nostra personalità è un insieme inseparabile di aspetti costituzionali e di fattori ambientali: non esiste una
-personalità "vera" distinta da una più artificiosa.</p>
+cui le persone significative reagiscono a ciascuno di noi. Biologia e processi interpersonali costituiscono così cicli continui di
+influenza reciproca: non è più possibile distinguere una componente biologica da una componente relazionale, perché fanno parte
+della stessa cosa. Questa svolta relazionale ribalta un'idea diffusa anche nel senso comune, secondo cui esisterebbero aspetti
+emozionali più primitivi e "veri" — per esempio quando diciamo che una persona arrabbiata ha "finalmente mostrato quello che
+pensava davvero" — mentre il pensiero razionale sarebbe solo una maschera più artificiale imposta dalla società. Per le teorie
+relazionali, invece, la nostra personalità è un insieme inseparabile di aspetti costituzionali e di fattori ambientali: non esiste
+quindi una personalità "vera" distinta da una più artificiosa.</p>
 
 
 
@@ -51,11 +51,14 @@ in età adulta, in altre relazioni.</p>
 <p>Per Sullivan non ha senso distinguere individuo e realtà sociale: esiste solo il campo delle relazioni interpersonali, che include
 entrambi gli elementi e definisce la personalità. Sullivan fu influenzato dalla <strong>teoria del campo</strong> di Kurt Lewin
 (1890-1947), secondo cui il comportamento umano si comprende solo considerando la totalità dei fattori coesistenti in un dato
-momento, nella loro interdipendenza: <strong>lo spazio fisico reale</strong> (la realtà esterna), <strong>lo spazio di
-vita</strong> (l'individuo e la sua rappresentazione psicologica dell'ambiente) e <strong>lo spazio di confine</strong> (la
-relazione tra individuo e realtà esterna). La relazione tra individuo e realtà esterna non è quindi la semplice somma delle parti,
-perché esiste anche il ruolo della relazione stessa: questo principio del campo è alla base della svolta relazionale in
-psicoanalisi.</p>
+momento, nella loro interdipendenza. Lewin distingue tre elementi:</p>
+<ul>
+<li><strong>lo spazio fisico reale</strong>: la realtà esterna;</li>
+<li><strong>lo spazio di vita</strong>: l'individuo e la sua rappresentazione psicologica dell'ambiente;</li>
+<li><strong>lo spazio di confine</strong>: la relazione tra individuo e realtà esterna.</li>
+</ul>
+<p>La relazione tra individuo e realtà esterna non è quindi la semplice somma delle parti, perché conta anche il ruolo della
+relazione stessa. Questo principio del campo è alla base della svolta relazionale in psicoanalisi.</p>
 
 
 
@@ -74,20 +77,20 @@ negli altri.</p>
 <p>Se i bisogni di soddisfacimento tendono a essere integrativi, perché allora i rapporti umani sono spesso complessi e conflittuali?
 Per Sullivan la risposta sta nella natura "contagiosa" delle emozioni: una persona allegra tende a rendere allegri anche gli altri,
 così come una persona annoiata trasmette noia. Questa diffusione degli stati d'animo prende il nome di <strong>legame
-empatico</strong>. Il legame empatico può funzionare anche in negativo: se una madre riceve una brutta notizia mentre gioca con il
-bambino, tornerà da lui con uno stato d'animo diverso (per esempio ansioso) senza dichiararlo apertamente; il bambino, attraverso
-il legame empatico, proverà a sua volta quell'ansia e reagirà piangendo, ma in questo caso la madre non riuscirà a calmarlo con
-facilità, perché è lei stessa la fonte della tensione. Il disagio del bambino può quindi aumentare ulteriormente l'ansia della
-madre, in un circolo vizioso.</p>
+empatico</strong>. Il legame empatico può funzionare anche in negativo. Se una madre riceve una brutta notizia mentre gioca con il
+bambino, per esempio, tornerà da lui con uno stato d'animo diverso, magari ansioso, senza dichiararlo apertamente. Il bambino,
+attraverso il legame empatico, proverà a sua volta quell'ansia e reagirà piangendo. In questo caso, però, la madre non riuscirà a
+calmarlo con facilità, perché è lei stessa la fonte della tensione: il disagio del bambino può quindi aumentare ulteriormente
+l'ansia della madre, in un circolo vizioso.</p>
 
 
 
 <h3>L'ansia come tendenza disintegratrice</h3>
 <p>A differenza della tensione legata ai bisogni di soddisfacimento, la tensione legata all'ansia non può essere ridotta dall'adulto
-che si prende cura del bambino: per questo l'ansia agisce come <strong>tendenza disintegratrice</strong>, in senso opposto agli
+che si prende cura del bambino. Per questo l'ansia agisce come <strong>tendenza disintegratrice</strong>, in senso opposto agli
 altri stati affettivi. Sullivan distingue l'ansia dalla paura: la paura è adattiva, perché ha un oggetto riconoscibile e provoca
-una reazione risolutiva dell'adulto; l'ansia è invece problematica perché non ha un oggetto definito, quindi né il bambino né la
-madre riescono a spiegarla o a risolverla.</p>
+una reazione risolutiva dell'adulto. L'ansia, invece, è problematica perché non ha un oggetto definito: né il bambino né la madre
+riescono quindi a spiegarla o a risolverla.</p>
 
 
 
@@ -161,17 +164,17 @@ prima infanzia ma anche in tutto il resto della vita.</p>
 <p>Mitchell riassume i modelli principali della psicoanalisi in tre categorie:</p>
 <ul>
 <li><strong>la teoria pulsionale</strong> della psicoanalisi classica di Freud (teoria psicobiologica): la mente è "monadica", cioè
-intrapsichica, definita soprattutto dalle proprie pulsioni; i processi cognitivi emergono dalla soddisfazione pulsionale e il
+intrapsichica, definita soprattutto dalle proprie pulsioni. I processi cognitivi emergono dalla soddisfazione pulsionale, e il
 funzionamento psichico è caratterizzato dal conflitto tra pulsioni e difese;</li>
-<li><strong>il modello dell'arresto evolutivo</strong>, in cui rientrano la Psicologia dell'Io e la Psicologia del Sé: anche queste
+<li><strong>il modello dell'arresto evolutivo</strong>, in cui rientrano la Psicologia dell'Io e la Psicologia del Sé. Anche queste
 teorie conservano un'idea monadica della mente, pur riconoscendo che essa si origina nell'interazione precoce con le figure
-genitoriali; una volta formato, il Sé opera però in modo relativamente indipendente e meno reattivo alle relazioni. In questo
+genitoriali. Una volta formato, però, il Sé opera in modo relativamente indipendente e meno reattivo alle relazioni. In questo
 modello un ambiente non adeguato comporta un arresto evolutivo, e la psicopatologia va ricercata proprio in questo arresto;</li>
 <li><strong>il modello relazionale</strong>, definito in particolare dalle teorie di Mitchell, Sullivan e dalle teorie delle relazioni
-oggettuali (tra cui, per Mitchell, soprattutto quella di Fairbairn): qui la mente è "diadica", cioè sociale e interattiva; i
-fattori ambientali non solo influenzano la mente ma la costituiscono. È una teoria psicosociale, non più psicobiologica, in cui il
-conflitto relazionale (centrato su passioni, desideri e paure vissuti nelle relazioni significative) è al centro del funzionamento
-psichico.</li>
+oggettuali (tra cui, per Mitchell, soprattutto quella di Fairbairn). Qui la mente è "diadica", cioè sociale e interattiva: i
+fattori ambientali non solo influenzano la mente, ma la costituiscono. È una teoria psicosociale, non più psicobiologica, in cui il
+conflitto relazionale — centrato su passioni, desideri e paure vissuti nelle relazioni significative — è al centro del
+funzionamento psichico.</li>
 </ul>
 
 
@@ -193,28 +196,29 @@ orientata alla ricerca di relazioni, e i processi interpersonali impliciti coinv
 
 
 <h3>Le configurazioni relazionali</h3>
-<p>La mente è composta da <strong>configurazioni relazionali</strong>: schemi o rappresentazioni interne delle relazioni passate e
-presenti dell'individuo. Questo concetto ridefinisce l'inconscio nella psicoanalisi contemporanea: non più un contenitore di
-pulsioni aggressive e sessuali, ma un insieme di modalità relazionali apprese, soprattutto nella prima infanzia ma anche nel resto
-della vita. Ogni configurazione relazionale include tre dimensioni: il Sé, l'altro e lo spazio tra i due (richiamando ancora la
-teoria del campo di Lewin: non esiste oggetto senza Sé, né Sé senza oggetto, ma solo uno spazio di interazione tra loro).</p>
+<p>La mente è composta da <strong>configurazioni relazionali</strong>, cioè schemi o rappresentazioni interne delle relazioni passate
+e presenti dell'individuo. Questo concetto ridefinisce l'inconscio nella psicoanalisi contemporanea: non è più visto come un
+contenitore di pulsioni aggressive e sessuali, ma come un insieme di modalità relazionali apprese, soprattutto nella prima
+infanzia ma anche nel resto della vita. Ogni configurazione relazionale include tre dimensioni: il Sé, l'altro e lo spazio tra i
+due. Questo richiama ancora la teoria del campo di Lewin, secondo cui non esiste oggetto senza Sé, né Sé senza oggetto, ma solo
+uno spazio di interazione tra loro.</p>
 <p>I modelli ripetitivi dell'esperienza umana non derivano, come nel modello pulsionale, dalla ricerca di gratificazione di pulsioni
-interne, ma da una tendenza a conservare la continuità e la familiarità con il proprio mondo relazionale: esiste un desiderio
-potente di mantenere un senso di sé duraturo, legato a una rete di altre persone, fatta di relazioni reali e di presenze
+interne. Derivano invece da una tendenza a conservare la continuità e la familiarità con il proprio mondo relazionale: esiste un
+desiderio potente di mantenere un senso di sé duraturo, legato a una rete di altre persone, fatta di relazioni reali e di presenze
 interiorizzate. La mente individuale è un prodotto di una specifica matrice culturale e linguistica e, una volta formata, continua
-a interagire attivamente al suo interno: per questo non è qualcosa di stabile, ma fluida e in continua evoluzione. Le
+a interagire attivamente al suo interno. Per questo non è qualcosa di stabile, ma fluida e in continua evoluzione. Le
 configurazioni relazionali interiorizzate vengono attivate ripetutamente per riprodurre modelli familiari di interazione, e questa
 ripetizione genera la matrice relazionale.</p>
 
 
 
 <h3>Il conflitto relazionale e la tela di Penelope</h3>
-<p>Le diverse configurazioni relazionali entrano in conflitto tra loro: per Mitchell, come già per Freud, il conflitto è inevitabile,
-ma qui è un conflitto relazionale, perché tutte le relazioni umane importanti hanno significati complessi e talvolta opposti
+<p>Le diverse configurazioni relazionali entrano in conflitto tra loro. Per Mitchell, come già per Freud, il conflitto è inevitabile,
+ma qui è un conflitto relazionale: tutte le relazioni umane importanti hanno infatti significati complessi e talvolta opposti
 riguardo alla definizione del Sé, ai legami con gli altri e allo spazio tra sé e gli altri. Gli esseri umani tendono continuamente
 a ricostruire la propria matrice relazionale per mantenere un senso di sé stabile e continuo. Mitchell riprende la metafora di
-Penelope che, nell'Odissea, tesse la tela di giorno e la disfa di notte per tenere lontani i pretendenti e restare fedele a Ulisse:
-in modo simile, ogni persona tesse e disfa continuamente la propria matrice relazionale per conservare un senso di continuità del
+Penelope che, nell'Odissea, tesse la tela di giorno e la disfa di notte per tenere lontani i pretendenti e restare fedele a Ulisse.
+In modo simile, ogni persona tesse e disfa continuamente la propria matrice relazionale, per conservare un senso di continuità del
 proprio significato soggettivo.</p>
 
 

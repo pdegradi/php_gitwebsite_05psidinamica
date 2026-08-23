@@ -19,7 +19,7 @@ personalità è quindi in continua evoluzione e riformulazione.</p>
 
 
 <h3>Il bisogno di mantenere l'organizzazione dell'esperienza</h3>
-<p>La teoria intersoggettiva ha come fonte la Psicologia del Sé di Kohut: la salute mentale dipende dall'acquisizione di un Sé forte
+<p>La teoria intersoggettiva ha come fonte la Psicologia del Sé di Kohut. La salute mentale dipende dall'acquisizione di un Sé forte
 all'interno di relazioni strette e amorevoli, e i legami interpersonali sono fondamentali per costruire e mantenere un senso di
 identità. Per la teoria intersoggettiva, il principio centrale che guida l'azione umana è il bisogno di mantenere l'organizzazione
 dell'esperienza socio-emotiva: un'idea vicina a quella di Mitchell sul bisogno di conservare un senso di continuità del significato
@@ -30,7 +30,7 @@ personale della propria vita, qui declinata come mantenimento dell'organizzazion
 <h3>L'organizzazione dell'esperienza affettiva</h3>
 <p>Fin dalla nascita l'individuo organizza la propria esperienza affettiva. Per la teoria intersoggettiva non esistono contenuti o
 fasi psicologiche universali per lo sviluppo della personalità, a differenza per esempio del complesso edipico nella teoria di
-Freud o delle posizioni schizoparanoide e depressiva nella teoria di Melanie Klein: queste restano esperienze possibili, ma non
+Freud o delle posizioni schizoparanoide e depressiva nella teoria di Melanie Klein. Queste restano esperienze possibili, ma non
 universali, perché lo sviluppo psicologico dipende dal <strong>sistema di mutua regolazione affettiva</strong> tra bambino e
 caregiver, diverso da individuo a individuo. Attraverso pattern ricorrenti di interazione, si stabiliscono principi organizzativi
 inconsci dell'esperienza affettiva del bambino, che formano il cosiddetto <strong>inconscio preriflessivo</strong>.</p>
@@ -60,17 +60,20 @@ dalla reazione specifica del genitore.</p>
 <p>Esiste anche un terzo caso: certi comportamenti del bambino non ricevono alcuna risposta dal genitore, non vengono quindi
 rinforzati né appresi, e restano inconsci non perché repressi ma perché non sono mai stati formulati. Questi aspetti formano
 l'<strong>inconscio non convalidato</strong>. La teoria intersoggettiva propone quindi una <strong>visione tripartita
-dell'inconscio</strong>: l'inconscio preriflessivo (le esperienze affettive validate, che costituiscono la base della personalità),
-l'inconscio dinamico (le esperienze rifiutate attivamente e represse, in conflitto con le difese) e l'inconscio non convalidato (le
-esperienze non represse ma nemmeno rafforzate, quindi mai apprese).</p>
+dell'inconscio</strong>:</p>
+<ul>
+<li><strong>l'inconscio preriflessivo</strong>: le esperienze affettive validate, che costituiscono la base della personalità;</li>
+<li><strong>l'inconscio dinamico</strong>: le esperienze rifiutate attivamente e represse, in conflitto con le difese;</li>
+<li><strong>l'inconscio non convalidato</strong>: le esperienze non represse ma nemmeno rafforzate, quindi mai apprese.</li>
+</ul>
 
 
 
 <h3>La psicopatologia nella teoria intersoggettiva</h3>
 <p>Gli aspetti dell'esperienza affettiva rifiutati o non convalidati dai genitori, o che minacciano il legame con loro, restano
-repressi e non formulati: in entrambi i casi, la gamma delle esperienze possibili viene limitata dal contesto intersoggettivo
-genitoriale, e per questa teoria è proprio questa limitazione del campo esperienziale ad essere alla base della psicopatologia.
-Questo principio ha ricevuto anche delle critiche: lo psicoanalista contemporaneo <strong>Eagle</strong>, di tradizione legata alla
+repressi e non formulati. In entrambi i casi, la gamma delle esperienze possibili viene limitata dal contesto intersoggettivo
+genitoriale: per questa teoria è proprio questa limitazione del campo esperienziale a essere alla base della psicopatologia.
+Questo principio ha ricevuto anche delle critiche. Lo psicoanalista contemporaneo <strong>Eagle</strong>, di tradizione legata alla
 Psicologia dell'Io, sostiene che alcuni comportamenti è giusto limitarli, perché una buona educazione richiede anche dei limiti, e
 questo assicura una crescita sana (se il bambino potesse fare sempre tutto, avrebbe anche difficoltà a orientare la propria
 direzione di vita). La teoria intersoggettiva, invece, non distingue tra limitazioni utili e dannose: per questa teoria, meno
@@ -162,11 +165,11 @@ intersoggettiva, interpreta l'inconscio in termini di rappresentazioni del Sé, 
 esempio le configurazioni relazionali di Mitchell). In questo approccio i contenuti inconsci sono credenze, aspettative e affetti
 acquisiti nelle esperienze precoci con i genitori: per questo si parla di <strong>inconscio rappresentazionale</strong>, un insieme
 di schemi relazionali appresi soprattutto nella prima infanzia e riproposti in tutte le relazioni successive. Le interazioni
-precoci e ripetute con le figure genitoriali (qui, come per la scuola inglese delle relazioni oggettuali, non conta un singolo
-evento traumatico ma la sistematicità delle interazioni) vengono astratte in rappresentazioni generali di interazioni tipiche, che
-diventano un modello di ciò che dobbiamo aspettarci dagli altri (per esempio l'inconscio preriflessivo della teoria
-intersoggettiva). Queste rappresentazioni non sono inconsce perché rimosse, ma perché implicite: <strong>Daniel N. Stern</strong>
-ha coniato per questo il termine "<strong>conoscenza relazionale implicita</strong>" (Stern e collaboratori, 1998).</p>
+precoci e ripetute con le figure genitoriali — qui, come per la scuola inglese delle relazioni oggettuali, non conta un singolo
+evento traumatico ma la sistematicità delle interazioni — vengono astratte in rappresentazioni generali di interazioni tipiche.
+Queste rappresentazioni diventano un modello di ciò che dobbiamo aspettarci dagli altri, per esempio l'inconscio preriflessivo
+della teoria intersoggettiva. Non sono inconsce perché rimosse, ma perché implicite: <strong>Daniel N. Stern</strong> ha coniato
+per questo il termine "<strong>conoscenza relazionale implicita</strong>" (Stern e collaboratori, 1998).</p>
 
 
 
@@ -191,7 +194,7 @@ derivano da legami emotivi importanti. Per questo cercare autonomia da queste fi
 come una slealtà verso i genitori. L'incapacità di separarsi da questi legami arcaici dipende dalla mancata interiorizzazione di un
 ambiente supportivo, che permetta all'individuo di stare da solo senza provare eccessiva angoscia (un'idea vicina alla teoria di
 Winnicott). Nelle relazioni sane, la componente affettiva è comunque presente, ma porta comunque allo sviluppo dell'autonomia e a
-modalità relazionali più flessibili; nella psicopatologia, invece, i modelli relazionali disfunzionali restano rigidi. Il percorso
+modalità relazionali più flessibili. Nella psicopatologia, invece, i modelli relazionali disfunzionali restano rigidi. Il percorso
 che porta alla psicopatologia può essere riassunto così:</p>
 <ol>
 <li>le interazioni precoci tra bambino e caregiver sono fondamentali per la costituzione della personalità;</li>

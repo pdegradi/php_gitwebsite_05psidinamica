@@ -12,15 +12,15 @@ ob_start();
 ?>
 
 <!-- <h2>Le psicologie dell'identità e del Sé</h2> -->
-<p>Prima di iniziare questo argomento, due osservazioni chiudono il tema precedente: una situazione che il bambino non riesce a
-comprendere può trasformarsi in una frustrazione troppo forte, ostacolando un normale sviluppo psichico; inoltre, verso i 3 anni il
-bambino raggiunge un'identità definita e un grado relativo di costanza oggettuale (la capacità di mantenere un'immagine stabile
-della persona amata anche quando è assente o quando si è in conflitto con lei).</p>
+<p>Prima di iniziare questo argomento, due osservazioni chiudono il tema precedente. La prima: una situazione che il bambino non
+riesce a comprendere può trasformarsi in una frustrazione troppo forte, che ostacola un normale sviluppo psichico. La seconda:
+verso i 3 anni il bambino raggiunge un'identità definita e un grado relativo di costanza oggettuale, cioè la capacità di mantenere
+un'immagine stabile della persona amata anche quando è assente o quando si è in conflitto con lei.</p>
 <p>Le teorie di <strong>Erik Erikson</strong> e <strong>Heinz Kohut</strong> nascono entrambe dalla Psicologia dell'Io. Insieme a
-Winnicott e alla Mahler, questi autori danno centralità alla soggettività: il tema fondamentale della vita è il significato
-personale della propria esistenza. Le due teorie sono comunque complementari: Erikson colloca l'individuo nel tempo storico e nel
-contesto culturale, dando importanza ai fattori psicosociali nella formazione della personalità; Kohut esplora invece
-l'individualità della persona.</p>
+Winnicott e alla Mahler, questi autori danno centralità alla soggettività. Per loro il tema fondamentale della vita è il
+significato personale della propria esistenza. Le due teorie restano comunque complementari tra loro: Erikson colloca l'individuo
+nel tempo storico e nel contesto culturale, dando importanza ai fattori psicosociali nella formazione della personalità, mentre
+Kohut esplora soprattutto l'individualità della persona.</p>
 
 
 
@@ -32,8 +32,8 @@ l'individualità della persona.</p>
 innovazioni che propose furono però così importanti da renderlo una figura chiave nel passaggio dalla psicoanalisi classica a
 quella contemporanea.</p>
 <ul>
-<li>Per Freud la mente si sviluppa per incanalare e controllare le energie pulsionali (tensioni fisiche che spingono per essere
-scaricate): la psiche è quindi un prodotto del corpo (<strong>teoria psicobiologica</strong>).</li>
+<li>Per Freud la mente si sviluppa per incanalare e controllare le energie pulsionali, cioè le tensioni fisiche che spingono per
+essere scaricate. La psiche è quindi un prodotto del corpo (<strong>teoria psicobiologica</strong>).</li>
 <li>Per Erikson, invece, la psiche si sviluppa in modo diverso: il tema centrale è la relazione interdipendente tra individuo e
 società. La psiche si forma all'interno dei valori e delle sensibilità di una cultura, mentre i cambiamenti culturali sono a loro
 volta realizzati da individui che cercano un significato e una continuità nella propria vita.</li>
@@ -55,9 +55,9 @@ nasce.</p>
 per l'adattamento all'ambiente esterno. Questo segna il passaggio fondamentale dalla teoria di Freud, per cui l'uomo nasce in
 contrasto con l'ambiente sociale, alla psicoanalisi contemporanea, secondo cui l'uomo nasce con funzioni innate di adattamento
 all'ambiente.</p>
-<p>Mentre per gli psicologi dell'Io l'Io prende forma dall'interno (per esempio la "psiche immatura indifferenziata" di Hartmann), per
-Erikson l'Io prende forma sia dalla motivazione pulsionale (interno) sia dalla cultura e dalla società (esterno): interno ed
-esterno sono due centri in relazione dialettica tra loro.</p>
+<p>Per gli psicologi dell'Io, l'Io prende forma dall'interno: è il caso, per esempio, della "psiche immatura indifferenziata" di
+Hartmann. Per Erikson, invece, l'Io prende forma sia dalla motivazione pulsionale (il fattore interno) sia dalla cultura e dalla
+società (il fattore esterno). Interno ed esterno sono quindi due centri in relazione dialettica tra loro.</p>
 
 
 
@@ -79,11 +79,11 @@ successive.</li>
 
 
 <h3>Conflitti sessuali e conflitti psicosociali</h3>
-<p>Erikson non intende sostituire la teoria di Freud: accetta la teoria psicosessuale della crescita dell'Es, secondo cui il
+<p>Erikson non intende sostituire la teoria di Freud. Accetta la teoria psicosessuale della crescita dell'Es, secondo cui il
 superamento di un conflitto (per esempio nella fase orale) sposta la libido su una nuova fase (per esempio quella anale). In modo
-parallelo, anche l'Io si sviluppa fin dalla prima infanzia attraverso crisi psicosociali, cioè conflitti esistenziali: superare un
+parallelo, anche l'Io si sviluppa fin dalla prima infanzia attraverso crisi psicosociali, cioè conflitti esistenziali. Superare un
 conflitto con successo rafforza l'Io e aumenta le probabilità di risolvere con successo anche il conflitto successivo. Le capacità
-acquisite restano attive per tutta la vita e influenzano il comportamento.</p>
+acquisite restano poi attive per tutta la vita e continuano a influenzare il comportamento.</p>
 <p>A differenza dello sviluppo dell'Es, lo sviluppo dell'Io non procede per sostituzione: i temi affrontati in ogni fase restano
 sempre attivi e presenti nel corso di tutta la vita, anche se in ogni fase uno di questi temi diventa prioritario e richiede nuove
 soluzioni.</p>
@@ -131,11 +131,11 @@ dalla cultura di appartenenza, e influisce sulla personalità del bambino stesso
 <p>Per Erikson l'adolescenza (circa 13-19 anni) è una fase fondamentale. Se le fasi precedenti sono state superate con successo,
 l'individuo arriva all'adolescenza con un certo senso di identità, anche se non ancora definitivo.</p>
 <p>L'identità è il significato consapevole di unicità e di direzione verso qualcosa, derivato dalle esperienze psicosociali integrate
-nell'Io: include tutte le identificazioni apprese (famiglia, scuola, gruppo dei pari), l'immagine di sé, l'orientamento sessuale e
-l'orientamento verso il futuro, per esempio la scelta della carriera. In adolescenza questa identità va definita sempre di più: è
-una vera e propria crisi esistenziale da superare. L'atteggiamento totalitario spesso mostrato dagli adolescenti (l'esternazione di
-posizioni radicali) è un tentativo di risolvere questa crisi di identità. Per questo l'adolescenza è la fase della vita in cui, più
-delle altre, cerchiamo consapevolmente di capire chi siamo, cosa vogliamo e in che direzione andare.</p>
+nell'Io. Include tutte le identificazioni apprese (famiglia, scuola, gruppo dei pari), l'immagine di sé, l'orientamento sessuale e
+l'orientamento verso il futuro, per esempio la scelta della carriera. In adolescenza questa identità va definita sempre di più, ed
+è una vera e propria crisi esistenziale da superare. L'atteggiamento totalitario spesso mostrato dagli adolescenti, cioè
+l'esternazione di posizioni radicali, è proprio un tentativo di risolvere questa crisi di identità. Per questo l'adolescenza è la
+fase della vita in cui, più delle altre, cerchiamo consapevolmente di capire chi siamo, cosa vogliamo e in che direzione andare.</p>
 
 
 
@@ -143,19 +143,19 @@ delle altre, cerchiamo consapevolmente di capire chi siamo, cosa vogliamo e in c
 
 
 <h2>Heinz Kohut</h2>
-<p>La teoria di Heinz Kohut (1913-1981) è chiamata Psicologia del Sé ed è considerata, insieme alla teoria delle relazioni oggettuali
-della scuola inglese e alle teorie relazionali, una delle più rivoluzionarie rispetto alla teoria classica di Freud: rifiuta il
-principio di piacere e la teoria pulsionale, proponendo concetti molto distanti da quelli classici. Anche Kohut, come Erikson, non
-aveva inizialmente l'obiettivo di criticare Freud, ma arrivò a riconoscere che la sua Psicologia del Sé se ne allontanava
-profondamente. I principi fondamentali della sua teoria sono:</p>
+<p>La teoria di Heinz Kohut (1913-1981) è chiamata Psicologia del Sé. Insieme alla teoria delle relazioni oggettuali della scuola
+inglese e alle teorie relazionali, è considerata una delle più rivoluzionarie rispetto alla teoria classica di Freud, perché
+rifiuta il principio di piacere e la teoria pulsionale e propone concetti molto distanti da quelli classici. Anche Kohut, come
+Erikson, non aveva inizialmente l'obiettivo di criticare Freud, ma arrivò a riconoscere che la sua Psicologia del Sé se ne
+allontanava profondamente. I principi fondamentali della sua teoria sono:</p>
 <ul>
 <li>Io, Es e Super-io (le tre istanze della mente secondo Freud: rispettivamente la parte razionale e adattiva, le pulsioni istintuali,
 la coscienza morale interiorizzata) sono tutti e tre parti del Sé, mentre nella Psicologia dell'Io il concetto di Io coincideva
 sostanzialmente con quello di Sé;</li>
-<li>Kohut critica la teoria freudiana del <strong>narcisismo primario</strong>: per Freud l'essere umano deve superare questo stato
-iniziale e rivolgere la libido (l'energia pulsionale) verso l'esterno per adattarsi alla società; per Kohut, invece, il narcisismo
-primario (la libido rivolta verso sé stessi) non va rifiutato, perché è essenziale per poter poi rivolgere la libido verso gli
-altri;</li>
+<li>Kohut critica la teoria freudiana del <strong>narcisismo primario</strong>. Per Freud l'essere umano deve superare questo stato
+iniziale e rivolgere la libido, cioè l'energia pulsionale, verso l'esterno per adattarsi alla società. Per Kohut, invece, il
+narcisismo primario (la libido rivolta verso sé stessi) non va rifiutato, perché è essenziale per poter poi rivolgere la libido
+anche verso gli altri;</li>
 <li>anche per Kohut la fase pre-edipica è fondamentale per la formazione della personalità e per affrontare con successo il conflitto
 edipico (un punto in comune con quasi tutti gli autori post-freudiani, a eccezione di Erikson, che distribuisce l'importanza di
 questi temi su tutto l'arco della vita);</li>
@@ -173,9 +173,9 @@ materno) o una cosa. Per Kohut l'oggetto è sempre un'altra persona, e distingue
 <li><strong>oggetti interni</strong>: le rappresentazioni mentali degli altri;</li>
 <li><strong>oggetti Sé</strong>: le interiorizzazioni di persone significative come parti del Sé.</li>
 </ul>
-<p>Gli oggetti Sé restano presenti per tutta la vita, ma per una buona salute mentale l'individuo deve riuscire a integrarli nella
-propria personalità (un'idea simile a quella di Fairbairn sugli oggetti interni non completamente assimilati): più riusciamo a
-integrare gli oggetti significativi, più riusciamo ad avere un contatto reale con le persone e con l'ambiente, ed essere quindi
+<p>Gli oggetti Sé restano presenti per tutta la vita. Per una buona salute mentale, però, l'individuo deve riuscire a integrarli nella
+propria personalità — un'idea simile a quella di Fairbairn sugli oggetti interni non completamente assimilati. Più riusciamo a
+integrare gli oggetti significativi, più riusciamo ad avere un contatto reale con le persone e con l'ambiente, e quindi a essere
 psichicamente sani.</p>
 
 
@@ -185,10 +185,10 @@ psichicamente sani.</p>
 (gli danno un nome, gli si rivolgono con domande e frasi). Queste cure genitoriali portano, entro i primi 2-3 anni, alla comparsa
 di un <strong>Sé nucleare</strong>. Inizialmente il bambino vive in uno stato di narcisismo primario, in cui tutti i suoi bisogni
 sono soddisfatti dalla madre o da chi si prende cura di lui (il primo oggetto Sé, anche se può essere il padre o un altro adulto).</p>
-<p>Il bambino ha bisogno di rispecchiarsi nella madre (concetto legato al rispecchiamento descritto da Margaret Mahler). Per Kohut,
-questa funzione di rispecchiamento è fondamentale perché permette al bambino di sentirsi ammirato, alla base della sensazione di
-valere ed essere qualcuno: se non impariamo prima ad amare noi stessi, non saremo mai capaci di amare gli altri. Attraverso
-l'empatia, la madre riesce ad assumere la prospettiva del bambino e a comprendere i suoi bisogni di essere ammirato.</p>
+<p>Il bambino ha bisogno di rispecchiarsi nella madre, un concetto legato al rispecchiamento già descritto da Margaret Mahler. Per
+Kohut questa funzione è fondamentale, perché permette al bambino di sentirsi ammirato: è la base della sensazione di valere ed
+essere qualcuno. Se non impariamo prima ad amare noi stessi, infatti, non saremo mai capaci di amare gli altri. Attraverso
+l'empatia, la madre riesce ad assumere la prospettiva del bambino e a comprendere il suo bisogno di essere ammirato.</p>
 <p>Le prime frustrazioni (i ritardi della madre nel soddisfare un bisogno, o momenti di scarsa sensibilità dovuti a stanchezza) fanno
 parte del normale sviluppo. In risposta a queste mancanze, il bambino, nel tentativo di ricreare lo stato "perfetto" di narcisismo
 primario, forma un <strong>Sé grandioso</strong>, caratterizzato dalla convinzione inconscia di essere eccezionale e perfetto.</p>
@@ -221,11 +221,11 @@ contrappone all'amore per gli altri, anzi è necessario per avere relazioni inte
 
 
 <h3>La psicopatologia secondo Kohut</h3>
-<p>Per Kohut la salute mentale dipende dall'acquisizione di un Sé forte all'interno di relazioni strette e amorevoli; la
-psicopatologia è invece definita da un'esistenza priva di significato personale. Non basta avere un lavoro e una vita amorosa
+<p>Per Kohut la salute mentale dipende dall'acquisizione di un Sé forte all'interno di relazioni strette e amorevoli. La
+psicopatologia, invece, è definita da un'esistenza priva di significato personale. Non basta avere un lavoro e una vita amorosa
 soddisfacente, come sosteneva Freud: occorre anche vivere la propria vita come significativa e provare gioia per ciò che si ha.</p>
-<p>Il paziente, per Kohut, appare e agisce come una persona qualunque, ma vive l'esistenza come un lavoro faticoso (un'idea vicina
-alla concezione della psicopatologia di Winnicott): può presentare apatia oppure alternare esplosioni di creatività a sentimenti
+<p>Il paziente, per Kohut, appare e agisce come una persona qualunque, ma vive l'esistenza come un lavoro faticoso — un'idea vicina
+alla concezione della psicopatologia di Winnicott. Può presentare apatia, oppure alternare esplosioni di creatività a sentimenti
 dolorosi di inadeguatezza in risposta a percezioni di fallimento. Si passa così dall'"<strong>uomo colpevole</strong>" di Freud a
 una visione del paziente come "<strong>uomo tragico</strong>". Kohut propone una classificazione dei disturbi mentali basata sulla
 Psicologia del Sé:</p>
