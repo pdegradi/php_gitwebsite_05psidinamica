@@ -10,6 +10,8 @@ require __DIR__ . '/../includes/config.php';
 
 ob_start();
 ?>
+<h2>L'influenza della Psicologia dell'Io e la centralità della soggettività</h2>
+
 <p>Le teorie di <strong>Erik Erikson</strong> e <strong>Heinz Kohut</strong> nascono entrambe dalla Psicologia dell'Io. Insieme a
 Winnicott e alla Mahler, questi autori danno centralità alla soggettività. Per loro il tema fondamentale della vita è il
 significato personale della propria esistenza. Le due teorie restano comunque complementari tra loro: Erikson colloca l'individuo
@@ -53,7 +55,7 @@ società (il fattore esterno). Interno ed esterno sono quindi due centri in rela
 
 
 
-<h3>Il principio epigenetico</h3>
+<h3>Principio epigenetico</h3>
 <p>Come per Freud, anche per Erikson lo sviluppo segue una successione di stadi predeterminati e universali (<strong>principio
 epigenetico</strong>). Erikson definisce le fasi dello sviluppo dell'Io in aggiunta allo sviluppo psicosessuale dell'Es descritto
 da Freud. A differenza dell'Es, però, lo sviluppo dell'Io non si conclude con il conflitto edipico, ma continua per tutta la vita.</p>
@@ -61,16 +63,16 @@ da Freud. A differenza dell'Es, però, lo sviluppo dell'Io non si conclude con i
 cambiamento verso il progresso (rafforzamento dell'Io) o verso il regresso. Il successo nel superamento di ogni fase dipende da tre
 fattori:</p>
 <ul>
-<li>la tendenza genetica, propria dell'essere umano, a superare con successo ogni fase;</li>
+<li>la tendenza genetica, propria dell'essere umano, a superare con successo ogni fase.</li>
 <li>le esperienze vissute dall'individuo e le cure genitoriali ricevute, a loro volta legate ai valori e alle norme culturali della
-società di appartenenza;</li>
+società di appartenenza.</li>
 <li>la capacità dell'individuo di integrare e analizzare queste esperienze, sviluppando nuove capacità per affrontare le fasi
 successive.</li>
 </ul>
 
 
 
-<h3>Conflitti sessuali e conflitti psicosociali</h3>
+<h3>I conflitti sessuali e i conflitti psicosociali</h3>
 <p>Erikson non intende sostituire la teoria di Freud. Accetta la teoria psicosessuale della crescita dell'Es, secondo cui il
 superamento di un conflitto (per esempio nella fase orale) sposta la libido su una nuova fase (per esempio quella anale). In modo
 parallelo, anche l'Io si sviluppa fin dalla prima infanzia attraverso crisi psicosociali, cioè conflitti esistenziali. Superare un
@@ -119,7 +121,7 @@ dalla cultura di appartenenza, e influisce sulla personalità del bambino stesso
 
 
 
-<h3>L'adolescenza e la ricerca dell'identità</h3>
+<h3>L'adolescenza e l'identità</h3>
 <p>Per Erikson l'adolescenza (circa 13-19 anni) è una fase fondamentale. Se le fasi precedenti sono state superate con successo,
 l'individuo arriva all'adolescenza con un certo senso di identità, anche se non ancora definitivo.</p>
 <p>L'identità è il significato consapevole di unicità e di direzione verso qualcosa, derivato dalle esperienze psicosociali integrate
@@ -143,26 +145,26 @@ allontanava profondamente. I principi fondamentali della sua teoria sono:</p>
 <ul>
 <li>Io, Es e Super-io (le tre istanze della mente secondo Freud: rispettivamente la parte razionale e adattiva, le pulsioni istintuali,
 la coscienza morale interiorizzata) sono tutti e tre parti del Sé, mentre nella Psicologia dell'Io il concetto di Io coincideva
-sostanzialmente con quello di Sé;</li>
+sostanzialmente con quello di Sé.</li>
 <li>Kohut critica la teoria freudiana del <strong>narcisismo primario</strong>. Per Freud l'essere umano deve superare questo stato
 iniziale e rivolgere la libido, cioè l'energia pulsionale, verso l'esterno per adattarsi alla società. Per Kohut, invece, il
 narcisismo primario (la libido rivolta verso sé stessi) non va rifiutato, perché è essenziale per poter poi rivolgere la libido
-anche verso gli altri;</li>
+anche verso gli altri.</li>
 <li>anche per Kohut la fase pre-edipica è fondamentale per la formazione della personalità e per affrontare con successo il conflitto
 edipico (un punto in comune con quasi tutti gli autori post-freudiani, a eccezione di Erikson, che distribuisce l'importanza di
-questi temi su tutto l'arco della vita);</li>
+questi temi su tutto l'arco della vita).</li>
 <li>per Kohut gli esseri umani ricercano il contatto e l'appartenenza come fine in sé, e non come mezzo per soddisfare pulsioni
 biologiche: anche in questo Kohut si avvicina alla psicoanalisi contemporanea.</li>
 </ul>
 
 
 
-<h3>Il concetto di oggetto secondo Kohut</h3>
+<h3>Riprendendo il concetto di oggetto in psicoanalisi con riferimento alla teoria di Kohut</h3>
 <p>Per Freud l'oggetto è ciò a cui è rivolta la scarica pulsionale: può essere una persona, una parte del corpo (per esempio il seno
 materno) o una cosa. Per Kohut l'oggetto è sempre un'altra persona, e distingue:</p>
 <ul>
-<li><strong>oggetti esterni</strong>: le persone reali;</li>
-<li><strong>oggetti interni</strong>: le rappresentazioni mentali degli altri;</li>
+<li><strong>oggetti esterni</strong>: le persone reali.</li>
+<li><strong>oggetti interni</strong>: le rappresentazioni mentali degli altri.</li>
 <li><strong>oggetti Sé</strong>: le interiorizzazioni di persone significative come parti del Sé.</li>
 </ul>
 <p>Gli oggetti Sé restano presenti per tutta la vita. Per una buona salute mentale, però, l'individuo deve riuscire a integrarli nella
@@ -172,24 +174,30 @@ psichicamente sani.</p>
 
 
 
-<h3>Il Sé nucleare, il rispecchiamento e il Sé grandioso</h3>
+<h3>Il Sé nucleare</h3>
 <p>Secondo Kohut il neonato nasce senza un Sé definito, ma i genitori e l'ambiente lo trattano fin da subito come se ne avesse uno
 (gli danno un nome, gli si rivolgono con domande e frasi). Queste cure genitoriali portano, entro i primi 2-3 anni, alla comparsa
 di un <strong>Sé nucleare</strong>. Inizialmente il bambino vive in uno stato di narcisismo primario, in cui tutti i suoi bisogni
 sono soddisfatti dalla madre o da chi si prende cura di lui (il primo oggetto Sé, anche se può essere il padre o un altro adulto).</p>
+<h3>Rispecchiamento e empatia</h3>
+
 <p>Il bambino ha bisogno di rispecchiarsi nella madre, un concetto legato al rispecchiamento già descritto da Margaret Mahler. Per
 Kohut questa funzione è fondamentale, perché permette al bambino di sentirsi ammirato: è la base della sensazione di valere ed
 essere qualcuno. Se non impariamo prima ad amare noi stessi, infatti, non saremo mai capaci di amare gli altri. Attraverso
 l'empatia, la madre riesce ad assumere la prospettiva del bambino e a comprendere il suo bisogno di essere ammirato.</p>
+<h3>Il Sé grandioso</h3>
+
 <p>Le prime frustrazioni (i ritardi della madre nel soddisfare un bisogno, o momenti di scarsa sensibilità dovuti a stanchezza) fanno
 parte del normale sviluppo. In risposta a queste mancanze, il bambino, nel tentativo di ricreare lo stato "perfetto" di narcisismo
 primario, forma un <strong>Sé grandioso</strong>, caratterizzato dalla convinzione inconscia di essere eccezionale e perfetto.</p>
 
 
 
-<h3>La frustrazione ottimale e l'immagine parentale idealizzata</h3>
+<h3>Il rispecchiamento e la frustrazione ottimale</h3>
 <p>Rispecchiamento e frustrazione ottimale fanno parte di un funzionamento psichico sano: <strong>la frustrazione ottimale</strong> è
 la capacità di contenere i desideri irrealistici del bambino e aiutarlo ad accettare i propri limiti e le proprie reali capacità.</p>
+<h3>L'immagine parentale idealizzata</h3>
+
 <p>In modo simile al Sé grandioso, il bambino idealizza anche i propri genitori (secondo la lettura qui riportata, i bambini
 idealizzano il padre e le bambine la madre), perché il bisogno di idealizzare è per Kohut innato. Anche questa <strong>immagine
 genitoriale idealizzata</strong> è una fase dello sviluppo, che viene gradualmente frustrata quando i genitori mostrano al bambino
@@ -203,16 +211,20 @@ più realistica e indipendente. Lo sviluppo si conclude in un cosiddetto <strong
 
 
 
-<h3>Il narcisismo in Freud e in Kohut</h3>
+<h3>Il ruolo del narcisismo primario nello sviluppo psichico</h3>
+
+<h3>Il narcisismo per Freud</h3>
 <p>Per Freud la pulsione sessuale è, all'origine, autoerotica e priva di oggetto: la libido è investita sull'Io (<strong>libido
 narcisistica</strong>). Solo per necessità l'individuo impara a investire gli altri di libido (<strong>libido oggettuale</strong>),
 perché non potremmo sopravvivere isolati in una libido puramente narcisistica, in opposizione con l'ambiente.</p>
+<h3>Il narcisismo per Kohut</h3>
+
 <p>Per Kohut, invece, la libido deve essere orientata allo stesso tempo verso sé stessi e verso gli altri: l'amore per il Sé non si
 contrappone all'amore per gli altri, anzi è necessario per avere relazioni interpersonali strette e soddisfacenti.</p>
 
 
 
-<h3>La psicopatologia secondo Kohut</h3>
+<h3>Psicopatologia</h3>
 <p>Per Kohut la salute mentale dipende dall'acquisizione di un Sé forte all'interno di relazioni strette e amorevoli. La
 psicopatologia, invece, è definita da un'esistenza priva di significato personale. Non basta avere un lavoro e una vita amorosa
 soddisfacente, come sosteneva Freud: occorre anche vivere la propria vita come significativa e provare gioia per ciò che si ha.</p>
@@ -223,13 +235,13 @@ una visione del paziente come "<strong>uomo tragico</strong>". Kohut propone una
 Psicologia del Sé:</p>
 <ul>
 <li><strong>disturbi psicotici</strong>: disturbi gravi, con cause biologiche, aggravati da cure genitoriali non empatiche, in cui i
-genitori hanno fallito sia nel rispecchiamento sia nel permettere la formazione di immagini genitoriali idealizzate;</li>
-<li><strong>disturbi borderline</strong>: altrettanto gravi, ma i pazienti mantengono meccanismi di difesa complessi;</li>
-<li><strong>disturbo di personalità schizoide</strong>: stato di distanza emotiva dagli altri;</li>
+genitori hanno fallito sia nel rispecchiamento sia nel permettere la formazione di immagini genitoriali idealizzate.</li>
+<li><strong>disturbi borderline</strong>: altrettanto gravi, ma i pazienti mantengono meccanismi di difesa complessi.</li>
+<li><strong>disturbo di personalità schizoide</strong>: stato di distanza emotiva dagli altri.</li>
 <li><strong>disturbo di personalità paranoide</strong>: il distanziamento dagli altri si esprime non con apatia ma con comportamenti
-aggressivi e ostili;</li>
+aggressivi e ostili.</li>
 <li><strong>disturbo narcisistico di personalità</strong>: caratterizzato da pensieri di grandiosità, ipersensibilità alle critiche e
-reazioni esagerate ai fallimenti;</li>
+reazioni esagerate ai fallimenti.</li>
 <li><strong>disturbo di comportamento narcisistico</strong>: comprende chi soddisfa le proprie fantasie di grandiosità attraverso
 comportamenti delinquenziali o perversi.</li>
 </ul>
@@ -242,8 +254,8 @@ amore autentico.</p>
 <p>L'importanza data da Kohut agli oggetti Sé (Sé grandioso, immagine parentale idealizzata) ha portato alcuni autori ad avvicinare la
 sua teoria a quella delle relazioni oggettuali della scuola inglese. Restano però differenze importanti:</p>
 <ul>
-<li>per Kohut la ricerca dell'oggetto non è innata;</li>
-<li>per la Psicologia del Sé, la psicopatologia è definita dalla sensazione di assenza di valore personale; per la teoria delle
+<li>per Kohut la ricerca dell'oggetto non è innata.</li>
+<li>per la Psicologia del Sé, la psicopatologia è definita dalla sensazione di assenza di valore personale. Per la teoria delle
 relazioni oggettuali, invece, dalla presenza di un mondo interno vuoto, privo di connessioni affettive e cognitive con gli oggetti.</li>
 </ul>
 
