@@ -181,14 +181,14 @@ $articles = [
         'featured_image'  => '',
     ],
     [
-        'slug'  => '20-Correlati-neurobiologici-dellattaccamento-e-psicofisiologia-del-sonno',
-        'title' => '20 Correlati neurobiologici dell\'attaccamento e psicofisiologia del sonno',
+        'slug'  => '20-Correlati-neurobiologici-dellattaccamento',
+        'title' => '20 Correlati neurobiologici dell\'attaccamento',
         'date'  => '2026-08-05',
         'featured_image'  => '',
     ],
     [
-        'slug'  => '21-Il-sonno-REM-le-emozioni-e-lipotesi-di-Matthew-Walker',
-        'title' => '21 Il sonno REM, le emozioni e l\'ipotesi di Matthew Walker',
+        'slug'  => '21-psicofisiologia-del-sonno-dai-sogni-al-sonno-rem',
+        'title' => '21 Psicofisiologia del sonno - dai sogni al sonno rem',
         'date'  => '2026-08-05',
         'featured_image'  => '',
     ],

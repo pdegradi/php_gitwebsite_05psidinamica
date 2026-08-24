@@ -17,57 +17,65 @@ ob_start();
 
 
 <h2>La memoria rimossa e la memoria implicita</h2>
+<p>Dalla psicoanalisi classica di Freud a oggi, il modo di intendere l'inconscio è cambiato. Nella psicoanalisi classica
+l'inconscio era fatto soprattutto di esperienze traumatiche rimosse: l'<strong>inconscio rimosso</strong>. Nella psicoanalisi
+più moderna, l'inconscio viene inteso anche come <strong>inconscio implicito</strong>: l'insieme di rappresentazioni generali
+implicite di interazioni prototipiche, che fungono da modello o norma di ciò che dobbiamo credere e aspettarci.</p>
+
 <p>In entrambe le interpretazioni dell'inconscio (rimosso o implicito), si tratta di un depositarsi in memoria di rappresentazioni
-affettive legate alle esperienze e alle fantasie vissute fin dall'inizio della vita. Tuttavia, mentre la <strong>memoria
+affettive legate alle esperienze e alle fantasie vissute fin dall'inizio della vita.</p>
+
+<p>Tuttavia, mentre la <strong>memoria
 rimossa</strong> può essere ricordata (per esempio nel trattamento psicoanalitico), la <strong>memoria implicita</strong> non
 può esserlo, perché si riferisce a schemi impliciti di personalità (come ci relazioniamo con gli altri, come rispondiamo allo
-stress). La memoria rimossa riguarda qualcosa che un tempo è stato conscio ed è poi stato spostato nell'inconscio. La memoria
+stress).</p> 
+
+<p>La memoria rimossa riguarda qualcosa che un tempo è stato conscio ed è poi stato spostato nell'inconscio. La memoria
 implicita riguarda invece aspetti caratteriali appresi inconsciamente, mai stati consci, attraverso il condizionamento
 classico. Potremmo definire la memoria rimossa come la <strong>memoria del cosa</strong>, e la memoria implicita come la
 <strong>memoria del come</strong>.</p>
 
-
-
-<h3>La memoria come insieme di processi</h3>
-<p>La memoria comprende diverse fasi: l'attenzione, l'apprendimento di una nuova informazione, il suo consolidamento e infine il
-recupero (il ricordo).</p>
+<p>La memoria comprende diverse fasi:</p>
+<ul>
+    <li>l'attenzione</li>
+    <li>l'apprendimento di una nuova informazione</li>
+    <li>il suo consolidamento</li>
+    <li>il recupero (il ricordo)</li>
+</ul>    
 
 
 
 <h3>I diversi tipi di memoria</h3>
-<p>Oltre alla distinzione tra memoria a breve termine e memoria a lungo termine, la <strong>memoria a lungo termine</strong> si
-divide a sua volta in due grandi categorie. La <strong>memoria dichiarativa</strong> comprende la memoria semantica (fatti e
-conoscenze) e la memoria episodica (autobiografica). La <strong>memoria implicita</strong> (o non dichiarativa) comprende
-invece diverse categorie:</p>
+<p>La memoria si distingue in memoria a breve termine e memoria a lungo termine.</p> 
+
+<img XXclass="zoomable" src="/assets/images/19/EaseUS_2026_08_23_18_30_21.webp" />
+
+<p>La <strong>memoria a lungo termine</strong> si divide in:</p>
 <ul>
-<li><strong>priming</strong>: la capacità di riconoscere un oggetto grazie a un'esposizione precedente, anche non consapevole (per
-esempio, chi ha appena visto la parola "francobollo" completerà più facilmente "FRA..." con "FRANCOBOLLO");</li>
-<li><strong>memoria procedurale</strong>: abilità e abitudini motorie, percettive e cognitive (per esempio suonare uno strumento).
-All'inizio, in fase di apprendimento, è dichiarativa, ma poi diventa automatica e priva di affetto. È stata la prima forma di
-memoria implicita a essere studiata, e alcuni autori psicodinamici hanno usato il termine "memoria procedurale" anche per
-l'inconscio rappresentazionale. Va però distinta dall'inconscio rappresentazionale psicodinamico: la memoria procedurale nasce
-conscia e solo poi diventa implicita, restando priva di affetto, mentre l'inconscio rappresentazionale non è mai stato conscio
-ed è fortemente legato a componenti emotive e affettive;</li>
-<li><strong>memoria emotiva</strong>: la memoria delle emozioni vissute in rapporto a esperienze affettive, come quelle che
-caratterizzano le prime relazioni del bambino con la figura primaria di accudimento.</li>
+    <li><strong>memoria dichiarativa</strong> (esplicita) riguarda i fatti e i dati che possiamo dire a parole. Comprende la memoria
+semantica
+    (fatti e conoscenze) e la memoria episodica (autobiografica)</li>
+    <li><strong>memoria non dichiarativa</strong> (implicita) riguarda le azioni e le abilità. Comprende diverse categorie
+    <ul>
+        <li><strong>priming</strong>: la capacità di riconoscere un oggetto grazie a un'esposizione precedente</li>
+        <li><strong>memoria procedurale</strong>: è il modo in cui facciamo le cose senza pensarci (come andare in bicicletta).
+        All'inizio, in fase di apprendimento, è dichiarativa, ma poi diventa automatica e priva di affetto.</li>
+        <li><strong>memoria emotiva</strong>: la memoria delle emozioni vissute in rapporto a esperienze, come quelle che
+        caratterizzano le prime relazioni del bambino con la figura di accudimento.</li>
+    </ul>
+    </li>
 </ul>
 
-
-
-<h3>La memoria e i circuiti cerebrali</h3>
-<p>Ogni tipo di memoria è sostenuto da circuiti cerebrali diversi. Il ruolo fondamentale dell'<strong>ippocampo</strong> (una
+<p>Il ruolo fondamentale dell'<strong>ippocampo</strong> (una
 struttura del lobo temporale) per la memoria dichiarativa emerse dal celebre caso del paziente <strong>H.M.</strong>,
 sottoposto per motivi terapeutici all'asportazione bilaterale dell'ippocampo e della corteccia del lobo temporale. Dopo
 l'intervento non riusciva più a memorizzare nuove esperienze, pur mantenendo i ricordi più antichi. Riusciva però ancora ad
 acquisire nuove competenze di tipo procedurale: una conferma che tipi diversi di memoria dipendono da circuiti cerebrali
 diversi.</p>
 
-
-
-<h3>L'ippocampo e la memoria emotiva</h3>
 <p>L'ippocampo, fondamentale per la memoria dichiarativa, non matura prima dei 2 anni di vita. Eppure la maggior parte degli studi
 psicodinamici si concentra proprio sui primi mesi e anni di vita. Quali circuiti cerebrali spiegano allora la memoria emotiva
-caratteristica di questo periodo, e le differenze individuali nello stile di attaccamento e nella regolazione emotiva?</p>
+caratteristica di questo periodo?</p>
 
 
 
@@ -75,61 +83,57 @@ caratteristica di questo periodo, e le differenze individuali nello stile di att
 
 
 <h2>Che cosa sono le emozioni?</h2>
-<p>La ricerca ha cercato di fare chiarezza terminologica tra concetti spesso usati in modo intercambiabile:</p>
+<p>La ricerca ha cercato di fare chiarezza tra cinque termini spesso usati come sinonimi, anche se indicano cose diverse:</p>
 <ul>
-<li><strong>affetto</strong>: la componente soggettivo-esperienziale di un fenomeno, senza un riferimento temporale delimitato (in
-inglese "affect", termine usato anche per indicare l'affettività in generale);</li>
-<li><strong>emozione</strong>: l'insieme di risposte mentali, somatiche ed espressive a uno stimolo, che insorge rapidamente e ha
-breve durata;</li>
-<li><strong>attivazione emozionale</strong>: la componente somatica, la vigilanza cognitiva e la prontezza comportamentale
-associate alla risposta emotiva;</li>
-<li><strong>sentimento</strong>: la componente soggettiva dell'emozione (termine poco usato in ambito scientifico);</li>
-<li><strong>tono dell'umore</strong>: le componenti dello stato emotivo che durano nel tempo, con un'intensità generalmente minore
-rispetto all'emozione.</li>
+<li><strong>affetto</strong>: il modo soggettivo in cui viviamo un'esperienza, in senso generale - non un episodio preciso con un
+inizio e una fine</li>
+<li><strong>emozione</strong>: una risposta rapida e breve a uno stimolo preciso, che coinvolge insieme mente, corpo ed
+espressione — per esempio la paura quando vediamo un serpente;</li>
+<li><strong>attivazione emozionale</strong>: ciò che il corpo e la mente fanno per prepararsi ad agire durante un'emozione — per
+esempio il battito cardiaco che accelera, l'attenzione che si alza, il corpo pronto a reagire;</li>
+<li><strong>sentimento</strong>: la parte cosciente di un'emozione, cioè ciò che percepiamo e sappiamo di provare (per esempio,
+"mi sento spaventato").</li>
+<li><strong>tono dell'umore</strong>: uno stato emotivo di fondo, meno intenso di un'emozione ma che dura più a lungo (ore o
+giorni), senza essere legato a un singolo evento scatenante.</li>
 </ul>
-<p>Le <strong>emozioni</strong> restano quindi definite come processi <strong>adattivi</strong>: permettono di selezionare la
-risposta più appropriata a uno stimolo, interrompendo l'azione in corso come un sistema di emergenza. Sono anche
-<strong>multi-componenziali</strong>, cioè si esprimono contemporaneamente a livello soggettivo-esperienziale, comportamentale
-e fisiologico.</p>
+<p>Le <strong>emozioni</strong> restano definite come processi <strong>adattivi</strong>: permettono di selezionare la
+risposta più appropriata a uno stimolo.</p>
 
+<img XXclass="zoomable" src="/assets/images/19/emozioni_orig.webp" />
 
+<p>Un'emozione può nascere da uno stimolo visibile e riconoscibile — per esempio vedere un ragno — ma anche senza uno stimolo
+evidente. In questo caso, l'emozione è comunque una risposta imparata: è il ricordo di eventi passati importanti per il nostro
+comportamento, rimasto in memoria. Questo ricordo continua ad attivare reazioni mentali, corporee e comportamentali, utili per
+adattarci all'ambiente.</p>
 
-<h3>Gli eventi stimolo</h3>
-<p>Gli eventi stimolo sono rilevanti per l'individuo. Possono essere fisicamente presenti e riconoscibili, per esempio la vista di
-un ragno, oppure no. Si ritiene infatti che, anche in assenza di uno stimolo evidente, le emozioni siano risposte apprese:
-tracce mnestiche (di memoria) di eventi che in passato hanno avuto un ruolo chiave per il comportamento. Queste tracce restano
-in memoria e continuano ad attivare programmi mentali, somatici e comportamentali utili all'adattamento.</p>
+<p>Questo tipo di apprendimento si chiama <strong>apprendimento emotivo</strong>: costruisce schemi emotivi attraverso
+meccanismi di condizionamento inconsci, soprattutto per i comportamenti più semplici (come la paura di un ragno) e nelle fasi
+più precoci dello sviluppo. Man mano che cresciamo, i sistemi emotivi e cognitivi si intrecciano sempre di più: diventa quindi
+sempre più difficile distinguere una memoria puramente emotiva da una che coinvolge anche l'apprendimento cognitivo.</p>
 
-
-
-<h3>L'apprendimento emotivo</h3>
-<p>L'<strong>apprendimento emotivo</strong> costruisce schemi attraverso meccanismi di condizionamento inconsci (impliciti),
-soprattutto nelle forme più semplici di comportamento (per esempio la paura di un ragno) e nelle fasi più precoci dello
-sviluppo. Con la crescita, i sistemi emozionali e cognitivi diventano sempre più interconnessi, rendendo via via più difficile
-distinguere una memoria puramente emotiva da una che coinvolge anche l'apprendimento cognitivo.</p>
-
-
-
-<h3>La memoria emotiva e l'amigdala</h3>
-<p>La <strong>memoria emotiva</strong> è un apprendimento implicito e condizionato delle risposte emozionali.
-L'<strong>amigdala</strong> (una struttura del sistema limbico, descritta più avanti) è fondamentale nella sua formazione e nel
-suo consolidamento, ed è già ben sviluppata alla nascita. Per questo la memoria emotiva può essere codificata fin da subito, a
-differenza della memoria dichiarativa, che non diventa stabile prima dei 3-4 anni.</p>
+<p>La <strong>memoria emotiva</strong> è proprio questo: un apprendimento implicito e condizionato delle nostre risposte emotive.
+A renderla possibile è soprattutto l'<strong>amigdala</strong> (una struttura del sistema limbico, descritta più avanti),
+fondamentale nel formarla e consolidarla. L'amigdala è già ben sviluppata alla nascita: per questo la memoria emotiva può
+essere codificata fin da subito, a differenza della memoria dichiarativa, che non diventa stabile prima dei 3-4 anni.</p>
 
 
 
 <h3>L'amigdala e il sistema limbico</h3>
-<p>L'<strong>amigdala</strong> è una massa di materia grigia a forma di mandorla, situata nel lobo temporale mediale. Fa parte del
+<p>L'<strong>amigdala</strong> è una massa di materia grigia a forma di mandorla, situata nel lobo temporale mediale.</p> 
+<img XXclass="zoomable" src="/assets/images/19/istockphoto-2076857779-612x612.webp" />
+
+<p>Fa parte del
 <strong>sistema limbico</strong> (che comprende anche l'ippocampo, il fornice e il giro cingolato), ed è vicina e fortemente
 connessa all'ippocampo. La sua struttura è simile in ratti, scimmie ed esseri umani, e strutture simili legate al comportamento
-di paura sono state trovate anche in uccelli e rettili. Il sistema limbico regola i comportamenti istintivi e i ritmi biologici
-vitali, e presiede alle emozioni. Ha però un ruolo importante anche per memoria, attenzione e apprendimento: con la maturazione
-cerebrale, i sistemi cognitivo ed emotivo interagiscono infatti sempre di più tra loro, in entrambe le direzioni.</p>
+di paura sono state trovate anche in uccelli e rettili.</p>
+
+<p>Il sistema limbico è connesso al tronco encefalico, e regola i comportamenti istintivi e i ritmi biologici vitali. È
+considerato il sistema che presiede alle emozioni, ma ha un ruolo importante anche per la memoria, l'attenzione e
+l'apprendimento.</p>
 
 
-
-<h3>I nuclei dell'amigdala</h3>
 <p>L'amigdala comprende diversi nuclei:</p>
+<img XXclass="zoomable" src="/assets/images/19/EaseUS_2026_08_23_18_56_31.webp" />
 <ul>
 <li>l'<strong>amigdala basolaterale</strong>, formata dal <strong>nucleo laterale</strong> (che riceve informazioni sensoriali da
 talamo e corteccia) e dal <strong>nucleo basale</strong>: entrambi composti prevalentemente da neuroni eccitatori;</li>
@@ -139,33 +143,29 @@ encefalico che regolano risposte fisiologiche come l'aumento del battito cardiac
 </ul>
 
 
-
-<h3>La paura e il condizionamento classico</h3>
 <p>Il ruolo dell'amigdala nella memoria emotiva è stato studiato soprattutto attraverso il <strong>condizionamento alla
-paura</strong>, basato sul <strong>condizionamento classico</strong>. Nel condizionamento classico, uno stimolo condizionato
-(per esempio un suono) viene associato ripetutamente a uno stimolo incondizionato, che produce già da solo una risposta nota.
-Con la ripetizione, anche il solo stimolo condizionato arriva a produrre la stessa risposta. Studiando il condizionamento alla
-paura nei ratti, associando un suono a una scossa elettrica, è stato possibile ricostruire i <strong>circuiti neuronali della
-paura</strong>. L'informazione sensoriale viene elaborata dal nucleo laterale, che la invia al nucleo basale e poi al nucleo
-centrale. Quest'ultimo attiva le reazioni fisiologiche (per esempio l'aumento della pressione sanguigna) e comportamentali (per
-esempio l'immobilizzazione) che insieme costituiscono la risposta emozionale.</p>
+paura</strong>, basato sul <strong>condizionamento classico</strong>: uno stimolo condizionato (per esempio un suono) viene
+associato ripetutamente a uno stimolo incondizionato, che produce già da solo una risposta nota. Con la ripetizione, anche il
+solo stimolo condizionato arriva a produrre la stessa risposta.</p>
 
+<p>Studiando il condizionamento alla paura nei ratti — associando un suono a una scossa elettrica — si è visto che
+l'informazione sensoriale viene elaborata dal <strong>nucleo laterale</strong>, che la invia al <strong>nucleo basale</strong> e
+poi al <strong>nucleo centrale</strong>. Quest'ultimo attiva le reazioni fisiologiche e comportamentali (per esempio
+l'immobilizzazione) che insieme costituiscono la risposta emozionale.</p>
 
+<p>Per raggiungere il nucleo laterale, l'informazione sensoriale segue due vie parallele.</p>
+<ul>
+    <li>Una via <strong>diretta</strong> genera le reazioni emozionali inconsce</li>
+    <li>Una via <strong>indiretta</strong>, che passa per la corteccia sensoriale e l'ippocampo, genera invece le reazioni 
+    che coinvolgono un'elaborazione più cosciente</li>
+</ul>    
+<p>L'esistenza di questa via diretta e immediata è in parziale
+contrasto con le teorie cognitive, secondo cui le emozioni nascerebbero sempre da una valutazione cognitiva.</p>
 
-<h3>Le due vie parallele dell'amigdala</h3>
-<p>L'informazione sensoriale raggiunge il nucleo laterale attraverso due vie parallele. Una via <strong>diretta</strong> è
-responsabile delle reazioni emozionali inconsce. Una via <strong>indiretta</strong>, che passa per la corteccia sensoriale e
-l'ippocampo, è responsabile invece delle reazioni che coinvolgono un'elaborazione più cosciente. Questo suggerisce l'esistenza
-di una via emotiva diretta e più immediata, in parziale contrasto con le teorie cognitive secondo cui le emozioni sono sempre
-il risultato di una valutazione cognitiva.</p>
-
-
-
-<h3>La risposta emozionale agli stimoli nuovi</h3>
-<p>Gli interneuroni inibitori dell'amigdala impediscono normalmente una risposta a stimoli irrilevanti. Uno stimolo nuovo produce
-una risposta che si riduce se lo stimolo si ripete (un fenomeno chiamato abituazione). Ma se lo stimolo si associa a un evento
-rilevante, per esempio minaccioso, il controllo inibitorio si riduce: questo permette la formazione dell'apprendimento
-emozionale condizionato.</p>
+<p>Normalmente, gli interneuroni inibitori dell'amigdala bloccano le risposte agli stimoli irrilevanti. Uno stimolo nuovo
+produce comunque una risposta, che però si riduce se lo stimolo si ripete — un fenomeno chiamato abituazione. Ma se lo stimolo
+nuovo si associa a un evento importante, per esempio una minaccia, il controllo inibitorio si riduce: questo rende possibile la
+formazione dell'apprendimento emozionale condizionato.</p>
 
 
 
@@ -183,23 +183,19 @@ sono rivelate adattive nel corso dell'evoluzione;</li>
 
 
 
-<h3>Gli studi sugli esseri umani: EEG e potenziali evento-relati</h3>
-<p>Nell'uomo, i primi studi hanno usato l'<strong>elettroencefalografia</strong> (EEG), che misura l'attività elettrica di
-migliaia di cellule insieme. Gli <strong>studi con potenziali evento-relati</strong> misurano invece le variazioni
-dell'attività elettrica in risposta a uno stimolo, ripetuto più volte per ottenere una media affidabile, valutandone la
-polarità e la latenza (il tempo di comparsa). Le diverse componenti del potenziale corrispondono a fasi diverse
-dell'elaborazione emozionale. Questo permette di misurare non solo la reazione emotiva, ma anche influenze cognitive come
-l'attenzione. Uno dei risultati più consistenti è un'attivazione prevalente dell'emisfero destro rispetto al sinistro in
-risposta alla stimolazione emozionale.</p>
+<h3>Gli studi sugli esseri umani: EEG, potenziali evento-relati, risonanza magnetica funzionale</h3>
+<p>Nell'uomo, i primi studi hanno usato l'<strong>elettroencefalografia</strong> (EEG), che misura l'attività elettrica del
+cervello.</p> 
 
+<p>Con gli <strong>studi con potenziali evento-relati</strong> si ripete più volte uno stimolo e si misura come cambia
+questa attività, sia in intensità sia nel tempo di comparsa. In questo modo si può osservare non solo la reazione emotiva, ma
+anche processi cognitivi come l'attenzione. Un risultato ricorrente: di fronte a stimoli emotivi, l'emisfero destro si attiva
+più del sinistro.</p>
 
-
-<h3>La risonanza magnetica funzionale e i limiti di questi studi</h3>
-<p>Sempre più studi di neuroimaging usano la <strong>risonanza magnetica funzionale</strong> per studiare le emozioni e
-l'apprendimento emozionale. Mostrano circuiti neuronali negli esseri umani simili a quelli trovati negli animali, almeno per il
-condizionamento alla paura. Va però tenuto conto che questi studi sono spesso condotti su campioni piccoli e presentano limiti
-procedurali, come un'elevata sensibilità a minimi movimenti della testa, che possono generare segnali artefatti (falsi segnali
-dovuti al movimento, non alla reale attività cerebrale).</p>
+<p>Oggi si usa sempre più anche la <strong>risonanza magnetica funzionale</strong>, che mostra nell'uomo circuiti simili a
+quelli trovati negli animali, per esempio nel condizionamento alla paura. Questi studi però hanno dei limiti: i campioni sono
+spesso piccoli, e anche piccoli movimenti della testa possono generare segnali falsi, non legati alla reale attività
+cerebrale.</p>
 
 <?php
 $article_body = ob_get_clean();

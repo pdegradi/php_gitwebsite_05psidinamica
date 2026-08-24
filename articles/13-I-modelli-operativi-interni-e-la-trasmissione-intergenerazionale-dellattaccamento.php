@@ -52,6 +52,16 @@ come privo di questo script, o con uno script ridotto.</p>
 <p>Non esistono ancora studi definitivi su come e quando si formino esattamente i MOI, ma alcune evidenze empiriche possono
 contribuire a spiegarlo.</p>
 
+<p>Uno studio di <strong>Hamlin, Wynn, Bloom e Mahajan (2011)</strong> ha osservato bambini di 8 mesi mentre guardavano delle
+vignette: i bambini mostravano apprezzamento, per esempio sorridendo, quando individui prosociali ricevevano comportamenti
+positivi, e anche quando individui antisociali venivano puniti. È un segno che, già prima della fine del primo anno di vita, i
+bambini sanno riconoscere le intenzioni emotive altrui: una capacità che potrebbe essere alla base della formazione dei MOI.</p>
+
+<p>Un altro studio, di <strong>Xu e Kushnir (2013)</strong>, mostra che anche i neonati apprendono secondo un pensiero
+probabilistico: valutano cioè la probabilità che, per esempio, la madre intervenga in loro soccorso quando si fanno male. Su
+questa base costruiscono i propri script e i propri MOI: più alta è la probabilità stimata, più si consolida uno script di base
+sicura.</p>
+
 
 
 
@@ -122,6 +132,8 @@ appropriato.</li>
 
 
 
+
+
 <h2>La funzione riflessiva (mentalizzazione) secondo Peter Fonagy</h2>
 <p><strong>Peter Fonagy</strong>, collaboratore di Mary Main, introduce il concetto di <strong>funzione riflessiva</strong> (o
 <strong>mentalizzazione</strong>): la capacità di comprendere il comportamento — proprio e altrui — in termini di stati mentali
@@ -136,6 +148,30 @@ propria: la capacità di mentalizzare si trasmette così dal genitore al bambino
 <p>La funzione riflessiva è quindi legata a un attaccamento sicuro, ed è uno dei fattori alla base della trasmissione
 intergenerazionale dello stile di attaccamento. Come per gli altri costrutti misurati con l'AAI, anche qui la valutazione non si
 basa sui contenuti del racconto, ma sul modo in cui la persona risponde (per esempio in modo autoriflessivo oppure evasivo).</p>
+
+
+
+<h3>La regolazione delle emozioni</h3>
+<p>Il modo in cui la madre modula le proprie emozioni davanti al pianto del bambino viene trasmesso al bambino stesso, come
+stile di <strong>regolazione delle emozioni</strong>. Se la madre resta irritata, ostile o stressata, cercando solo di ignorare
+il proprio disagio, questa modalità poco efficace viene appresa dal bambino. Se invece fa un respiro e pensa "è un bambino
+piccolo, è normale che pianga, ora sono un po' stanca ma si risolverà", riesce a ridurre l'intensità della propria emozione
+negativa: una modalità più efficace, che il bambino apprende a sua volta come proprio stile di regolazione.</p>
+
+
+
+<h3>L'attaccamento come strategia di comunicazione emotiva</h3>
+<p>Le categorie di attaccamento viste con l'AAI possono anche essere lette, in termini più moderni, come diversi modi di
+comunicare i propri stati emotivi. L'attaccamento, in questo senso, è soprattutto una <strong>strategia di comunicazione dei
+propri stati emotivi</strong>:</p>
+<ul>
+<li><strong>apertura</strong> alla comunicazione e alla condivisione delle proprie emozioni: tipica dell'attaccamento
+sicuro;</li>
+<li><strong>strategia difensiva</strong> nella condivisione delle proprie emozioni: tipica dell'attaccamento evitante
+insicuro;</li>
+<li><strong>preoccupazione eccessiva</strong> per le proprie emozioni: tipica dell'attaccamento preoccupato insicuro.</li>
+</ul>
+
 
 
 
@@ -171,28 +207,12 @@ modo paritario nella cura del bambino, con benefici anche per la relazione madre
 
 
 
-
-
-
-
-<h2>Attaccamento e psicopatologia del bambino</h2>
-<p>Per Bowlby, lo sviluppo psicofisiologico del bambino dipende sia dalle prime esperienze di attaccamento sia dal contesto attuale:
-un attaccamento insicuro non è di per sé una psicopatologia, ma un <strong>fattore di rischio</strong>; un attaccamento sicuro, al
-contrario, è un <strong>fattore di resilienza</strong>. È sempre il contesto presente a determinare in quale direzione va lo
-sviluppo.</p>
-
-<p>Gli studi mostrano che un attaccamento evitante è legato sia a sintomi <strong>internalizzanti</strong> (ansia,
-depressione) sia <strong>esternalizzanti</strong> (problemi di condotta, iperattività), mentre un attaccamento disorganizzato è
-legato soprattutto a questi ultimi.</p>
-
-
-<h3>L'attaccamento padre-bambino</h3>
-<p>Anche il legame di attaccamento con il padre, studiato solo di recente, predice esiti di sviluppo del bambino:</p>
-<ul>
-<li>può funzionare da <strong>fattore protettivo</strong> quando compensa uno stile materno insicuro (e viceversa), oppure
-rafforzare ulteriormente lo sviluppo quando entrambi i genitori condividono uno stile sicuro;</li>
-<li>si costruisce soprattutto attraverso il <strong>gioco</strong>, che favorisce la regolazione emotiva del bambino.</li>
-</ul>
+<h3>Maternità e carriera</h3>
+<p>Come visto nella lezione su <strong>Ainsworth</strong> e <strong>Bowlby</strong>, per molto tempo si è ritenuto importante
+che il bambino avesse un'unica figura di accudimento principale, in genere la madre: un'idea che ha pesato anche sul dibattito
+su come conciliare maternità e carriera. I risultati più recenti mostrano che non esiste, nei figli di madri lavoratrici, una
+particolare predisposizione a uno sviluppo psicofisiologico più complesso. Restano però aperte diverse domande su quali fattori
+socio-economici, familiari e lavorativi favoriscano meglio la combinazione tra maternità e carriera.</p>
 
 
 

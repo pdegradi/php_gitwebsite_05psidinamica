@@ -30,7 +30,8 @@ alla base di tutti i funzionamenti mentali: pensieri, sentimenti, percezioni, co
 <li>i <strong>dendriti</strong>, prolungamenti ramificati che formano la "zona di input": è qui che il neurone riceve informazioni
 dagli altri neuroni;</li>
 <li>l'<strong>assone</strong>, un prolungamento singolo che forma la "zona di output": è qui che il neurone trasmette informazioni
-agli altri neuroni.</li>
+agli altri neuroni. Pur essendo un prolungamento unico, l'assone termina in diverse ramificazioni: questo permette a un neurone
+di trasmettere segnali a più neuroni diversi.</li>
 </ul>
 
 
@@ -130,27 +131,6 @@ radioattive iniettate nei vasi sanguigni;</li>
 nelle diverse aree durante lo svolgimento di un compito.</li>
 </ul>
 
-
-
-
-
-
-<h2>Psicoanalisi e neuroscienze: emozioni e memoria</h2>
-
-
-
-<h3>Dall'inconscio rimosso all'inconscio implicito</h3>
-<p>Come già visto più volte, il concetto di inconscio si è evoluto nel tempo. Nell'interpretazione classica di Freud
-l'<strong>inconscio</strong> è "rimosso": è fatto di esperienze traumatiche allontanate dalla coscienza. In un'interpretazione
-più moderna si parla invece di <strong>inconscio implicito</strong>, cioè l'insieme di rappresentazioni generali di interazioni
-tipiche, che funzionano come un modello di ciò che dobbiamo credere e aspettarci dal mondo.</p>
-
-
-
-<h3>La memoria rimossa e la memoria implicita</h3>
-<p>In entrambe le interpretazioni, l'inconscio è un depositarsi nella memoria di rappresentazioni affettive legate alle esperienze
-e alle fantasie vissute fin dall'inizio della vita. La differenza sta nel modo in cui questa memoria viene concepita:
-distinguendo, come vedremo, la memoria rimossa dalla memoria implicita.</p>
 
 <?php
 $article_body = ob_get_clean();

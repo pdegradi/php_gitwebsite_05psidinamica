@@ -11,6 +11,11 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
+
+
+
+
+
 <h2>La seconda critica alla teoria dell'attaccamento e il suo superamento</h2>
 <p>La seconda critica rivolta a <strong>Bowlby</strong> riguardava il metodo: per essere verificata empiricamente, la teoria
 dell'attaccamento traduce i concetti psicoanalitici in <strong>definizioni operazionali</strong> (definizioni basate su
@@ -31,6 +36,12 @@ soprattutto da come reagiscono le persone significative intorno a noi: biologia 
 dall'inizio, in un processo continuo, e non vanno quindi studiati separatamente.</p>
 
 <div class="summary-block">
+
+
+
+
+
+
 <h2>La seconda critica alla teoria dell'attaccamento e il suo superamento (riassunto)</h2>
 <p>La teoria dell'attaccamento traduce i concetti psicoanalitici in comportamenti osservabili (<strong>definizioni
 operazionali</strong>): per alcuni psicoanalisti questa semplificazione rischiava di distorcere concetti troppo complessi.
@@ -45,10 +56,17 @@ determinano lo sviluppo: il loro effetto dipende da come rispondono le persone c
 influenzano quindi a vicenda fin dalla nascita, in un processo continuo che li rende inseparabili.</p>
 </div>
 
+
+
+
+
+
 <h2>L'influenza dell'etologia</h2>
 <p>Per comprendere la teoria dell'attaccamento occorre considerare l'influenza dell'<strong>etologia</strong>, definita come lo studio
 comparato del comportamento animale. Il padre dell'etologia è <strong>Konrad Lorenz</strong>, che dall'osservazione dei
 comportamenti animali introdusse alcuni concetti poi ripresi da Bowlby.</p>
+
+
 
 <h3>Konrad Lorenz e l'imprinting</h3>
 <p>Un primo concetto è quello di <strong>imprinting</strong>: secondo Lorenz, negli animali esiste un <strong>periodo
@@ -67,6 +85,8 @@ garantire la sopravvivenza della specie: nasciamo con schemi innati di risposte 
 l'ambiente (di solito la madre biologica). Questi istinti sono specie-specifici: se cambia la specie di riferimento, come
 nell'esperimento di Lorenz, qualcosa va storto, perché si tratta di risposte stereotipate che, fuori dalla finestra del periodo
 critico, non possono più essere modificate dall'esperienza.</p>
+
+
 
 <h3>Harry Harlow e l'esperimento delle scimmiette</h3>
 <p>Un altro contributo alla teoria dell'attaccamento viene da <strong>Harry Harlow</strong>, che nel 1958, nell'articolo "The nature
@@ -88,6 +108,11 @@ il calore: per le scimmiette il bisogno primario non era essere nutrite, ma aver
 e calda. Le scimmiette cresciute solo con la madre di metallo, al contrario, mostravano comportamenti più isolati, simili a stati
 depressivi o autistici: il solo nutrimento, quindi, non basta a garantire uno sviluppo psichico sano.</p>
 
+
+
+
+
+
 <h2>John Bowlby e la Scuola Inglese delle Relazioni Oggettuali</h2>
 
 <p>Bowlby si definì sempre uno psicoanalista, pur essendo la sua teoria dell'attaccamento considerata 
@@ -97,7 +122,6 @@ che sostenenva che la motivazione fondamentale della vita non è la ricerca di p
 Fairbairn aveva anche spiegato in questo modo la coazione a ripetere (che aveva portato Freud a introdurre la pulsione di morte): 
 per lui le persone hanno un tale bisogno di relazioni umane che preferiscono restare in legami disfunzionali piuttosto che isolarsi
 completamente.</p>
-
 
 
 
@@ -133,8 +157,6 @@ garantisce la sopravvivenza</strong>, aumentando le probabilità di sopravvivenz
 
 
 
-
-
 <h3>I comportamenti di attaccamento</h3>
 <p>I comportamenti di attaccamento possono essere:</p>
 <ul>
@@ -150,9 +172,6 @@ il bambino può dedicarle all'esplorazione dell'ambiente e a uno sviluppo cognit
 
 
 
-
-
-
 <h3>Il sistema di accudimento</h3>
 <p>Il <strong>sistema di accudimento</strong> è il sistema che si attiva 
 nella figura di allevamento principale quando i comportamenti di attaccamento del bambino segnalano il bisogno di vicinanza e 
@@ -165,17 +184,18 @@ le proprie energie nell'esplorazione dell'ambiente.</p>
 
 
 
-
-
 <h3>L'attaccamento nell'arco del ciclo di vita</h3>
-<p>Bowlby introdusse un concetto importante: l'attaccamento non riguarda solo la prima infanzia, ma <strong>è un tema centrale 
+<p>Bowlby introdusse un concetto importante: l'attaccamento non riguarda solo la prima infanzia, ma <strong>è un tema centrale
 della vita umana nell'arco dell'intero ciclo di vita</strong></p>
 
-</p>Le esperienze vissute con le figure di attaccamento nei primi anni rappresentano il modello 
-su cui si organizzano tutti i legami affettivi successivi, comprese le aspettative sulle situazioni nuove, la suscettibilità 
+<p>Questa visione era innovativa. Si contrappone alle <strong>teorie dell'arresto evolutivo</strong> (definizione di Stephen
+Mitchell), diffuse tra gli psicologi dell'Io: per queste teorie l'ambiente dei primi anni è determinante, ma una volta che l'Io
+si è formato, il destino dell'individuo è già in qualche modo segnato. Bowlby, al contrario, propone una visione più vicina agli
+approcci relazionali e intersoggettivi contemporanei, in cui i bisogni di attaccamento restano centrali in ogni età.</p>
+
+<p>Le esperienze vissute con le figure di attaccamento nei primi anni rappresentano il modello
+su cui si organizzano tutti i legami affettivi successivi, comprese le aspettative sulle situazioni nuove, la suscettibilità
 alla paura, la valutazione del proprio valore personale e la possibilità di ricevere riconoscimento e aiuto.</p>
-
-
 
 
 
@@ -189,8 +209,6 @@ interazioni con i genitori, ripetute nel tempo, vengono astratte in modelli gene
 un concetto vicino all'<strong>inconscio rappresentazionale</strong> già incontrato nella teoria intersoggettiva (l'inconscio 
 preriflessivo), cioè un contenuto inconscio non perché rimosso, ma perché implicito — proprio il punto di contatto tra la 
 psicologia dinamica contemporanea e la psicologia cognitiva.</p>
-
-
 
 
 

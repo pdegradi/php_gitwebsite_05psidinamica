@@ -17,220 +17,274 @@ ob_start();
 
 
 <h2>La teoria della cura</h2>
-<p>Secondo <strong>Mitchell</strong> e <strong>Black</strong>, indipendentemente dai vari orientamenti proposti nel tempo, la
-psicoanalisi clinica riguarda fondamentalmente le persone e le loro difficoltà di vita. Si tratta di una relazione in cui ci si
-impegna per raggiungere una comprensione di sé più profonda, un senso più ricco di significato personale e una maggiore
-libertà. Queste tre caratteristiche sono presenti in tutte le teorie psicoanalitiche, ma hanno un peso diverso a seconda
-dell'orientamento: la comprensione di sé è più centrale nella psicoanalisi classica freudiana, il significato personale in
-teorie come quella di Winnicott o la Psicologia del Sé, la libertà nella psicoanalisi intersoggettiva. La definizione di
-Mitchell e Black cerca quindi di racchiudere tutti questi orientamenti in un approccio di <strong>psicoanalisi
-integrata</strong>.</p>
+<p>Partiamo da una definizione generale di <strong>Mitchell</strong> e <strong>Black</strong>, che prova a riassumere
+l'obiettivo della tecnica psicoanalitica indipendentemente dai vari orientamenti proposti nel tempo: la psicoanalisi clinica
+riguarda fondamentalmente le persone e le loro difficoltà di vita. È una relazione in cui ci si impegna per raggiungere una più
+profonda comprensione di sé, un senso più ricco di significato personale e una quota maggiore di libertà. Queste tre
+caratteristiche sono importanti per tutte le teorie psicoanalitiche, ma trovano un peso diverso a seconda dell'orientamento: la
+comprensione di sé è più centrale nella psicoanalisi classica freudiana, il significato personale in teorie come quella di
+Winnicott o la Psicologia del Sé, la libertà nella psicoanalisi intersoggettiva. Nella definizione di Mitchell e Black c'è
+quindi l'intenzione di racchiudere tutti gli orientamenti psicoanalitici proposti in un approccio che possiamo definire di
+<strong>psicoanalisi integrata</strong>.</p>
 
 
 
 <h3>L'evoluzione della teoria psicoanalitica</h3>
-<p>Riprendiamo le differenze già viste tra psicoanalisi classica e orientamenti contemporanei:</p>
+<p>Riprendiamo le differenze, già viste nelle lezioni precedenti, tra la psicoanalisi classica freudiana e gli orientamenti più
+contemporanei:</p>
 <ul>
-<li>la <strong>funzione della mente</strong>: da apparato per scaricare l'eccitamento a strumento per formare e preservare i
+<li>la <strong>funzione della mente</strong>: da apparato per scaricare l'eccitamento ad apparato per formare e preservare i
 legami con gli altri;</li>
 <li>l'<strong>inconscio</strong>: dall'inconscio rimosso all'inconscio rappresentazionale;</li>
-<li>il <strong>trauma</strong>: da singola esperienza con affetto troppo elevato per essere scaricato, a modalità disadattive di
-interazioni ripetute;</li>
+<li>il <strong>trauma</strong>: da singola esperienza in cui l'entità emozionale generata è troppo elevata per essere scaricata,
+a modalità disadattive di interazioni ripetitive;</li>
 <li>l'<strong>origine della psicopatologia</strong>: dalla fase edipica ai primi anni di vita.</li>
 </ul>
-<p>A questo si aggiunge l'influenza di fattori filosofico-culturali più ampi. La psicoanalisi classica, in una prospettiva
-illuminista, riteneva che la cura di sé corrispondesse alla conoscenza di sé: conoscersi voleva dire guarire. Le concezioni
-moderne mettono invece in discussione la possibilità stessa di trovare una verità definitiva, su di sé o sul mondo esterno.</p>
+<p>Oltre a queste differenze, va sottolineata l'influenza di fattori filosofico-culturali più ampi, che hanno portato a un
+generale scetticismo verso la visione illuminista predominante all'epoca di Freud. Per la psicoanalisi classica, in una
+prospettiva illuminista, la cura di sé corrispondeva alla conoscenza di sé: conoscere se stessi voleva dire guarire. Nelle
+concezioni moderne, invece, viene messa in discussione la possibilità stessa di trovare la verità, sia su di sé che sul mondo
+esterno.</p>
 
 
 
 <h3>La teoria della cura secondo Freud</h3>
 <p>Per Freud gli obiettivi terapeutici erano:</p>
 <ul>
-<li>ridurre la sofferenza del paziente scaricando l'affetto incapsulato;</li>
+<li>ridurre la sofferenza del paziente, scaricando l'affetto incapsulato e riducendo l'angoscia;</li>
 <li>rendere conscio l'inconscio;</li>
-<li>rafforzare l'Io, promuovendo controllo e autonomia;</li>
-<li>mitigare la severità del Super-io;</li>
-<li>promuovere l'integrazione dei contenuti psichici isolati;</li>
-<li>promuovere l'<strong>insight</strong> attraverso l'interpretazione del transfert.</li>
+<li>rafforzare l'Io, ovvero promuovere il controllo e l'autonomia;</li>
+<li>mitigare la severità del Super-Io;</li>
+<li>promuovere la correzione associativa e l'integrazione dei contenuti psichici isolati;</li>
+<li>promuovere l'insight, la presa di coscienza e la comprensione nel paziente attraverso l'interpretazione del
+transfert.</li>
 </ul>
-<p>Il meccanismo chiave della cura era proprio l'insight prodotto dall'interpretazione del transfert. Il compito dell'analisi è
-essenzialmente un lavoro di memoria: punta a recuperare il più rapidamente possibile ricordi, pulsioni e fantasie infantili
-rimosse. Ciò che è patologico, infatti, è qualcosa che un tempo è stato cosciente e che, reso inaccessibile dalla rimozione,
-può tornare alla coscienza attraverso l'interpretazione.</p>
+<p>Tutto questo veniva fatto rendendo conscio l'inconscio, promuovendo l'insight attraverso l'interpretazione del transfert. Il
+meccanismo chiave, per Freud, era proprio l'<strong>insight</strong> (la presa di consapevolezza) promosso
+dall'interpretazione del transfert. Il compito dell'analisi è fondamentalmente un lavoro di memoria: raggiungere il più
+rapidamente possibile i ricordi, le pulsioni e le fantasie infantili soggetti a rimozione. Nella psicoanalisi classica,
+l'aspetto patologico è qualcosa che può emergere alla coscienza, che una volta è stato cosciente e che a un certo punto è
+diventato non più accessibile (rimosso): con un lavoro di interpretazione, ciò che è stato rimosso può riemergere alla
+coscienza.</p>
 
 
 
-<h3>Il transfert</h3>
-<p>Il percorso delle associazioni libere viene, a un certo punto, interrotto. Il paziente sviluppa improvvisamente sentimenti
-intensi verso l'analista, che diventa un potenziale nemico o amante. Questo fenomeno si chiama <strong>transfert</strong>.
-Inizialmente considerato un ostacolo alla terapia, si scoprì poi che il suo sviluppo è fondamentale per la cura. Questi
-sentimenti, infatti, sono la ripetizione di schemi relazionali appresi nella prima infanzia verso le figure genitoriali,
-spostati sull'analista: non hanno nulla a che fare con il terapeuta reale. Se il terapeuta sa interpretare adeguatamente il
-transfert, il paziente raggiunge una maggiore consapevolezza di sé. Attraverso il transfert, il processo analitico riporta il
-paziente nel passato. Non importa chi sia l'analista: il transfert si basa esclusivamente sugli aspetti del paziente, e
-l'analista non fa che "regolare i comandi della macchina del tempo". Per Freud, ciò che viene rimosso sono i desideri sessuali
-infantili perturbanti, che riemergono in forma camuffata e diretti verso l'analista. Il paziente mette così in scena una
-riedizione di un'antica relazione oggettuale, e il cambiamento avviene attraverso l'insight prodotto dall'interpretazione.</p>
+<h3>Il transfert e l'interpretazione del transfert</h3>
+<p>Il percorso intrapreso attraverso le associazioni libere è, ad un certo punto, interrotto dal repentino sviluppo, da parte
+del paziente, di sentimenti intensi per l'analista: l'analista diventa un potenziale nemico o amante, e il lavoro
+psicoanalitico perde importanza per il paziente. Questa interferenza nel processo psicoanalitico prende il nome di
+<strong>transfert</strong>. Inizialmente il transfert era stato considerato un ostacolo alla terapia, ma poi ci si rese conto
+che lo sviluppo di questi sentimenti è fondamentale per procedere verso la cura: solo attraverso l'interpretazione di questo
+fenomeno si può raggiungere l'insight, la comprensione e una maggiore consapevolezza di sé. Questo perché i sentimenti
+rappresentano l'emergere di sensazioni rimosse verso le figure della prima infanzia, spostate sulla figura dell'analista: sono
+la ripetizione di schemi relazionali sperimentati nel passato, e non hanno nulla a che fare con il terapeuta reale. Se il
+terapeuta saprà interpretare adeguatamente il transfert, il paziente raggiungerà una maggiore consapevolezza di sé e quindi la
+guarigione. Attraverso l'esperienza del transfert, il processo psicoanalitico riporta il paziente nel passato: non importa chi
+sia l'analista, perché il transfert si basa esclusivamente sugli aspetti del paziente. L'analista non fa altro che regolare i
+comandi della "macchina del tempo" per permettere al paziente di tornare nel passato. Per Freud, ciò che viene rimosso sono i
+desideri sessuali infantili perturbanti, che riemergono nel corso dell'analisi in forma camuffata e diretti verso l'analista:
+il paziente attua così una riedizione di un'antica relazione oggettuale. Nella psicoanalisi classica, il cambiamento è
+l'eliminazione della rimozione, che avviene attraverso l'insight prodotto dall'interpretazione.</p>
 
 
 
 <h3>Il contro-transfert per Freud</h3>
-<p>Freud era consapevole anche del <strong>contro-transfert</strong>, cioè i sentimenti del passato dell'analista, rivolti verso
-il paziente, che emergono nella relazione terapeutica. Per la psicoanalisi classica, l'analista deve mantenere un'"attenzione
-liberamente fluttuante", di calma e obiettività. I sentimenti di contro-transfert sono inevitabili, perché l'analista è
-comunque un essere umano, ma vanno nascosti e controllati durante la seduta. Vanno poi elaborati dopo la seduta, in modo da
-recuperare la stessa attenzione neutrale a quella successiva.</p>
+<p>Freud era anche consapevole del processo di <strong>contro-transfert</strong>: i sentimenti del passato dell'analista,
+rivolti verso il paziente, che si presentano nella relazione terapeutica. Secondo la psicoanalisi classica, l'analista deve
+mantenere un atteggiamento ideale di calma e obiettività, una "attenzione liberamente fluttuante". I processi di transfert,
+secondo Freud, non hanno nulla a che fare con l'analista; l'analista, a sua volta, fa però anche esperienza di sentimenti forti
+per il paziente, cioè uno spostamento di sentimenti del proprio passato nella situazione psicoanalitica (il contro-transfert):
+questi sentimenti sono inevitabili, in quanto il terapeuta è un essere umano, ma devono essere nascosti e controllati durante
+la terapia, ed elaborati dopo ogni seduta, in modo che alla seduta successiva l'analista possa ritrovare un'attenzione
+liberamente fluttuante.</p>
 
 
 
-<h3>Il pensiero freudiano: una sintesi</h3>
-<p>Possiamo riassumere il pensiero di Freud in due punti. È una <strong>psicologia illuminista</strong>: la verità è raggiungibile
-ed è l'obiettivo della terapia. Ed è una <strong>psicologia unipersonale</strong>: il contenuto psichico è interno al paziente,
-e il terapeuta è irrilevante.</p>
+<h3>Il pensiero freudiano</h3>
+<p>Possiamo riassumere il pensiero freudiano come:</p>
+<ul>
+<li><strong>psicologia illuminista</strong>: la verità è raggiungibile, ed è l'obiettivo della terapia;</li>
+<li><strong>psicologia unipersonale</strong>: il contenuto psichico è interno al paziente, e il terapeuta è irrilevante.</li>
+</ul>
 
 
 
-<h3>La teoria della cura dopo Freud: Strachey e il Super-io</h3>
-<p><strong>Strachey</strong> (1887-1967) fu il primo a proporre, intorno agli anni '30, cambiamenti importanti nella tecnica
-psicoanalitica. Freud aveva definito i principi della tecnica attorno al 1910, sottolineando il ruolo dell'interpretazione nel
-promuovere l'insight. Solo più tardi, attorno al 1920, introdusse il concetto di Super-io, ma questo, notò Strachey, non aveva
-ancora portato a un cambiamento della tecnica. Il Super-io cambia però il concetto stesso di rimozione. La rimozione e la
-resistenza si mantengono non solo perché le pulsioni proibite sono percepite come pericolose, ma anche perché il bambino le ha
-interiorizzate come sbagliate e malvagie, per effetto del Super-io. Il Super-io è spesso vissuto come una parte di sé non
-completamente assimilata, un po' come il grillo parlante di Pinocchio.</p>
+<h3>La teoria della cura dopo Freud: Strachey e il Super-Io</h3>
+<p>Il primo autore che propose dei cambiamenti importanti nella teoria della tecnica psicoanalitica fu <strong>Strachey</strong>
+(1887-1967), intorno agli anni '30. Freud aveva definito i principi della tecnica psicoanalitica intorno al 1910,
+sottolineando che il ruolo dell'interpretazione nel promuovere l'insight è alla base del cambiamento. Solo più tardi, intorno
+al 1920, Freud introdusse il concetto di Super-Io, e Strachey notò che, nonostante l'importanza di questo concetto, di fatto
+non aveva portato a cambiamenti nell'interpretazione della tecnica psicoanalitica. Il concetto di Super-Io cambia però il
+concetto della rimozione: i processi di rimozione e di resistenza vengono mantenuti non soltanto perché le pulsioni proibite
+sono pericolose (l'angoscia segnale spaventa l'Io, che quindi attiva le difese), ma anche perché il bambino pensa che queste
+pulsioni siano sbagliate, malvagie e cattive, per effetto dell'interiorizzazione del Super-Io. Il Super-Io viene spesso vissuto
+come una parte di sé non completamente assimilata: molte persone, per esempio, parlano della coscienza come di qualcosa di
+esterno, un po' come il grillo parlante di Pinocchio.</p>
 
 
 
-<h3>Cambiare il Super-io</h3>
-<p>Il Super-io rappresenta le interiorizzazioni delle esperienze passate, e ci porta ad affrontare situazioni nuove con
-aspettative già determinate dall'esperienza. Agiamo spesso in modo da provocare esattamente le reazioni che ci aspettiamo, e
-queste nuove esperienze, interiorizzate, rinforzano ulteriormente le aspettative originarie. Secondo Strachey, se non avviene
-un cambiamento a livello del Super-io, la cura resta solo temporanea: prima o poi il Super-io tornerà a promuovere la rimozione
-di ciò che era emerso alla coscienza. Il metodo psicoanalitico classico, secondo l'autore, non deve però cambiare, perché già
-promuove indirettamente il cambiamento del Super-io, attraverso le modalità implicite nell'interpretazione del transfert.
-Interpretando, l'analista comunica indirettamente al paziente che le sue reazioni sono diverse da quelle apprese dal genitore.
-Porta così prove contrarie alle aspettative del Super-io, offrendo un nuovo modello relazionale.</p>
+<h3>Cambiare il Super-Io</h3>
+<p>Per promuovere un processo di rimozione stabile bisogna cambiare il Super-Io. Il Super-Io rappresenta le interiorizzazioni
+delle esperienze passate: questa struttura della personalità permette di affrontare situazioni nuove già con delle aspettative,
+determinate e guidate dall'esperienza passata. La presenza di queste aspettative influenza il nostro comportamento, e spesso
+agiamo in un modo che tende a provocare esattamente le reazioni che ci aspettiamo. Queste nuove esperienze vengono poi
+interiorizzate, rafforzando le aspettative originarie: il Super-Io rimane quindi immodificato e viene continuamente
+rinforzato.</p>
+
+
+
+<h3>Se non cambia il Super-Io</h3>
+<p>Secondo Strachey, anche se le pulsioni proibite vengono sottratte alla rimozione attraverso l'interpretazione che produce
+l'insight, se non avviene un cambiamento a livello del Super-Io la cura sarà soltanto temporanea: il Super-Io, appena
+possibile, tenderà infatti a promuovere di nuovo, nel tempo, i processi di rimozione, rispedendo nell'inconscio ciò che era
+apparso alla coscienza. Per Strachey, il metodo psicoanalitico classico non deve cambiare: già di per sé cambia il Super-Io, ma
+in maniera indiretta. L'insight è promosso in maniera diretta attraverso l'interpretazione, mentre il cambiamento del Super-Io
+avviene attraverso modalità di relazione implicite nell'interpretazione del transfert. Secondo l'autore, l'interpretazione del
+transfert permette non soltanto di sottrarre alla rimozione il materiale inconscio, ma anche di smentire le aspettative più
+profonde del paziente (dato che il terapeuta non agisce la relazione proposta dal transfert), portando così alla modificazione
+del Super-Io. Questo secondo processo dipende però dalle modalità dell'interpretazione, più che dai suoi contenuti: durante
+l'interpretazione, lo psicoanalista comunica indirettamente al paziente che le sue reazioni sono diverse da quelle che il
+paziente ha appreso dal genitore, portando così prove a sfavore delle aspettative immagazzinate nel Super-Io. Il terapeuta
+propone quindi al paziente un nuovo modello relazionale, perché reagisce diversamente dai genitori, e questo contribuisce a
+cambiare le aspettative del Super-Io.</p>
 
 
 
 <h3>Dalla teoria pulsionale alla teoria relazionale</h3>
 <p>Il contributo di Strachey è importante perché sposta l'attenzione dal contenuto alle modalità di relazione tra paziente e
-analista, e dal passato al presente. Sono temi centrali della psicoanalisi contemporanea, che possiamo definire una
-<strong>terapia relazionale</strong>, contrapposta alla <strong>teoria pulsionale</strong> classica. Per la teoria pulsionale:</p>
+psicoanalista, e dal passato al presente: sono questi i temi centrali della psicoanalisi contemporanea. Possiamo definire la
+psicoanalisi contemporanea come una <strong>terapia relazionale</strong>, che si oppone alla <strong>teoria pulsionale</strong>
+della psicoanalisi classica freudiana. Gli aspetti fondamentali della teoria pulsionale sono:</p>
 <ul>
-<li>la sofferenza si trova nella mente individuale, causata da impulsi rimossi;</li>
-<li>il passato determina il presente, su cui la terapia deve concentrarsi;</li>
-<li>la consapevolezza di sé è alla base della cura.</li>
+<li>la sofferenza è da ritrovare nella mente individuale del paziente, ed è causata dagli impulsi disturbanti rimossi;</li>
+<li>il passato determina il presente, ed è quindi ciò su cui la terapia si deve focalizzare;</li>
+<li>la consapevolezza e la conoscenza di sé sono alla base della cura.</li>
 </ul>
-<p>Per la teoria relazionale, invece:</p>
+<p>Gli aspetti fondamentali della teoria relazionale sono invece:</p>
 <ul>
-<li>la sofferenza si trova nelle modalità di relazione del paziente, cioè negli schemi appresi in relazioni passate;</li>
-<li>passato e presente hanno pari importanza;</li>
-<li>lo scambio relazionale tra paziente e terapeuta durante le sedute è alla base della cura.</li>
+<li>la sofferenza è da ritrovare nelle modalità di relazione del paziente, cioè in schemi di relazioni tipiche determinati da
+relazioni passate;</li>
+<li>passato e presente hanno uguale importanza;</li>
+<li>lo scambio di relazione durante le sedute, tra paziente e terapeuta, è alla base della cura.</li>
 </ul>
 
 
 
 <h3>La relazione psicoanalitica nella cura</h3>
-<p>Gli approcci post-freudiani (Psicologia dell'Io, relazioni oggettuali, Psicologia del Sé) condividono un'idea di fondo: il
-Super-io non nasce dalla risoluzione del complesso edipico, ma si costituisce fin dalla nascita nel contesto delle relazioni
-con gli altri. Attraverso il trattamento, lo psicoanalista offre al paziente nuovi modelli relazionali che riparano le
-disfunzioni di quelli genitoriali interiorizzati. Su questo punto restano però opinioni discordanti. Un primo gruppo di autori,
-in linea con Strachey, ritiene che il processo terapeutico classico assolva già indirettamente questo ruolo: per questo si
-preoccupa di non gratificare il paziente, per non perdere l'occasione dell'insight. Un secondo gruppo ritiene invece che il
-terapeuta debba mostrarsi più disponibile verso bisogni specifici del paziente, per potersi definire come persona diversa dal
-genitore che ha provocato il trauma. In questa seconda visione, l'analista è considerato un partecipante attivo.</p>
+<p>Gli approcci post-freudiani della Psicologia dell'Io, delle relazioni oggettuali e della Psicologia del Sé condividono
+l'idea che il Super-Io non si formi come risultato della risoluzione del complesso edipico, ma inizi a costituirsi fin dalla
+nascita: fin dal momento della nascita, l'essere umano si sviluppa nel contesto delle esperienze con gli altri. Tutti questi
+approcci ritengono che, attraverso il trattamento, lo psicoanalista offra al paziente nuovi modelli relazionali, che tendono a
+riparare le disfunzioni dei modelli relazionali genitoriali di cui si è fatto esperienza e che si sono interiorizzati. In altre
+parole, ritengono che alla base della cura psicoanalitica ci sia l'offerta di nuove forme di disponibilità genitoriale, mancate
+durante l'infanzia: per Strachey, per esempio, lo psicoterapeuta, semplicemente interpretando il transfert, propone al
+paziente qualcosa che il genitore non ha mai fatto, cioè un atteggiamento non giudicante, che accetta di più i sentimenti del
+paziente, e quindi un nuovo modello relazionale, che va a modificare il Super-Io. Ci sono però delle opinioni discordanti. Come
+Strachey, una serie di autori ritiene che la psicoanalisi classica assolva indirettamente a questo ruolo, e che il processo
+terapeutico non debba quindi cambiare: questo primo gruppo di autori si preoccupa di non gratificare il paziente, perché
+farlo significherebbe perdere l'opportunità dell'insight (per loro il problema principale è la rimozione dei conflitti, e il
+paziente deve essere spinto a portarli alla coscienza). Altri autori ritengono invece che l'atteggiamento del terapeuta debba
+essere più disponibile verso i pazienti, rispetto a qualche aspetto o bisogno specifico: questo permette all'analista di
+definirsi come persona diversa dal genitore traumatizzante. Per questo secondo gruppo di autori il problema principale sono le
+relazioni oggettuali antiche a cui si è rimasti attaccati, o che hanno provocato un'interruzione dello sviluppo: l'analista è
+quindi un partecipante attivo.</p>
 
 
 
 <h3>L'analista come partecipante attivo</h3>
-<p>L'analista classico era un osservatore neutrale, opaco, relativamente anaffettivo. L'analista contemporaneo è invece un partner
-interattivo, che reagisce emotivamente al paziente e propone interpretazioni esplicitamente soggettive — coerentemente con
-l'idea che la verità stessa non sia più considerata pienamente raggiungibile. Poiché il problema è nella relazione, anche il
-terapeuta ha un ruolo attivo nel determinare quel particolare transfert, che dipende dalla combinazione specifica tra quel
-paziente e quel terapeuta.</p>
+<p>Cosa significa essere più disponibili? A differenza dell'analista classico, che è un osservatore neutrale, opaco, obiettivo
+e relativamente anaffettivo, l'analista contemporaneo è un partner interattivo e propositivo, che non ha altra scelta che
+reagire emotivamente al paziente, e che propone interpretazioni e punti di vista irriducibilmente soggettivi. Questo si
+ricollega al fatto che non si crede più che la verità sia raggiungibile: anche il punto di vista del terapeuta è quindi
+soggettivo. Se il problema sta nella relazione, anche lo stesso terapeuta avrà un ruolo in quel determinato transfert, perché
+il transfert del paziente non sarà mai lo stesso indipendentemente dal terapeuta, ma sarà la combinazione tra quel determinato
+paziente e quel determinato terapeuta a provocare specifici processi all'interno del trattamento. Il terapeuta diventa quindi,
+da osservatore obiettivo, un partecipante attivo.</p>
 
 
 
-<h3>Il contro-transfert nella prospettiva relazionale</h3>
-<p>Le teorie contemporanee considerano il contro-transfert un processo chiave, mentre la teoria classica lo voleva nascosto.
-Riflette le difficoltà interpersonali ripetitive del paziente. Per esempio, un paziente che teme l'abbandono può, con il
-proprio stile relazionale appreso dai genitori, provocare proprio nel terapeuta i sentimenti (per esempio di noia o pesantezza)
-che lo spingono ad allontanarsi. Questo mostra come le modalità relazionali di uno influenzino quelle dell'altro.</p>
+<h3>Il contro-transfert</h3>
+<p>Le teorie contemporanee considerano il contro-transfert un processo chiave del lavoro psicoanalitico, mentre nella teoria
+classica doveva essere evitato e nascosto. In una prospettiva relazionale, il contro-transfert riflette le difficoltà
+interpersonali ripetitive del paziente. Prendiamo per esempio un paziente che, sdraiato sul lettino, dice "ho paura di essere
+abbandonato", e si vede che il terapeuta se ne è andato: cosa sta succedendo? Il paziente ha probabilmente appreso, dai
+genitori che lo hanno sempre fatto sentire abbandonato, modalità di relazione che provocano nell'altro proprio quello che lui
+teme, e infatti il terapeuta se ne va. I sentimenti del terapeuta, per esempio di noia o pesantezza, sono il riflesso delle
+modalità relazionali patologiche di quel determinato paziente: queste modalità agiranno in modo diverso con terapeuti diversi,
+e l'interpretazione di questi sentimenti può essere molto utile per mostrare al paziente come le modalità di relazione di due
+individui si influenzino a vicenda, e non siano quindi due aspetti separati.</p>
 
 
 
 <h3>Le rivelazioni contro-transferali selettive</h3>
-<p>Nessun approccio suggerisce che il terapeuta debba parlare continuamente di come si sente. Alcuni autori propongono però
-l'utilità di <strong>rivelazioni contro-transferali</strong>: selezionate con giudizio, nei momenti critici del percorso,
-dichiarate e discusse con il paziente. Sottolineando la soggettività delle proprie reazioni, il terapeuta offre al paziente una
-modalità relazionale attiva e cooperativa, di lavoro comune.</p>
+<p>Nessun approccio o autore suggerisce che il terapeuta debba parlare in continuazione di come si sente o della propria
+esperienza. Alcuni autori propongono però l'utilità di alcune <strong>rivelazioni contro-transferali selettive</strong>, fatte
+con giudizio, per esempio nei momenti critici del processo analitico: queste rivelazioni devono essere ritenute
+strategicamente utili per il percorso terapeutico, e devono essere dichiarate e discusse con il paziente. Il terapeuta
+sottolinea così la soggettività delle proprie reazioni, offrendo al paziente la possibilità di entrare in una nuova modalità
+relazionale, attiva e cooperativa, e di comprendere insieme, in un lavoro a due, quanto sta succedendo nel percorso analitico:
+il terapeuta mostra le proprie reazioni, mettendosi sullo stesso piano del paziente.</p>
 
 
 
-<h3>L'azione terapeutica nella psicoanalisi contemporanea</h3>
-<p>La psicoanalisi contemporanea affianca agli interventi che favoriscono l'insight, come nella psicoanalisi classica, interventi
-che favoriscono un nuovo tipo di relazione. Non si ritiene più che un solo metodo funzioni sempre: si promuove invece una
-maggiore flessibilità della tecnica in base al singolo paziente.</p>
-
-
-
-<h3>La relazione come strumento di cambiamento</h3>
-<p>La relazione nel processo analitico permette tre cose:</p>
+<h2>L'azione terapeutica nella psicoanalisi contemporanea</h2>
+<p>La psicoanalisi contemporanea ha aggiunto un nuovo tipo di obiettivo alla teoria della tecnica clinica, sottolineando in
+particolare l'efficacia di diversi tipi di interventi che promuovono il cambiamento:</p>
 <ul>
-<li>un'<strong>esperienza emozionale correttiva</strong>, che attiva nuove strategie interattive più adattive;</li>
-<li>l'<strong>interiorizzazione di una funzione</strong> non ancora usata dal paziente, per esempio imparare ad auto-consolarsi
-grazie alle capacità consolatorie del terapeuta;</li>
-<li>l'<strong>interiorizzazione degli atteggiamenti affettivi</strong> del terapeuta, che attenua la severità del Super-io del
-paziente.</li>
+<li>interventi che favoriscono l'<strong>insight</strong>, come nella psicoanalisi classica;</li>
+<li>interventi che favoriscono la formazione di un <strong>nuovo tipo di relazione</strong> (una concezione più recente).</li>
+</ul>
+<p>Oggi non si ritiene più che un solo metodo possa sempre funzionare: c'è invece un'attenzione a promuovere stili di
+approccio terapeutico e obiettivi diversi, a seconda del paziente che si ha davanti. Ci saranno alcuni pazienti più soddisfatti
+da una terapia più classica e tradizionale, e altri che invece reagiranno meglio a un approccio relazionale più moderno.
+Negli anni più recenti è stata promossa una maggiore flessibilità nella tecnica psicoanalitica, in modo da adattarsi meglio ai
+bisogni individuali di ciascun paziente: la ricerca in quest'area si sta ancora evolvendo, e ci si aspetta che nei prossimi anni
+ci sarà un maggiore chiarimento sulle strategie più efficaci per ciascun gruppo di pazienti.</p>
+
+
+
+<h2>La relazione come strumento di cambiamento</h2>
+<p>La psicoanalisi contemporanea sposta l'interesse dalla ricostruzione del passato alle interazioni nel presente tra paziente
+e analista. La relazione del processo psicoanalitico permette, in particolare:</p>
+<ul>
+<li>un'<strong>esperienza emozionale correttiva</strong>: sperimentare un nuovo tipo di relazione, che permette l'attivazione
+di nuove strategie interattive più adattive e la scoperta di nuove soluzioni di compromesso;</li>
+<li>l'<strong>interiorizzazione della funzione</strong>: il paziente impara a eseguire una funzione fino ad allora non usata.
+Per esempio, attraverso le capacità consolatorie dello psicoterapeuta, il paziente impara ad auto-consolarsi, una strategia di
+coping nuova e più efficace;</li>
+<li>l'<strong>interiorizzazione degli atteggiamenti affettivi</strong> dello psicoterapeuta: il paziente interiorizza
+l'atteggiamento di interesse dello psicoterapeuta verso esperienze o aspetti personali ritenuti imbarazzanti o indicativi di
+una personalità cattiva o sbagliata. Attraverso questa interiorizzazione, il paziente modula e attenua l'azione del Super-Io,
+smentendo le aspettative presenti nei suoi schemi di approccio relazionale.</li>
 </ul>
 
 
 
-<h3>Le strategie secondarie</h3>
-<p>La terapia psicoanalitica contemporanea condivide anche con altri approcci alcune <strong>strategie secondarie</strong>:</p>
+<h2>Le strategie secondarie</h2>
+<p>Oltre a promuovere l'insight e nuove modalità relazionali, la psicoanalisi contemporanea utilizza diverse altre forme di
+<strong>strategie secondarie</strong>, che contribuiscono alla promozione del cambiamento e che sono condivise anche con altri
+approcci psicoterapeutici. Alcuni esempi di strategie secondarie sono:</p>
 <ul>
-<li>l'esplorazione delle convinzioni disfunzionali, simile alla psicoeducazione cognitiva;</li>
+<li>l'esplorazione delle convinzioni disfunzionali, quella che nella teoria cognitiva potremmo chiamare la psicoeducazione;</li>
 <li>la promozione di strategie di risoluzione dei problemi;</li>
-<li>la tecnica dell'esposizione, tipica delle terapie comportamentali;</li>
-<li>la self-disclosure, cioè le rivelazioni personali del terapeuta.</li>
+<li>la tecnica dell'esposizione, utilizzata nelle psicoterapie comportamentali;</li>
+<li>la <strong>self-disclosure</strong>, ovvero le comunicazioni personali dello psicoterapeuta (le rivelazioni
+contro-transferali selettive, di cui abbiamo già parlato).</li>
 </ul>
 
 
 
-<h3>La teoria della cura contemporanea: una sintesi</h3>
-<p>La teoria della cura contemporanea si può riassumere in tre punti. Si basa su una relazione bipersonale, in cui la costruzione
-di un nuovo modo di relazionarsi è centrale. È focalizzata sul presente: paziente e terapeuta sono sullo stesso piano, non più
-su livelli diversi. Ed è definita attiva, una coppia al lavoro, in cui l'analista partecipa attivamente al percorso di
-cambiamento insieme al paziente.</p>
-
-
-
-
-
-
-<h2>L'azione terapeutica per la Psicologia del Sé</h2>
-<p>La teoria di <strong>Kohut</strong> rappresenta l'allontanamento più radicale dalla teoria clinica classica: propone più di
-ogni altra il cambiamento del paziente come obiettivo. Per Freud il processo fondamentale erano le interpretazioni che
-producono insight, in particolare l'interpretazione del transfert. Per Kohut, invece, il punto centrale dell'intervento è la
-<strong>comprensione empatica del terapeuta</strong>. Per la Psicologia del Sé, questa comprensione non è un mezzo per
-l'insight, ma il fine stesso della cura.</p>
-
-
-
-<h3>Lo sviluppo psicologico secondo Kohut</h3>
-<p>Kohut rifiuta la teoria del narcisismo di Freud. Per lui il narcisismo primario, cioè l'amore per sé stessi, è in armonia con
-l'amore per gli altri: non va superato, ma anzi mantenuto, perché è la base della capacità di amare gli altri. Il bambino vive
-inizialmente in uno stato di narcisismo primario, in cui i genitori empatici cercano di soddisfarne la grandiosità. Poiché
-anche i migliori genitori non riescono sempre a soddisfare immediatamente i suoi bisogni, il bambino sviluppa due nuclei
-complementari: il <strong>Sé grandioso</strong>, cioè il bisogno di sentirsi onnipotente, e l'<strong>immagine genitoriale
-idealizzata</strong>, cioè il bisogno di credere che chi si prende cura di lui possa procurargli qualsiasi cosa. Attraverso il
-confronto ripetuto con la realtà, e con genitori empatici che mostrano di non essere perfetti, il bambino vive
-<strong>esperienze di frustrazione ottimale</strong>. Queste esperienze lo portano a spostare aspetti del narcisismo primario
-dal Sé grandioso a una struttura più realistica e indipendente, il <strong>Sé nucleare</strong>: un processo chiamato
-<strong>internalizzazione trasmutante</strong>. Dal Sé nucleare si passa poi al <strong>Sé coeso</strong> e infine al
-<strong>Sé autonomo</strong> dell'adulto.</p>
+<h2>La teoria della cura contemporanea</h2>
+<p>Gli aspetti principali della teoria della cura contemporanea sono:</p>
+<ul>
+<li>si basa su una <strong>relazione bipersonale</strong>: particolare importanza ha la costruzione di una nuova modalità di
+relazione, che porti alla formazione di strategie interattive più adattive e funzionali;</li>
+<li>il lavoro è <strong>focalizzato sul presente</strong>: si concentra sulle relazioni attuali del paziente, in particolare
+sullo scambio clinico tra paziente e terapeuta, che non sono più su due livelli diversi come nella psicoanalisi classica, ma
+due individui sullo stesso piano che lavorano insieme per raggiungere un obiettivo comune;</li>
+<li>è definita <strong>attiva, una coppia a lavoro</strong>: lo psicoanalista partecipa attivamente al processo terapeutico,
+diventando insieme al paziente attore di un percorso di costruzione del cambiamento.</li>
+</ul>
 
 <?php
 $article_body = ob_get_clean();

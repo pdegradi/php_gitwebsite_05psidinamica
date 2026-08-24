@@ -10,6 +10,27 @@ require __DIR__ . '/../includes/config.php';
 
 ob_start();
 ?>
+
+
+
+
+
+
+<h2>La critica di Kandel e i due approcci psicoanalitici alla prima infanzia</h2>
+<p>Nel 1999 lo psichiatra <strong>Eric Kandel</strong> pubblicò un articolo sull'American Journal of Psychiatry in cui criticava
+la psicoanalisi: la giudicava prolifica nel produrre idee, ma poco capace di produrre metodi scientificamente validi per
+testarle. L'unica eccezione che le riconosceva era il contributo dato alla psicologia dello sviluppo.</p>
+
+<p>Proprio nello studio della prima infanzia si sono sviluppati due approcci psicoanalitici distinti. L'<strong>Infant
+Observation</strong> nasce in ambito clinico, con lo scopo di far conoscere allo psicoterapeuta le fasi dello sviluppo
+infantile: è l'approccio di cui parliamo in questo capitolo. L'<strong>Infant Research</strong> nasce invece per avvicinare
+l'osservazione del bambino a una visione più scientifica e sperimentale, ed è l'approccio del prossimo capitolo.</p>
+
+
+
+
+
+
 <h2>Il metodo ricostruttivo di Freud e i suoi limiti</h2>
 <p>Freud e la psicoanalisi classica studiavano la prima infanzia con il <strong>metodo ricostruttivo</strong>. Attraverso le
 associazioni libere, lo psicoanalista faceva riemergere i ricordi dei pazienti adulti. Da questi ricordi ricostruiva le prime fasi
@@ -22,15 +43,19 @@ mai stata codificata in parole. L'unico modo per studiarla è osservare direttam
 <p>Per questo motivo gli <strong>psicologi dell'Io</strong> sostenevano che il metodo ricostruttivo (valido per la fase verbale)
 andasse integrato con l'osservazione diretta (per la fase preverbale).</p>
 
-<p><strong>Donald Winnicott</strong> fu il primo a proporre questa stessa distinzione, con due termini: 
+<p><strong>Donald Winnicott</strong> fu il primo a proporre questa stessa distinzione, con due termini:</p>
 <ul>
     <li>il <strong>"profondo"</strong>: è la vita fantasmatica del paziente: ricordi e sogni, ricostruiti in analisi attraverso
 le associazioni libere</li>
-    <li>il <strong>"precoce"</strong>: è l'ambiente reale che ha sostenuto l'Io del bambino, e che emerge solo dall'osservazione diretta</li>
+    <li>il <strong>"precoce"</strong>: è l'ambiente reale che ha sostenuto l'Io del bambino, e che emerge solo dall'osservazione
+diretta</li>
 </ul>
 <p>Il profondo corrisponde quindi ai dati del metodo ricostruttivo, il precoce a quelli del metodo osservativo.</p>
 
-
+<p>Questa distinzione è stata ripresa e <strong>riformulata</strong> nel 1971 da <strong>Hanna Kennedy</strong>, in un
+articolo su "The Psychoanalytic Study of the Child". Kennedy parla di <strong>approccio genetico-ricostruttivo</strong> (i
+ricordi del bambino o dell'adulto emersi in analisi, che non coincidono con le esperienze realmente vissute) e di
+<strong>approccio evolutivo</strong> (le esperienze precoci osservate direttamente, così come sono accadute).</p>
 
 
 
@@ -73,10 +98,6 @@ pesare quanto le pulsioni sullo sviluppo psichico del bambino.</li>
 
 
 
-
-
-
-
 <h2>Il protocollo dell'Infant Observation di Esther Bick</h2>
 <img XXclass="zoomable" src="/assets/images/Esther-Bick.webp" />
 <p>Dalle prime ricerche di Anna Freud si è sviluppato un metodo più strutturato, il protocollo dell'<strong>Infant
@@ -104,6 +125,13 @@ ma li scrive subito dopo.</p>
 <p>Oltre alle visite settimanali, esistono incontri settimanali tra osservatori (in gruppi di 5-7 persone), in cui ciascuno condivide
 la propria esperienza sotto la guida di un coordinatore, che a sua volta è stato un osservatore.</p>
 
+<p>L'osservatore riceve una formazione intensa prima di iniziare, e continua a essere seguito attraverso questi gruppi. Deve
+anche saper fare <strong>auto-osservazione</strong>: riconoscere le proprie reazioni emotive ed evitare di proiettarle sulla
+coppia madre-bambino che sta osservando. Deve essere empatico verso la coppia, per comprenderne gli stati d'animo, ma allo
+stesso tempo distaccato emotivamente, per non proiettare le proprie reazioni emotive su ciò che osserva.</p>
+
+
+
 <h3>La circolarità tra procedura e teoria</h3>
 <p>Una delle critiche principali rivolte all'Infant Observation riguarda il metodo stesso: c'è una <strong>circolarità tra
 procedura e teoria</strong>. L'osservatore guarda il bambino con in mente la teoria psicoanalitica, e quindi si aspetta di trovare
@@ -112,6 +140,7 @@ lente con cui aveva guardato: il metodo finisce così per confermare sempre se s
 
 <p>Secondo il <strong>principio di falsificabilità</strong> di Popper, questo approccio non è pienamente scientifico. Una ricerca
 dovrebbe cercare di mettere in discussione una teoria, non solo di confermarla.</p>
+
 
 
 
