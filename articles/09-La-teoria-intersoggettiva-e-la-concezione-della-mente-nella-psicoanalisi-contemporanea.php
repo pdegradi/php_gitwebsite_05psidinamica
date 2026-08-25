@@ -11,75 +11,81 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
-
-
-
-
-
 <h2>La teoria intersoggettiva e la concezione della mente nella psicoanalisi contemporanea</h2>
 
-
-
-<h3>La svolta relazionale</h3>
-<p>Per introdurre la teoria intersoggettiva conviene riprendere alcuni concetti già visti a proposito della psicoanalisi
-interpersonale di Sullivan e del modello relazionale di Mitchell. Gli orientamenti psicoanalitici contemporanei detti
-"relazionali" prendono le distanze dal modello pulsionale della psicoanalisi classica: secondo queste teorie, la funzione
-principale della mente è formare e preservare i legami con gli altri.</p>
-
-
-
 <h3>Dalle pulsioni alle relazioni</h3>
-<p>Il modello pulsionale della psicoanalisi classica sosteneva che il soddisfacimento delle pulsioni richiedesse, a un
-certo punto, l'interazione con l'ambiente, e che questo comportasse in alcuni casi l'interiorizzazione di aspetti del
-mondo interpersonale (si pensi al Super-Io, che è appunto un'interiorizzazione delle norme e degli atteggiamenti dei
-genitori, diventata parte di noi). Per il modello pulsionale, però, la mente umana resta spiegata soprattutto da
-<strong>pulsioni fisiche predeterminate ed endogene</strong>: Freud stesso affermava che "l'anatomia è il nostro destino".</p>
-<p>I modelli che portano alla svolta relazionale propongono un'interpretazione diversa della mente umana. Per questi
-modelli esistono differenze costituzionali, ma le valenze e i significati che ne derivano cambiano da individuo a
-individuo e dipendono dal modo in cui gli altri significativi reagiscono. Biologia e processi interpersonali formano
-cicli perpetui di reciproca influenza: non è più possibile distinguere la costituzione dell'individuo dall'ambiente in
-cui è cresciuto, perché fanno parte della stessa cosa. La nostra personalità è definita insieme dai nostri aspetti
-costituzionali, dalle interazioni con gli altri significativi e dalle relazioni stesse tra Sé e oggetto.</p>
+
+<p>La teoria intersoggettiva si collega ad altre teorie già viste: la psicoanalisi interpersonale di Sullivan e il 
+    modello relazionale di Mitchell.</p>
+
+<p>Le teorie psicoanalitiche <strong>relazionali</strong> si allontanano dal modello pulsionale classico. 
+Per queste teorie, la mente serve soprattutto a creare e mantenere legami con gli altri.</p>
+
+<p>Secondo la psicoanalisi classica, l'uomo deve interagire con l'ambiente per soddisfare le proprie pulsioni. 
+    Questo porta a volte a interiorizzare parti del mondo esterno.</p>
+<ul>
+  <li>Esempio: il <strong>Super-Io</strong>. È l'interiorizzazione delle regole e degli atteggiamenti dei genitori.</li>
+</ul>
+<p>Ma per questo modello, alla base della mente ci sono soprattutto <strong>pulsioni fisiche, innate e predeterminate</strong>.</p>
+
+<p>Le teorie relazionali danno una spiegazione diversa della mente.</p>
+<ul>
+  <li>Esistono differenze biologiche tra le persone.</li>
+  <li>Ma il significato di queste differenze cambia da persona a persona.</li>
+  <li>Questo significato dipende da come reagiscono le persone importanti per noi (i cosiddetti "altri significativi").</li>
+</ul>
+
+<p>Biologia e relazioni si influenzano a vicenda in modo continuo. Per questo non si può separare la natura di una 
+    persona dall'ambiente in cui è cresciuta: sono legate insieme.</p>
+
+<p>La nostra personalità nasce da tre elementi insieme:</p>
+<ul>
+  <li>i nostri aspetti biologici;</li>
+  <li>le relazioni con le persone importanti;</li>
+  <li>il legame tra il Sé e l'oggetto.</li>
+</ul>
 
 
 
 <h3>La teoria dell'intersoggettività</h3>
-<p>La teoria dell'intersoggettività, tra le più recenti e attuali, è stata proposta da <strong>Robert D. Stolorow</strong> e
-<strong>George E. Atwood</strong>. È una teoria del campo, che pone al centro della comprensione della mente umana l'ampio
-sistema relazionale in cui i fenomeni psicologici prendono forma e in cui l'esperienza viene continuamente modellata. I
-fenomeni psicologici, per questa teoria, non possono essere compresi separatamente dal contesto intersoggettivo in cui si
-esprimono. Il concetto di <strong>intersoggettività</strong> si riferisce, in particolare, al campo psicologico che nasce
-dall'incontro di due soggettività organizzate in modo diverso, che si interfacciano e si influenzano reciprocamente (per
+<p><strong>La teoria dell'intersoggettività</strong>, tra le più recenti e attuali, 
+è stata proposta da <strong>Stolorow</strong> e <strong>Atwood</strong>.</p> 
+
+<p>È una teoria del campo, che pone al centro della comprensione della mente umana l'ampio
+sistema relazionale. I fenomeni psicologici, per questa teoria, non possono essere compresi separatamente dal contesto in cui si
+esprimono. Il concetto di <strong>intersoggettività</strong> si riferisce al campo psicologico che nasce
+dall'incontro di due soggetti diversi, che si interfacciano e si influenzano reciprocamente (per
 esempio bambino e caregiver, oppure paziente e analista).</p>
+
 <p>Come già per Mitchell e per Sullivan, anche per la teoria intersoggettiva le prime relazioni con le figure significative
 sono determinanti nella formazione della personalità, ma è l'insieme delle relazioni vissute in tutto l'arco della vita a
 definirla: la personalità è quindi in continua evoluzione e riformulazione.</p>
 
 
-
-<h3>Il bisogno di mantenere l'organizzazione dell'esperienza</h3>
-<p>La teoria intersoggettiva ha come fonte la Psicologia del Sé di Kohut. La salute mentale dipende dall'acquisizione di un Sé forte
+<p>La teoria intersoggettiva ha come fonte la Psicologia del Sé di Kohut.</p> 
+<p>La salute mentale dipende dall'acquisizione di un Sé forte
 all'interno di relazioni strette e amorevoli, e i legami interpersonali sono fondamentali per costruire e mantenere un senso di
-identità. Per la teoria intersoggettiva, il principio centrale che guida l'azione umana è il bisogno di mantenere l'organizzazione
-dell'esperienza socio-emotiva: un'idea vicina a quella di Mitchell sul bisogno di conservare un senso di continuità del significato
-personale della propria vita, qui declinata come mantenimento dell'organizzazione dell'esperienza.</p>
+identità.</p> 
+
+<p>Per la teoria intersoggettiva, il principio centrale che guida l'azione umana è il bisogno di mantenere l'organizzazione
+dell'esperienza socio-emotiva.</p>
+
+
+<p>Fin dalla nascita l'individuo <strong>organizza</strong> la propria esperienza affettiva.</p> 
+<p>Per la teoria intersoggettiva non esistono contenuti o fasi psicologiche universali per lo sviluppo della personalità, 
+a differenza per esempio del complesso edipico nella teoria di Freud: restano esperienze possibili, ma non
+universali, perché lo sviluppo psicologico dipende dal <strong>sistema regolazione affettiva</strong> tra bambino e
+caregiver, diverso da individuo a individuo.</p> 
+
+<p>Attraverso pattern ricorrenti di interazione, si stabiliscono principi organizzativi
+inconsci, che formano il cosiddetto <strong>inconscio preriflessivo</strong>.</p>
 
 
 
-<h3>Organizzazione dell'esperienza affettiva</h3>
-<p>Fin dalla nascita l'individuo organizza la propria esperienza affettiva. Per la teoria intersoggettiva non esistono contenuti o
-fasi psicologiche universali per lo sviluppo della personalità, a differenza per esempio del complesso edipico nella teoria di
-Freud o delle posizioni schizoparanoide e depressiva nella teoria di Melanie Klein: restano esperienze possibili, ma non
-universali, perché lo sviluppo psicologico dipende dal <strong>sistema di mutua regolazione affettiva</strong> tra bambino e
-caregiver, diverso da individuo a individuo. Attraverso pattern ricorrenti di interazione, si stabiliscono principi organizzativi
-inconsci dell'esperienza affettiva del bambino, che formano il cosiddetto <strong>inconscio preriflessivo</strong>.</p>
-
-
-
-<h3>Inconscio preriflessivo e personalità</h3>
 <p>L'inconscio preriflessivo è composto dalle esperienze di regolazione affettiva che il bambino vive, giorno dopo giorno,
-nell'interazione con il caregiver: esperienze che vengono validate e apprese, e che costituiscono le fondamenta della personalità.
-Il <strong>sistema caregiver-bambino</strong> regola e organizza l'esperienza affettiva del bambino, ed è all'interno di questo
+nell'interazione con il caregiver: esperienze che vengono validate e apprese, e che costituiscono le fondamenta della personalità.</p>
+
+<p>Il <strong>sistema caregiver-bambino</strong> regola e organizza l'esperienza affettiva del bambino, ed è all'interno di questo
 sistema che si sviluppa la conoscenza di sé e degli altri. Quando la regolazione affettiva tra bambino e caregiver non è ben
 sintonizzata, alcune esperienze emotive non raggiungono la coscienza, perché vengono represse oppure perché non vengono mai
 formulate.</p>
@@ -89,17 +95,17 @@ formulate.</p>
 <h3>L'inconscio dinamico</h3>
 <p>Può succedere che il genitore rifiuti attivamente un comportamento del bambino: per mantenere il legame indispensabile con i
 genitori, il bambino si difende reprimendo questi affetti e impedendo loro l'accesso alla coscienza. Questo è l'<strong>inconscio
-dinamico</strong>, che coincide con l'inconscio descritto da Freud, definito dalla lotta tra affetti e difese: contiene gli affetti
-conflittuali esclusi dalla coscienza in modo difensivo. È importante sottolineare che gli stati affettivi rimossi sono determinati
-dalla reazione specifica del genitore.</p>
+dinamico</strong>, che coincide con l'inconscio descritto da Freud.</p>
+<p>È importante sottolineare che gli stati affettivi rimossi sono determinati dalla reazione specifica del genitore.</p>
 
 
 
 <h3>L'inconscio non convalidato</h3>
 <p>Esiste anche un terzo caso: certi comportamenti del bambino non ricevono alcuna risposta dal genitore, non vengono quindi
 rinforzati né appresi, e restano inconsci non perché repressi ma perché non sono mai stati formulati. Questi aspetti formano
-l'<strong>inconscio non convalidato</strong>. La teoria intersoggettiva propone quindi una <strong>visione tripartita
-dell'inconscio</strong>:</p>
+l'<strong>inconscio non convalidato</strong>.</p>
+
+<p>La teoria intersoggettiva propone quindi una <strong>visione tripartita dell'inconscio</strong>:</p>
 <ul>
 <li><strong>l'inconscio preriflessivo</strong>: le esperienze affettive validate, che costituiscono la base della personalità.</li>
 <li><strong>l'inconscio dinamico</strong>: le esperienze rifiutate attivamente e represse, in conflitto con le difese.</li>
@@ -110,13 +116,18 @@ dell'inconscio</strong>:</p>
 
 <h3>Psicopatologia</h3>
 <p>Gli aspetti dell'esperienza affettiva rifiutati o non convalidati dai genitori, o che minacciano il legame con loro, restano
-repressi e non formulati. In entrambi i casi, la gamma delle esperienze possibili viene limitata dal contesto intersoggettivo
-genitoriale: per questa teoria è proprio questa limitazione del campo esperienziale a essere alla base della psicopatologia.
-Questo principio ha ricevuto anche delle critiche. Lo psicoanalista contemporaneo <strong>Eagle</strong>, di tradizione legata alla
+repressi e non formulati. Per questa teoria è proprio questa limitazione del campo esperienziale a essere alla base della psicopatologia.</p>
+
+<p>Questo principio ha ricevuto anche delle critiche. Lo psicoanalista contemporaneo <strong>Eagle</strong>, di tradizione legata alla
 Psicologia dell'Io, sostiene che alcuni comportamenti è giusto limitarli, perché una buona educazione richiede anche dei limiti, e
-questo assicura una crescita sana (se il bambino potesse fare sempre tutto, avrebbe anche difficoltà a orientare la propria
-direzione di vita). La teoria intersoggettiva, invece, non distingue tra limitazioni utili e dannose: per questa teoria, meno
+questo assicura una crescita sana.</p> 
+
+<p>La teoria intersoggettiva, invece, non distingue tra limitazioni utili e dannose: per questa teoria, meno
 vengono limitate le esperienze emozionali, migliore sarà la salute mentale raggiunta dall'individuo.</p>
+
+
+
+
 
 
 
@@ -125,76 +136,86 @@ vengono limitate le esperienze emozionali, migliore sarà la salute mentale ragg
 
 <h2>La psicoanalisi contemporanea</h2>
 <p>Approfondiamo ora alcuni concetti che definiscono i principi fondamentali delle teorie della psicoanalisi contemporanea che più
-si sono allontanate dalla psicoanalisi classica di Freud. Per Freud la funzione principale della mente era la scarica
-dell'eccitamento: ogni esperienza produce un innalzamento di tensione affettiva che, attraverso la scarica, si risolve riportando
-la mente ai livelli di base. Per la psicoanalisi contemporanea, invece, la funzione principale della mente è formare e preservare
-i legami con gli altri.</p>
+si sono allontanate dalla psicoanalisi classica di Freud.</p> 
+
+<p>Per la psicoanalisi contemporanea, invece, la funzione principale della mente è <strong>formare e preservare
+i legami con gli altri</strong>.</p>
 
 
+<h3>Critiche all'inconscio dinamico freudiano</h3>
 
-<h3>Critiche all'inconscio dinamico freudiano come realtà nascosta completamente formata</h3>
-<p>La psicoanalisi contemporanea, quasi nella sua totalità, rifiuta l'idea freudiana di inconscio come un contenitore di contenuti
-psichici completamente formati: per Freud un desiderio inconscio rimosso, se riportato alla coscienza, rimaneva inalterato,
-esattamente come era stato conservato, e i contenuti inconsci diventavano consci grazie alla sola funzione percettiva. Questa idea
-di inconscio come un serbatoio di contenuti già del tutto formati è stata rifiutata dalla gran parte della psicoanalisi
-contemporanea e criticata anche dalla psicologia cognitiva.</p>
-<p>Una prima formulazione interessante viene da <strong>Donnel Stern</strong> (1989-1997, da non confondere con Daniel N. Stern, lo
-studioso dello sviluppo infantile citato più avanti): per l'autore, l'inconscio può essere definito come <strong>esperienza non
-formulata</strong>, cioè l'esperienza grezza e non ancora tradotta in parole, che precede la sua rappresentazione. Un contenuto
-psichico è quindi inconscio semplicemente perché non è stato ancora articolato, e per portarlo alla coscienza occorre formularlo,
-in primo luogo attraverso il linguaggio.</p>
+<p>Quasi tutta la psicoanalisi contemporanea rifiuta l'idea di Freud sull'inconscio.</p>
+<p>Per Freud, l'inconscio era come un contenitore. Dentro c'erano contenuti psichici già completamente formati.</p>
+<ul>
+  <li>Un desiderio inconscio rimosso restava sempre uguale nel tempo.</li>
+  <li>Se tornava alla coscienza, riappariva esattamente come era stato "conservato".</li>
+  <li>Bastava solo <strong>percepirlo</strong> per farlo diventare consapevole.</li>
+</ul>
+<p>Questa idea è stata rifiutata da gran parte della psicoanalisi contemporanea. Anche la psicologia cognitiva l'ha criticata.</p>
+
+
+<img XXclass="zoomable" src="/assets/images/Donnel-Stern.webp" />
+<p><strong>Donnel Stern</strong> propone un'idea diversa: l'inconscio è <strong>esperienza non formulata</strong>.</p>
+<ul>
+  <li>È un'esperienza grezza, ancora senza parole.</li>
+  <li>Viene prima di qualsiasi rappresentazione mentale.</li>
+</ul>
+<p>Per Stern, un contenuto è inconscio semplicemente perché non è ancora stato messo in parole. 
+Per renderlo consapevole, bisogna formularlo. Il primo strumento per farlo è il linguaggio.</p>
 
 
 
 <h3>Rendere conscio l'inconscio</h3>
-<p>Se per Freud rendere conscio l'inconscio significava svelare un contenuto psichico preesistente e ben definito, per Stern significa
-costruire o completare, attraverso l'interpretazione, un'esperienza fugace e indefinita: un processo di formulazione che dipende
-dal contesto relazionale in cui avviene, diventando così una nuova esperienza. Nella cura psicoanalitica classica, per Freud, il
-paziente attraverso le associazioni libere riportava alla coscienza un ricordo rimosso rimasto intatto, e l'analista si limitava ad
-aiutare questo processo. Per Stern, invece, il contenuto inconscio prende forma proprio nel momento in cui viene formulato, ed è
-quindi influenzato dal contesto e dalla relazione in cui viene articolato.</p>
+<p>Per Freud, rendere conscio l'inconscio voleva dire scoprire un contenuto già esistente e ben definito.</p>
+<p>Per Stern, l'esperienza inconscia non è come un ricordo già pronto, nascosto da qualche parte. 
+    È solo una sensazione vaga, senza ancora parole.
+<p>Quando lo psicoterapeuta e il paziente, insieme, cercano di dare un nome a questa sensazione, 
+    non stanno "scoprendo" qualcosa che già esisteva. Stanno creando quel significato in quel momento, insieme.
+<p>Per questo il risultato dipende da chi partecipa alla conversazione (analista e paziente) e da come si svolge. 
+    Se cambiano le persone o il contesto, l'esperienza che nasce può essere diversa.
 
 
+<p>Nella cura secondo Freud:</p>
+<ul>
+  <li>Il paziente usa le associazioni libere.</li>
+  <li>Riporta alla coscienza un ricordo rimosso, rimasto intatto.</li>
+  <li>L'analista aiuta solo questo processo.</li>
+</ul>
 
-<h3>La difesa come non formulazione</h3>
-<p>Per Stern la non formulazione è la modalità primaria con cui ci difendiamo dai contenuti inconsci percepiti come pericolosi:
-evitiamo di dirigere l'attenzione su di essi e li lasciamo vaghi e indeterminati. Questa idea pone però un problema: se
-un'esperienza non è mai stata formulata, come può suscitare una reazione difensiva, dato che per difendersi da qualcosa occorre
-averle già attribuito un significato definito? Per spiegarlo si può richiamare la teoria del conflitto di Freud, secondo cui il
-processo si sviluppa così:</p>
-<ol>
-<li>i desideri sessuali infantili perturbanti vengono rimossi.</li>
-<li>questi desideri continuano a fare pressione per emergere alla coscienza e per essere soddisfatti, accompagnati da eccitamento.</li>
-<li>l'angoscia agisce come segnale, che spinge l'Io a rafforzare le difese.</li>
-<li>la rimozione si riattiva per contenere l'angoscia (la mente, secondo la psicologia dinamica, è caratterizzata da forze in continua
-attività e cambiamento).</li>
-<li>la rimozione può fallire: il sistema conscio non riesce a trattenere tutto l'affetto, che arriva comunque alla coscienza, ma in
-forma camuffata.</li>
-<li>compaiono così i sintomi nevrotici.</li>
-</ol>
+<p>Nella cura secondo Stern:</p>
+<ul>
+  <li>Il contenuto inconscio prende forma solo nel momento in cui viene messo in parole.</li>
+  <li>È influenzato dal contesto e dalla relazione in cui avviene.</li>
+</ul>
 
+<p>Per Stern, non formulare un'esperienza è il modo principale con cui ci difendiamo. 
+    Se un contenuto sembra pericoloso, evitiamo di pensarci: lo lasciamo vago e indefinito.</p>
 
+<p>Questa idea crea un problema: come può un'esperienza mai formulata provocare una difesa? 
+    Per difendersi da qualcosa, di solito serve già un significato definito.</p>
 
-<h3>Gli indizi fugaci</h3>
-<p>Secondo Stern, non serve che un'esperienza sia completamente formulata e interpretata per potercene difendere: basta entrare in
-contatto con alcuni indizi familiari, percepiti come pericolosi, che fanno scattare automaticamente la difesa di non articolare
-oltre quell'esperienza. Questi segnali si chiamano <strong>indizi fugaci</strong>: bastano a classificare l'esperienza in una
-categoria già nota (per esempio, "qualcosa di familiare"), che fa scattare la difesa senza bisogno di formulare completamente il
-contenuto psichico.</p>
-
+<p>Per Stern, non serve formulare del tutto un'esperienza per difendersi da essa. 
+    Basta riconoscere alcuni segnali familiari, percepiti come pericolosi.</p>
+<p>Questi segnali si chiamano <strong>indizi fugaci</strong>. 
+Bastano a mettere l'esperienza in una categoria già nota (per esempio: "qualcosa di familiare"). 
+Questo fa scattare subito la difesa, senza bisogno di formulare tutto il contenuto psichico.</p>
 
 
 <h3>La rimozione come mancata associazione ideativa</h3>
-<p>Un'altra proposta contemporanea, che riprende comunque il modello freudiano, è quella di <strong>George Klein</strong>, formatosi
-nella tradizione della Psicologia dell'Io. Per Klein uno degli aspetti più rilevanti della rimozione è impedire <strong>l'associazione
-ideativa</strong>: se un contenuto psichico non viene collegato agli altri contenuti, non se ne può comprendere il significato né
-osservarlo da una prospettiva più ampia, e quel contenuto resta isolato. Per Klein, quindi, ciò che resta da formulare non è il
-contenuto in sé, che può essere del tutto conscio, ma il suo significato.</p>
+<p>Un'altra proposta viene da <strong>George Klein</strong>. 
+Klein si è formato nella tradizione della Psicologia dell'Io, ma la sua idea riprende comunque il modello di Freud.</p>
+
+<img XXclass="zoomable" src="/assets/images/George-Klein.webp" />
+
+<p>Per Klein, la rimozione serve soprattutto a impedire <strong>l'associazione ideativa</strong>. 
+Questo significa che il contenuto psichico rimosso non viene collegato agli altri contenuti mentali.</p>
+<p>Se un contenuto resta isolato, non collegato agli altri, non possiamo capirne il significato. 
+    Non riusciamo nemmeno a vederlo da un punto di vista più ampio.</p>
+<p>Per Klein, quindi, il problema non è il contenuto in sé. Il contenuto può anche essere del tutto conscio. 
+    Ciò che manca, e che va ancora formulato, è il suo <strong>significato</strong>.</p>
 
 
-
-<h3>Un esempio esplicativo</h3>
-<p>Un amico riceve una proposta di lavoro interessante, a cui deve rispondere entro pochi giorni. Il giorno seguente si sveglia con
+<p>Per esempio: un amico riceve una proposta di lavoro interessante, a cui deve rispondere entro pochi giorni. Il giorno seguente si sveglia con
 una sensazione di vuoto allo stomaco, che sa descrivere con precisione, ma senza collegarla alla proposta di lavoro. In questo caso
 l'esperienza fisica è del tutto cosciente, ma il suo significato (il legame con lo stress per la decisione da prendere) non è
 consapevole, perché non è stato associato all'evento che l'ha provocato. Questo è esattamente ciò che Klein intende per inconscio
@@ -202,53 +223,96 @@ come mancata associazione ideativa.</p>
 
 
 
+
+
 <h3>Inconscio rappresentazionale</h3>
-<p>Un'altra concezione molto diffusa nella psicoanalisi contemporanea, presente per esempio nella teoria di Mitchell e nella teoria
-intersoggettiva, interpreta l'inconscio in termini di rappresentazioni del Sé, dell'oggetto e dell'interazione tra i due (per
-esempio le configurazioni relazionali di Mitchell). In questo approccio i contenuti inconsci sono credenze, aspettative e affetti
-acquisiti nelle esperienze precoci con i genitori: per questo si parla di <strong>inconscio rappresentazionale</strong>, un insieme
-di schemi relazionali appresi soprattutto nella prima infanzia e riproposti in tutte le relazioni successive. Le interazioni
-precoci e ripetute con le figure genitoriali — qui, come per la scuola inglese delle relazioni oggettuali, non conta un singolo
-evento traumatico ma la sistematicità delle interazioni — vengono astratte in rappresentazioni generali di interazioni tipiche.
-Queste rappresentazioni diventano un modello di ciò che dobbiamo aspettarci dagli altri, per esempio l'inconscio preriflessivo
-della teoria intersoggettiva. Non sono inconsce perché rimosse, ma perché implicite: <strong>Daniel N. Stern</strong> ha coniato
-per questo il termine "<strong>conoscenza relazionale implicita</strong>" (Stern e collaboratori, 1998).</p>
+
+<p>Un'altra idea molto diffusa nella psicoanalisi contemporanea riguarda l'inconscio come insieme di <strong>rappresentazioni</strong>. 
+Si trova per esempio nella teoria di Mitchell e nella teoria intersoggettiva.</p>
+
+<p>Queste rappresentazioni riguardano tre elementi:</p>
+<ul>
+  <li>il Sé;</li>
+  <li>l'oggetto (l'altra persona);</li>
+  <li>l'interazione tra i due (per esempio le "configurazioni relazionali" di Mitchell).</li>
+</ul>
+
+<p>In questo approccio, i contenuti inconsci sono <strong>credenze, aspettative e affetti</strong>. 
+Li impariamo nelle prime esperienze con i genitori. 
+Per questo si parla di <strong>inconscio rappresentazionale</strong>: un insieme di schemi relazionali, imparati soprattutto 
+nella prima infanzia, che riproponiamo in tutte le relazioni successive.</p>
+
+<p>Come per la scuola inglese delle relazioni oggettuali, non conta un singolo evento traumatico. 
+Conta invece la ripetizione sistematica delle interazioni con i genitori. 
+Queste interazioni ripetute diventano rappresentazioni generali: modelli che ci dicono cosa aspettarci dagli altri.</p>
+
+<p>Un esempio è l'<strong>inconscio preriflessivo</strong> della teoria intersoggettiva.</p>
+
+<p>Questi contenuti non sono inconsci perché rimossi, ma perché <strong>impliciti</strong>: non ne siamo consapevoli, 
+ma li usiamo comunque. <strong>Daniel N. Stern</strong> ha chiamato questo fenomeno <strong>"conoscenza relazionale 
+implicita"</strong> (Stern e collaboratori, 1998).</p>
+
+<p>L'idea di inconscio rappresentazionale avvicina la psicoanalisi alla psicologia cognitiva. 
+    Anche questa disciplina parla di concetti simili:</p>
+<ul>
+  <li>memoria procedurale;</li>
+  <li>conoscenza procedurale;</li>
+  <li>schemi relazionali impliciti.</li>
+</ul>
+
+<p>In entrambi i casi, usiamo schemi imparati nelle prime esperienze per capire chi siamo e chi sono gli altri.</p>
+
+<p>La differenza principale è questa: la psicoanalisi contemporanea descrive questi schemi impliciti 
+    in modo molto <strong>relazionale e affettivo</strong>.</p>
 
 
 
-<h3>Inconscio dinamico e inconscio cognitivo</h3>
-<p>Il concetto di inconscio rappresentazionale avvicina la psicoanalisi alla psicologia cognitiva, che parla in modo simile di memoria
-procedurale, conoscenza procedurale e schemi relazionali impliciti: applichiamo cioè schemi derivati dalle nostre prime esperienze
-per definire chi siamo e chi sono gli altri. La differenza principale è che l'inconscio della psicoanalisi contemporanea descrive
-queste conoscenze procedurali implicite in termini fortemente relazionali e affettivi.</p>
 
 
 
 <h3>La psicopatologia nella psicoanalisi contemporanea</h3>
-<p>Le teorie contemporanee concordano nel considerare la psicopatologia il risultato di un <strong>fallimento ambientale</strong>,
-dovuto a mancanze nelle cure genitoriali (scarsa sintonizzazione, trascuratezza, rifiuto, abuso). Attraverso l'astrazione di
-interazioni tipiche, il bambino impara che cosa aspettarsi dagli altri: quando le prime esperienze non sono adattive, si apprendono
-modalità relazionali più negative. Questi schemi, un tempo funzionali nella fase infantile, diventano disadattivi se applicati in
-modo rigido anche in età adulta e in contesti diversi, riducendo l'autonomia del paziente e la sua capacità di costruire relazioni
-gratificanti.</p>
-<p>La psicopatologia è caratterizzata da un forte, quasi ostinato attaccamento agli oggetti precoci: non si tratta solo di
-apprendimenti disadattivi, ma di apprendimenti fortemente permeati da affetto, a cui restiamo profondamente legati proprio perché
-derivano da legami emotivi importanti. Per questo cercare autonomia da queste figure può generare un forte senso di colpa, vissuto
-come una slealtà verso i genitori. L'incapacità di separarsi da questi legami arcaici dipende dalla mancata interiorizzazione di un
-ambiente supportivo, che permetta all'individuo di stare da solo senza provare eccessiva angoscia (un'idea vicina alla teoria di
-Winnicott). Nelle relazioni sane, la componente affettiva è comunque presente, ma porta comunque allo sviluppo dell'autonomia e a
-modalità relazionali più flessibili. Nella psicopatologia, invece, i modelli relazionali disfunzionali restano rigidi. Il percorso
-che porta alla psicopatologia può essere riassunto così:</p>
+
+<p>Le teorie contemporanee sono d'accordo su un punto: 
+la psicopatologia nasce da un <strong>fallimento ambientale</strong>. 
+Questo fallimento dipende da mancanze nelle cure dei genitori, per esempio:</p>
+<ul>
+  <li>scarsa sintonizzazione;</li>
+  <li>trascuratezza;</li>
+  <li>rifiuto;</li>
+  <li>abuso.</li>
+</ul>
+
+<p>Quando le prime esperienze non sono positive, il bambino impara modi negativi di stare in relazione con gli altri. 
+Questi schemi erano utili durante l'infanzia. Ma diventano un problema se restano rigidi anche da adulti, in contesti diversi. 
+Questo riduce l'autonomia della persona e la sua capacità di costruire relazioni soddisfacenti.</p>
+
+<p>La psicopatologia si riconosce anche per un forte attaccamento alle prime figure di riferimento (i genitori). 
+Non si tratta solo di "apprendimenti sbagliati": sono apprendimenti carichi di affetto. 
+Restiamo legati a questi schemi proprio perché nascono da legami emotivi importanti.</p>
+
+<p>Per questo, cercare autonomia da queste figure può creare un forte senso di colpa. 
+La persona lo vive come un tradimento verso i genitori.</p>
+
+<p>Perché è così difficile separarsi da questi legami? Perché manca un elemento fondamentale: non è stato 
+interiorizzato un ambiente di supporto. 
+Un buon ambiente di supporto permette di stare da soli senza provare troppa angoscia (questa idea è vicina alla teoria di Winnicott).</p>
+
+<p>Nelle relazioni sane, l'affetto c'è comunque. 
+Ma porta comunque allo sviluppo dell'autonomia e a modi di relazionarsi più flessibili.</p> 
+
+<p>Nella psicopatologia, invece, i modelli relazionali restano rigidi e disfunzionali.</p>
+
+<p>Il percorso che porta alla psicopatologia, in sintesi:</p>
 <ol>
-<li>le interazioni precoci tra bambino e caregiver sono fondamentali per la costituzione della personalità.</li>
-<li>alla base della psicopatologia c'è un fallimento ambientale, cioè un ambiente che non favorisce il passaggio dalla dipendenza dalle
-cure genitoriali all'autonomia.</li>
-<li>il bambino apprende rappresentazioni relazionali disadattive, che non favoriscono questo passaggio.</li>
-<li>tali rappresentazioni sono fortemente permeate di affettività.</li>
-<li>la componente emotiva spiega il forte attaccamento a queste rappresentazioni e l'incapacità di costruire relazioni più adattive.</li>
-<li>le rappresentazioni disadattive entrano in conflitto con il desiderio di autonomia.</li>
-<li>ne risulta la psicopatologia.</li>
+  <li>Le prime interazioni tra bambino e caregiver sono fondamentali per costruire la personalità.</li>
+  <li>Alla base della psicopatologia c'è un fallimento ambientale: l'ambiente non aiuta il passaggio dalla dipendenza all'autonomia.</li>
+  <li>Il bambino impara rappresentazioni relazionali disadattive, che non favoriscono questo passaggio.</li>
+  <li>Queste rappresentazioni sono cariche di affettività.</li>
+  <li>Proprio per questo affetto, la persona resta molto legata a queste rappresentazioni e non riesce a costruire relazioni più sane.</li>
+  <li>Le rappresentazioni disadattive entrano in conflitto con il bisogno di autonomia.</li>
+  <li>Da questo conflitto nasce la psicopatologia.</li>
 </ol>
+
 
 <?php
 $article_body = ob_get_clean();
