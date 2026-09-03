@@ -11,11 +11,6 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
-
-
-
-
-
 <h2>Intervento per migliorare la qualità del sonno in gravidanza: un esempio di rassegna sistematica</h2>
 
 
