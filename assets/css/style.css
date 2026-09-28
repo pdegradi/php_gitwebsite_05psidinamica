@@ -65,6 +65,7 @@ code {font-family: var(--font-mono);color: var(--clr-code);font-size: 0.875rem;}
 pre code{display: block;color: var(--text);}
 table {border: solid 1px var(--border);border-collapse: collapse;}
 table td {border: solid 1px var(--border); padding: var(--padding-table);}
+blockquote {margin: 1.5rem 0;padding: 1rem 1.25rem;background: var(--bg-elevated);border-left: 3px solid var(--accent);border-radius: 0 6px 6px 0;color: var(--text);font-family: var(--font-display);font-style: italic;}
 
 /* ---------- Header / Footer ---------- */
 
