@@ -12,23 +12,20 @@ ob_start();
 ?>
 <h2>Lo studio dei sogni: dal sonno REM ai sogni</h2>
 
-<p>In psicofisiologia si definisce <strong>sogno</strong> (o resoconto di un sogno) il ricordo dell'attività mentale avvenuta
-durante il sonno. È una definizione molto ampia, ma coglie l'aspetto principale di questo campo di studio.</p>
+<p>In psicofisiologia si definisce <strong>sogno</strong> il ricordo dell'attività mentale avvenuta
+durante il sonno.</p>
 
 <p>Dopo la scoperta del sonno REM nel 1953, si riteneva che i sogni si verificassero esclusivamente durante questa fase. 
-Questa ipotesi non è stata però confermata dagli studi: risvegliando i soggetti durante le fasi NREM, infatti, 
-questi riportavano comunque dei sogni, anche se meno frequentemente rispetto a quando venivano svegliati durante la fase REM.</p>
-
-<p>Il legame tra emotività e sogno resta comunque particolarmente forte nella fase REM: i sogni REM e i sogni NREM sembrano 
-essere diversi, dato che i primi risultano più bizzarri e più intensi emotivamente dei secondi.</p>
+Questa ipotesi non è stata però confermata dagli studi cha hanno mostrato che i soggetti risvegliati dal sonno NREM posso 
+riferire resoconti di sogni. Tuttavia i sogni REM e NREM sembrano essere diversi in quanto i primi sono più bizzarri
+e più intensi emotivamente.</p>
 
 
 <p>Si possono distinguere diversi tipi di sogni:</p>
 <ul>
-<li><strong>sogni REM</strong>: il ricercatore sa, attraverso l'EEG, che il soggetto si trova in fase REM nel momento in cui lo
-sveglia e gli chiede cosa stesse succedendo; nella maggior parte dei casi la persona riporta un sogno;</li>
-<li><strong>sogni NREM</strong>: può accadere, anche se in misura minore, che svegliando i soggetti durante la fase NREM questi
-riportino comunque un sogno; questi sogni restano però meno bizzarri e meno emotivamente intensi di quelli REM;</li>
+<li><strong>sogni REM</strong>: sono i ricordi dell'attività mentale occorsa durante questa fase</li>
+<li><strong>sogni NREM</strong>: sono i ricordi dell'attività mentale occorsa durante questa fase 
+(meno bizzarri e meno emotivamente intensi di quelli REM)</li>
 <li><strong>sogni durante l'addormentamento</strong>: ricordi dell'attività mentale occorsa durante la fase di
 addormentamento;</li>
 <li><strong>incubi</strong>: sogni REM caratterizzati da intense emozioni negative che provocano il risveglio;</li>
@@ -42,7 +39,7 @@ ansia;</li>
 
 <p>Non è possibile studiare direttamente l'attività mentale mentre si sogna. I sogni non possono essere osservati di
 per sé, ma solo attraverso il ricordo che ne riportano i sognatori una volta svegliati. Questo è un limite importante della
-ricerca empirica sui sogni. Non possiamo essere certi che il ricordo del sogno sia un resoconto fedele dell'esperienza vissuta.</p>
+ricerca empirica sui sogni.</p>
 
 <p>La ricerca empirica moderna, combinando i metodi fisiologici (la polisonnografia) con l'analisi del contenuto dei sogni, 
 sostiene comunque che i ricordi dei sogni siano in relazione con l'attività mentale che avviene durante il sonno.</p>
@@ -72,8 +69,6 @@ subentrano stimoli che distraggono, come un rumore improvviso, la probabilità d
 
 <h2>I metodi di indagine</h2>
 
-
-
 <h3>Il metodo del sogno più recente</h3>
 <p>Un primo metodo è il cosiddetto <strong>metodo del sogno più recente</strong>: si chiede ai partecipanti di scrivere in modo
 più dettagliato possibile il sogno più recente che ricordano. Il vantaggio di questo metodo è che non
@@ -87,6 +82,7 @@ valutare i sogni in modo sistematico, cogliendo solo quelli che hanno lasciato u
 
 
 <h3>I diari dei sogni</h3>
+<img class="zoomable" src="/assets/images/22/Screenshot 2026-09-29 183736.webp" />
 <p>Un altro metodo, preferito rispetto al precedente, sono i <strong>diari dei sogni</strong>: si chiede ai partecipanti di
 trascrivere ogni mattina, su un diario strutturato, i contenuti e i correlati affettivi degli eventuali sogni ricordati della
 notte appena trascorsa. Il vantaggio, rispetto al metodo del sogno più recente, è che l'uso dei diari riduce il rischio di
@@ -113,9 +109,6 @@ misura minore negli studi in laboratorio rispetto agli studi sui sogni condotti 
 
 
 <h2>L'analisi dei contenuti dei sogni</h2>
-<p>Una volta raccolti, i sogni vengono sottoposti alla cosiddetta <strong>analisi dei contenuti</strong>: in genere il sogno
-viene registrato o trascritto direttamente dal soggetto, ottenendo un testo, una storia, che si vuole valutare.</p> 
-
 <p>Uno dei
 principali obiettivi della ricerca sui sogni è trasformare il contenuto del sogno in qualcosa di quantificabile e misurabile,
 per poter condurre analisi statistiche e valutare eventuali differenze tra gruppi, per esempio tra uomini e donne o tra pazienti
@@ -145,26 +138,17 @@ buona validità e attendibilità.</p>
 vengono valutate da più <strong>giudici</strong> indipendenti, in genere due, che non hanno avuto contatto diretto con i partecipanti e
 non conoscono la loro appartenenza al gruppo (per esempio, se il sognatore soffra o meno di depressione).</p> 
 
-<p>Attraverso una scala ben definita, con
-definizioni operative chiare, e attraverso il fatto che il giudice non conosca l'identità del sognatore, si ottiene una
-maggiore oggettività. Più le
-definizioni della scala sono chiare, semplici e facili da individuare, meglio si riuscirà a studiare il costrutto di interesse,
-e più la ricerca sarà valida e generalizzabile ad altre situazioni.</p>
+<p>Attraverso una scala ben definita e attraverso il fatto che il giudice non conosca l'identità del sognatore, si ottiene una
+maggiore oggettività.</p>
 
-
-
-
-<p>Un solo sogno non basta a confrontare due gruppi, per esempio pazienti con disturbi depressivi e soggetti sani, perché un
-singolo sogno a testa non fornisce abbastanza informazioni. Uno studio di Schredl e colleghi, del 2010, ha stimato che servano
+<p>Un solo sogno non basta a confrontare due gruppi. Uno studio ha stimato che servano
 almeno <strong>20 sogni</strong> a persona per misurare in modo attendibile le differenze individuali negli aspetti di
 contenuto, forma ed emotività dei sogni.</p>
 
-
-
-<p>Sono state riscontrate differenze importanti nella valenza e nell'intensità delle emozioni di un sogno, a seconda che
-vengano stimate direttamente dal sognatore o dai ricercatori attraverso scale di misura. È stato notato che i ricercatori
+<p>Sono state riscontrate differenze importanti nella valutazione dei sogni, a seconda che
+la valutazione sia fatta dal sognatore o dai ricercatori. I ricercatori
 tendono a sottostimare la presenza di emozioni nei sogni rispetto ai sognatori stessi. Inoltre i ricercatori codificano la
-valenza delle emozioni come prevalentemente negativa, mentre nelle valutazioni soggettive dei sognatori questa risulta più
+valenza delle emozioni come prevalentemente negativa, mentre nelle valutazioni dei sognatori questa risulta più
 bilanciata tra positività e negatività.</p>
 
 
@@ -173,13 +157,14 @@ bilanciata tra positività e negatività.</p>
 
 
 <h2>La fenomenologia dei sogni</h2>
-<p>Dall'analisi del contenuto dei sogni di un gran numero di persone sono emerse alcune conclusioni ricorrenti. Il 90% dei
-sogni studiati è auto-riferito, cioè in genere sogniamo noi stessi. Il 20% dei sogni riportati in laboratorio e il 30% di
-quelli riportati nei diari presentano aspetti di <strong>bizzarria</strong>, intesa come contenuto che non ha alcuna relazione
-con la realtà fisica, per esempio volare. </p>
-
-<p>Un altro dato interessante è che molto raramente le persone, quando riportano i sogni, ne riportano anche i colori.</p>
-
+<p>Dall'analisi del contenuto dei sogni di un gran numero di persone sono emerse alcune conclusioni.</p>
+<ul>
+    <li>Il 90% dei sogni studiati è auto-riferito, cioè in genere sogniamo noi stessi</li>
+    <li>Il 20% dei sogni riportati in laboratorio e il 30% di quelli riportati nei diari presentano 
+aspetti di <strong>bizzarria</strong>, intesa come contenuto che non ha alcuna relazione con la 
+realtà fisica, per esempio volare.</li>
+    <li>molto raramente le persone, quando riportano i sogni, ne riportano anche i colori</li>
+</ul>
 
 <p>La totalità dei sogni riportati negli studi empirici utilizza il senso della vista, e il 57% usa anche il senso dell'udito.
 Tutte le altre percezioni sensoriali, come la propriocezione, il tatto, il gusto, l'olfatto e il dolore, sono invece molto meno
@@ -263,8 +248,6 @@ un principio applicato anche in diverse psicoterapie.</li>
 <p>Tutte queste ipotesi restano proposte interessanti, ma ad oggi nessuna ha ricevuto un sufficiente supporto empirico, anche a
 causa dei limiti delle ricerche sullo studio dei sogni.</p> 
 
-<p>Si può solo dire che la teoria della soluzione dei problemi e la teoria
-della regolazione dell'umore risultano coerenti con l'ipotesi del sonno REM, ma non è possibile affermare di più.</p>
 
 <?php
 $article_body = ob_get_clean();
