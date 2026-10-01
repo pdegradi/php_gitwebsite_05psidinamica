@@ -11,33 +11,21 @@ require __DIR__ . '/../includes/config.php';
 ob_start();
 ?>
 
-
-
-
-
-
 <h2>La regolazione del sonno nella prima infanzia</h2>
 <p>Le emozioni, come visto con il paradigma dello Still Face, sono risposte brevi a situazioni specifiche.</p> 
-<p>Gli <strong>stati di
-umore</strong>, invece, sono un insieme di comportamenti affettivi che durano nel tempo (ore o giorni) e che, proprio per questa
-durata, costituiscono un aspetto della personalità: una reazione di rabbia isolata non rende una persona "rabbiosa", ma uno stato
+<p>Gli <strong>stati di umore</strong>, invece, sono un insieme di comportamenti affettivi che durano 
+nel tempo (ore o giorni) e che, proprio per questa durata, costituiscono un aspetto della personalità.</p>
+<p>Una reazione di rabbia isolata non rende una persona "rabbiosa", ma uno stato
 di rabbia prolungato per giorni sì. Questo vale ancora di più per i bambini piccoli, che non potendo ancora parlare vengono
 giudicati soprattutto sui loro stati affettivi.</p> 
 
-<p>Questi umori dipendono da due fattori: i processi di controllo e auto-regolazione
-affettiva del bambino (i suoi sistemi psicofisiologici innati di regolazione di emozioni e stress) e le reazioni emotive del
-genitore in risposta a questi processi, che a loro volta li influenzano.</p>
-
-
-
-<h3>Il ciclo sonno-veglia</h3>
-<p>Il ciclo sonno-veglia è l'esempio più importante di questa relazione tra auto-regolazione ed etero-regolazione. Un bambino stanco
-che piange e diventa capriccioso sta comunicando un disagio. Se il genitore lo interpreta correttamente e lo mette a letto,
-l'interazione funziona bene; altrimenti il disagio del bambino e la difficoltà del genitore si alimentano a vicenda.</p> 
-<p>Se questa
-incomprensione capita una sola notte non è un problema, ma se diventa sistematica il bambino apprenderà una regolazione del sonno
-disfunzionale, che rischia di diventare un tratto stabile della sua personalità.</p>
-
+<p>Gli stati di umore dipendono da due fattori:</p>
+<ul>
+    <li>i <strong>processi di controllo</strong> e <strong>auto-regolazione affettiva</strong> del bambino 
+    (i suoi sistemi psicofisiologici innati di regolazione di emozioni e stress) </li>
+    <li>le <strong>reazioni emotive del genitore</strong> in risposta a questi processi, che a loro volta li influenzano.</li>
+</ul>
+<img XXclass="zoomable" src="/assets/images/17/Screenshot 2026-10-01 190955.webp" />
 
 
 <h3>Lo studio del sonno</h3>
@@ -58,7 +46,7 @@ una drastica caduta del tono muscolare (durante il sonno REM siamo praticamente 
 progressivamente (la cosiddetta "sincronizzazione") e una riduzione più graduale del tono muscolare.</li>
 </ul>
 
-<img XXclass="zoomable" src="/assets/images/17/nrem-sleep.webp" />
+<img XXclass="zoomable" src="/assets/images/17/Screenshot 2026-10-01 191426.webp" />
 
 <p>Il sonno NREM si divide in tre stadi:</p>
 <ul>
@@ -67,34 +55,35 @@ progressivamente (la cosiddetta "sincronizzazione") e una riduzione più gradual
 <li><strong>N3</strong>: il sonno profondo, prevalente nella prima parte della notte (mentre il sonno REM prevale nella seconda
 parte).</li>
 </ul>
-<p>Il sonno è inoltre regolato da due processi: il <strong>processo omeostatico</strong> (processo S), per cui il tempo necessario
-ad addormentarsi è inversamente proporzionale alla durata della veglia precedente, e il <strong>processo circadiano</strong>
-(processo C), il nostro "orologio biologico". Quest'ultimo è regolato soprattutto dal ciclo luce-buio, ma anche dalla temperatura
-corporea e da stimoli sociali, per esempio l'orario della cena. Questi stili si formano soprattutto nella prima infanzia, nel
-rapporto con i genitori.</p>
+<p>Il sonno è inoltre regolato da due processi: 
+<ul>
+    <li>il <strong>processo omeostatico</strong> (processo S), per cui il tempo necessario ad addormentarsi è inversamente 
+    proporzionale alla durata della veglia precedente</li>
+    <li>il <strong>processo circadiano</strong> (processo C), il nostro "orologio biologico". Regola alternanza tra sonno e veglia 
+interagendo con gli stimoli ambientali (ciclo luce-buio, ....)</li>
+</ul>    
 
+<img XXclass="zoomable" src="/assets/images/17/Screenshot 2026-10-01 191913.webp" />
 
 <p>Il sonno cambia molto dalla nascita all'età adulta. Alla nascita si dorme di più e si passa molto più tempo in sonno profondo, che
 si riduce progressivamente fino all'anzianità.</p> 
-<p>Secondo le linee guida della National Sleep Foundation, i neonati necessitano di
-circa 14-17 ore di sonno al giorno nei primi 3 mesi, e di 12-15 ore nel resto del primo anno — molto più delle ore necessarie a un
-giovane adulto o a un anziano.</p>
-
+<p>Secondo le linee guida della <em>National Sleep Foundation</em>, i neonati necessitano di circa 14-17 ore di sonno al giorno 
+nei primi 3 mesi.</p>
 
 <p>A differenza dell'adulto, che concentra il sonno in un unico episodio notturno, alla nascita il sonno è distribuito in molti
 momenti durante il giorno e la notte. Verso l'anno di età, i bambini dormono un periodo lungo di notte e due periodi più brevi di
 giorno; fino a circa 4 anni restano un periodo notturno lungo e un pisolino diurno più corto.</p>
 
 
-
-<p>Oltre alla polisonnografia — costosa, invasiva e poco naturale, soprattutto nei bambini piccoli — si usano altri metodi:</p>
+<p>Per lo studio della misura del sonno nella prima infanzia, oltre alla polisonnografia (costosa, invasiva e poco naturale), 
+si usano altri metodi:</p>
 <ul>
 <li>l'<strong>attigrafia</strong>: un piccolo dispositivo da polso (nell'adulto) o da caviglia (nel bambino) che misura i
 movimenti come indicatore indiretto del sonno, ma senza distinguere gli stadi del sonno;</li>
 <li>la <strong>video-sonnografia</strong>: particolarmente utile nella prima infanzia, perché il sonno del bambino è un processo
 che coinvolge tutta la famiglia, non solo lui;</li>
 <li>i <strong>diari del sonno</strong>, compilati dai genitori;</li>
-<li>i <strong>questionari sul sonno</strong>.</li>
+<li>i <strong>questionari sul sonno</strong></li>
 </ul>
 <p>Le ricerche migliori combinano più tecniche insieme.</p>
 
@@ -107,20 +96,24 @@ che coinvolge tutta la famiglia, non solo lui;</li>
     <li>alla qualità del sonno dei genitori (un bambino che dorme male è un'intera famiglia che dorme male) </li>
     <li>alla disponibilità emotiva dei genitori</li>
 </ul>    
-<p>Si crea così un circolo vizioso. Il bambino dorme male, i genitori
-dormono male e sono meno disponibili emotivamente, e questo rende il bambino più nervoso, sia perché il sonno interagisce
-direttamente con i circuiti che regolano le emozioni, sia per l'interazione alterata con i genitori. Il nervosismo, a sua volta,
-peggiora ulteriormente il sonno. Se questo diventa sistematico, si crea un disturbo del sonno che tende a persistere dall'infanzia
-all'età scolare fino alla prima età adulta, ed è stato anche associato a sintomi di ansia e depressione in età adulta.</p>
+<p>Si crea così un circolo vizioso.</p> 
+<img XXclass="zoomable" src="/assets/images/17/Screenshot 2026-10-01 193328.webp" />
+<p>Il bambino dorme male, i genitori dormono male e sono meno disponibili emotivamente, e questo rende il bambino più nervoso. 
+<p>Il nervosismo, a sua volta, peggiora ulteriormente il sonno. </p>
 
 
 
 <h3>Il sonno e il temperamento (De Marcas e colleghi, 2015)</h3>
-<p>Il <strong>temperamento</strong> è un'iper-reattività agli stimoli esterni, presente in circa il 10% dei neonati. Uno studio
+<p>L'obiettivo di questa ricerca era valutare la relazione tra qualità del sonno nei primi mesi di vita e temperamento del bimbo.</p>
+<p>Il <strong>temperamento</strong> è un'iper-reattività agli stimoli esterni, presente in circa il 10% dei neonati.</p> 
+
+<p>Questo studio
 del 2015 lo ha analizzato in 95 bambini, usando attigrafia e diari del sonno per 4 notti, a 3, 6 e 12 mesi. Ai bambini venivano
-dati stimoli tattili, sonori e visivi, sia da svegli sia mentre dormivano. I risultati: sia l'iper-sensibilità sia
+dati stimoli tattili, sonori e visivi, sia da svegli sia mentre dormivano.</p>
+
+<p>I risultati: sia l'iper-sensibilità sia
 l'ipo-sensibilità agli stimoli a 3 e 6 mesi sono legate a un sonno peggiore a un anno. Sonno e temperamento sembrano quindi
-influenzarsi a vicenda, con importanti implicazioni cliniche.</p>
+influenzarsi a vicenda.</p>
 
 
 
@@ -141,8 +134,6 @@ madri dei bambini con problemi di sonno:</p>
 <li>tendono a fornire più <strong>contatto fisico attivo</strong> durante la notte (prendere in braccio, co-sleeping) per far
 riaddormentare il bambino, bloccando così i suoi processi di auto-regolazione del sonno.</li>
 </ul>
-<p>Al contrario, le famiglie che promuovono comportamenti auto-regolatori nel bambino ottengono una migliore qualità del
-sonno.</p>
 
 
 
@@ -154,6 +145,7 @@ formarsi delle aspettative su ciò che accadrà, facilitando l'attivazione dei p
 
 
 <h3>Il ruolo del padre (Tikotzky e colleghi, 2015)</h3>
+<img XXclass="zoomable" src="/assets/images/17/Screenshot 2026-10-01 194328.webp" />
 <p>Studiando 75 coppie con un bambino nato a termine, valutate a 3 e 6 mesi, è emerso che quando il padre è coinvolto nella gestione
 notturna del bambino, sia il bambino sia la madre dormono meglio: come già visto per la teoria dell'attaccamento, il ruolo paterno
 nei primi anni di vita risulta più importante di quanto si pensasse in passato.</p>
@@ -177,6 +169,7 @@ dell'allattamento: la disponibilità emotiva del genitore si conferma un fattore
 
 
 <h3>Il modello transazionale della regolazione del sonno (Sadeh, Tikotzky e Scher, 2010)</h3>
+<img class="zoomable" src="/assets/images/17/Screenshot 2026-10-01 194553.webp" />
 <p>Possiamo riassumere i risultati visti finora in un <strong>modello transazionale</strong>: il sonno del bambino (ritmo, durata,
 qualità) dipende da più livelli di fattori che si influenzano a vicenda.</p>
 <ul>
