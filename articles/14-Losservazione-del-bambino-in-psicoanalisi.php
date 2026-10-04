@@ -12,32 +12,65 @@ ob_start();
 ?>
 
 
-
-
-
-
-<h2>La critica di Kandel e i due approcci psicoanalitici alla prima infanzia</h2>
-<p>Nel 1999 lo psichiatra <strong>Eric Kandel</strong> pubblicò un articolo sull'American Journal of Psychiatry in cui criticava
-la psicoanalisi: la giudicava prolifica nel produrre idee, ma poco capace di produrre metodi scientificamente validi per
-testarle. L'unica eccezione che le riconosceva era il contributo dato alla psicologia dello sviluppo.</p>
-
-<p>Proprio nello studio della prima infanzia si sono sviluppati due approcci psicoanalitici distinti. L'<strong>Infant
-Observation</strong> nasce in ambito clinico, con lo scopo di far conoscere allo psicoterapeuta le fasi dello sviluppo
-infantile: è l'approccio di cui parliamo in questo capitolo. L'<strong>Infant Research</strong> nasce invece per avvicinare
-l'osservazione del bambino a una visione più scientifica e sperimentale, ed è l'approccio del prossimo capitolo.</p>
-
-
+<p>Nello studio della prima infanzia si sono sviluppati due approcci psicoanalitici distinti. 
+<ul>
+    <li>L'<strong>Infant Observation</strong> nasce in ambito clinico, con lo scopo di far conoscere allo 
+    psicoterapeuta le prime fasi dello sviluppo infantile (è l'approccio di cui parliamo in questo capitolo)</li>
+    <li>L'<strong>Infant Research</strong> nasce invece per avvicinare l'osservazione del bambino a una 
+    visione più scientifica e sperimentale (prossimo capitolo)</li>
+</ul>    
 
 
 
 
 <h2>Il metodo ricostruttivo di Freud e i suoi limiti</h2>
+
+<table class="mb-4">
+  <thead>
+    <tr>
+      <th style="width:auto">Fase</th>
+      <th style="width:110px;">Zona<br />erogena</th>
+      <th>Conflitto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fase Orale (nascita fino ca. 18 mesi)</td>
+      <td>Bocca</td>
+      <td>Il bambino impara a fare i conti con la realtà e a segnalare i propri bisogni alla madre.</td>
+    </tr>
+    <tr>
+      <td>Fase Anale (dai 18 mesi fino ca. 2 anni e ½, 3)</td>
+      <td>Area anale</td>
+      <td>Il bambino impara a rinunciare al piacere anale per assecondare i genitori procedendo nell'educazione sfinterica.</td>
+    </tr>
+    <tr>
+      <td>Fase Fallica (dai 2 anni ½ a ca. 5/6 anni)</td>
+      <td>Area genitale</td>
+      <td>Complesso di Edipo</td>
+    </tr>
+    <tr>
+      <td>Fase di latenza (dai 6 anni alla pubertà)</td>
+      <td>Area genitale</td>
+      <td>Lo sviluppo sessuale passa attraverso una fase di arresto. In questo periodo attraverso la scuola il bambino apprende i comportamenti sociali adattivi (regole e convenzioni della società).</td>
+    </tr>
+    <tr>
+      <td>Fase genitale (l'età adulta)</td>
+      <td>Area genitale</td>
+      <td>Passaggio dall'autoerotismo allo stadio oggettuale della sessualità.</td>
+    </tr>
+  </tbody>
+</table>
+
 <p>Freud e la psicoanalisi classica studiavano la prima infanzia con il <strong>metodo ricostruttivo</strong>. Attraverso le
 associazioni libere, lo psicoanalista faceva riemergere i ricordi dei pazienti adulti. Da questi ricordi ricostruiva le prime fasi
-dello sviluppo, e le generalizzava in una teoria.</p>
+dello sviluppo.</p>
 
-<p>Questo metodo ha però un limite. Lo sviluppo attraversa due fasi: una <strong>fase preverbale</strong> e una <strong>fase
-verbale</strong>. Le associazioni libere e i sogni permettono di ricostruire solo la fase verbale, perché la fase preverbale non è
+<p>Questo metodo ha però un limite. Lo sviluppo può anche essere concepito come diviso in 2 fasi. 
+Una <strong>fase preverbale</strong> e una <strong>fase
+verbale</strong>.</p> 
+
+<p>Le associazioni libere e i sogni permettono di ricostruire solo la fase verbale, perché la fase preverbale non è
 mai stata codificata in parole. L'unico modo per studiarla è osservare direttamente i bambini mentre la attraversano.</p>
 
 <p>Per questo motivo gli <strong>psicologi dell'Io</strong> sostenevano che il metodo ricostruttivo (valido per la fase verbale)
@@ -45,18 +78,16 @@ andasse integrato con l'osservazione diretta (per la fase preverbale).</p>
 
 <p><strong>Donald Winnicott</strong> fu il primo a proporre questa stessa distinzione, con due termini:</p>
 <ul>
-    <li>il <strong>"profondo"</strong>: è la vita fantasmatica del paziente: ricordi e sogni, ricostruiti in analisi attraverso
-le associazioni libere</li>
-    <li>il <strong>"precoce"</strong>: è l'ambiente reale che ha sostenuto l'Io del bambino, e che emerge solo dall'osservazione
-diretta</li>
+    <li>il <strong>"profondo"</strong>: è la vita fantasmatica del paziente (ricordi e sogni) ricostruiti in analisi</li>
+    <li>il <strong>"precoce"</strong>: è l'ambiente che ha sostenuto l'Io del bambino, che emerge dall'osservazione diretta</li>
 </ul>
-<p>Il profondo corrisponde quindi ai dati del metodo ricostruttivo, il precoce a quelli del metodo osservativo.</p>
 
+<!--
 <p>Questa distinzione è stata ripresa e <strong>riformulata</strong> nel 1971 da <strong>Hanna Kennedy</strong>, in un
 articolo su "The Psychoanalytic Study of the Child". Kennedy parla di <strong>approccio genetico-ricostruttivo</strong> (i
 ricordi del bambino o dell'adulto emersi in analisi, che non coincidono con le esperienze realmente vissute) e di
 <strong>approccio evolutivo</strong> (le esperienze precoci osservate direttamente, così come sono accadute).</p>
-
+-->
 
 
 
@@ -74,11 +105,10 @@ o se andassero approfondite e migliorate</p>
 
 <p>Lo studio confermò diversi punti della teoria classica:</p>
 <ul>
-<li>le fasi orale, anale e fallica si fondono l'una con l'altra nei momenti di transizione, come previsto da Freud;</li>
+<li>le fasi orale, anale e fallica si fondono l'una con l'altra nei momenti di transizione, come previsto da Freud</li>
 <li>il <strong>processo primario</strong> (il pensiero pulsionale e irrazionale tipico dell'inconscio) si forma nel secondo anno di
-vita: all'inizio il comportamento oscilla ancora tra principio di realtà e principio di piacere, e questo spiega i primi capricci
-infantili</li>
-<li>un approccio terapeutico verso le manifestazioni di forte aggressività porta a buoni risultati, cioè allo sviluppo di buoni
+vita. All'inizio il comportamento oscilla ancora tra principio di realtà e principio di piacere</li>
+<li>un approccio terapeutico verso manifestazioni di forte aggressività porta a buoni risultati, cioè allo sviluppo di buoni
 rapporti con gli altri.</li>
 </ul>
 
@@ -88,9 +118,8 @@ rapporti con gli altri.</li>
 previsto da Freud, ma anche le funzioni dell'Io. Un bambino che vive un trauma, per esempio, può perdere capacità già acquisite,
 come il linguaggio, non solo regredire nella fase psicosessuale;</li>
 <li>la <strong>disarmonia evolutiva</strong>: fino ad allora si pensava che lo sviluppo psichico dipendesse soprattutto dalle
-pulsioni. Anna Freud osserva invece che le pulsioni restano importanti, ma non bastano da sole: 
-anche la qualità delle cure genitoriali ricevute comincia a
-pesare quanto le pulsioni sullo sviluppo psichico del bambino.</li>
+pulsioni. Anna Freud osserva invece che le pulsioni restano importanti, ma non bastano da sole. Anche la qualità delle cure 
+genitoriali ricevute comincia a pesare quanto le pulsioni sullo sviluppo psichico del bambino.</li>
 </ul>
 
 
@@ -110,13 +139,13 @@ Observation</strong> definito da <strong>Esther Bick</strong>, per osservare i p
 
 
 <p>La tecnica consiste in una visita di circa <strong>un'ora, una volta a settimana, per i primi due anni</strong> di vita del
-bambino. I genitori vengono contattati prima della nascita, per essere informati e decidere se partecipare e l'osservatore può così
-raccogliere anche le loro aspettative sul bambino in arrivo.</p>
-
+bambino. I genitori vengono contattati prima della nascita, per essere informati e decidere se partecipare.</p>
 
 <p>Nel primo incontro l'osservatore spiega ai genitori che osserverà, senza dare consigli né esprimere giudizi, i momenti di vita
 condivisa tra bambino e madre (la poppata, il bagnetto, l'andare a letto). Insieme si concordano gli orari delle visite e i periodi
 di interruzione (per esempio le vacanze), definendo un protocollo temporale per i due anni.</p>
+
+<img XXclass="zoomable" src="/assets/images/14/Screenshot 2026-10-04 173018.webp" />
 
 <p>L'osservatore osserva tutti i momenti di relazione (gioco, nutrizione, bagnetto, addormentamento), 
 senza giudicare, cercando soprattutto di cogliere il clima emotivo della relazione. Non prende appunti durante la visita, 
@@ -133,13 +162,15 @@ stesso tempo distaccato emotivamente, per non proiettare le proprie reazioni emo
 
 
 <h3>La circolarità tra procedura e teoria</h3>
-<p>Una delle critiche principali rivolte all'Infant Observation riguarda il metodo stesso: c'è una <strong>circolarità tra
-procedura e teoria</strong>. L'osservatore guarda il bambino con in mente la teoria psicoanalitica, e quindi si aspetta di trovare
-proprio ciò che la teoria prevede. Quando lo trova, usa questa osservazione per confermare la teoria. Ma la teoria era già la
-lente con cui aveva guardato: il metodo finisce così per confermare sempre se stesso, in un circolo chiuso.</p>
 
-<p>Secondo il <strong>principio di falsificabilità</strong> di Popper, questo approccio non è pienamente scientifico. Una ricerca
-dovrebbe cercare di mettere in discussione una teoria, non solo di confermarla.</p>
+<p>Uno dei problemi principali dell'osservazione psicoanalitica del bambino è il circolo vizioso tra metodo e teoria.</p>
+
+<p>Chi osserva parte già con un'idea teorica in mente e tende a notare solo ciò che si aspetta di vedere. 
+Quando trova ciò che cercava, lo usa per sostenere che la teoria è corretta. 
+In questo modo il metodo conferma sempre e solo se stesso, senza un vero confronto oggettivo.</p>   
+
+<p>Per il filosofo Karl Popper, questo meccanismo non è scientifico. 
+La vera ricerca non serve a darsi ragione da sola, ma a mettere alla prova una teoria cercando prove che possano smentirla.</p>
 
 
 
@@ -149,10 +180,11 @@ dovrebbe cercare di mettere in discussione una teoria, non solo di confermarla.<
 <h2>L'osservazione per René Spitz</h2>
 <img XXclass="zoomable" src="/assets/images/René-Spitz.jpg" />
 <p>Tra il 1945 e il 1946 <strong>René Spitz</strong> supervisionò uno studio di osservazione su bambini
-istituzionalizzati in due strutture diverse. In questo periodo era sempre diffusa l'idea che convenisse tenere i bambini 
-il più a lungo possibile nelle istituzioni prima di un'adozione: un'idea
-completamente smentita proprio dagli studi di Spitz e Robertson, che mostrarono gli effetti tragici della deprivazione precoce di
-cure genitoriali adeguate.</p>
+istituzionalizzati in due strutture diverse.</p>
+<p>In questo periodo era sempre diffusa l'idea che convenisse tenere i bambini 
+il più a lungo possibile nelle istituzioni prima di un'adozione.
+Un'idea completamente smentita proprio dagli studi di Spitz e Robertson, che mostrarono gli effetti 
+tragici della deprivazione precoce di cure genitoriali adeguate.</p>
 
 
 <p>A differenza dell'Infant Observation, che osservava i bambini senza un piano predefinito, Spitz costruì un protocollo di
