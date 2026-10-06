@@ -172,18 +172,29 @@ sociale ed economica.</p>
 al calo di importanza della psicoanalisi nella psicologia accademica rispetto al passato, e ha aperto la domanda su come stabilire
 quale teoria sia più valida.</p>
 
-<p>Su questo punto si confrontano due posizioni. Per <strong>Stephen Mitchell</strong> la conoscenza psicoanalitica si costruisce nel
-lavoro clinico quotidiano, attraverso il giudizio degli analisti; la ricerca empirica, per lui, è un metodo poco adatto alla
-complessità della psicoanalisi. <strong>Peter Fonagy</strong> ribatte che questo approccio non ha selezionato le teorie migliori,
-ma le ha solo moltiplicate nel tempo: per sistematizzare il pensiero psicoanalitico serve invece un metodo di ricerca più rigoroso.
-<strong>Otto Kernberg</strong> è sulla stessa posizione di Fonagy: senza una linea di ricerca solida, la psicoanalisi rischia di
+<p>Su questo punto si confrontano due posizioni.</p> 
+    
+<p>Per <strong>Stephen Mitchell</strong> la conoscenza psicoanalitica si costruisce nel
+lavoro clinico quotidiano, attraverso il giudizio degli analisti. La ricerca empirica, per lui, è un metodo poco adatto alla
+complessità della psicoanalisi.</p> 
+
+<p><strong>Peter Fonagy</strong> ribatte che questo approccio non ha selezionato le teorie migliori,
+ma le ha solo moltiplicate nel tempo. Per sistematizzare il pensiero psicoanalitico serve invece un metodo di ricerca più rigoroso.</p>
+
+
+<p><strong>Otto Kernberg</strong> è sulla stessa posizione di Fonagy. Senza una linea di ricerca solida, la psicoanalisi rischia di
 non sopravvivere come scienza e come pratica clinica.</p>
 
 <p>La ricerca scientifica studia un fenomeno isolandolo dal resto, per poterlo osservare con precisione: una semplificazione che
-alcuni psicoanalisti considerano incompatibile con la complessità della mente. Kernberg risponde che ogni singolo studio è solo un
-tassello che, insieme a molti altri, costruisce gradualmente un quadro più completo. La psicologia accademica moderna richiede
-inoltre verifica empirica e multidisciplinarità, due caratteristiche che la psicoanalisi ha storicamente sviluppato poco: la
-situazione cambia a partire dalla teoria dell'attaccamento di Bowlby e Ainsworth, con cui la disciplina comincia ad avvicinarsi
+alcuni psicoanalisti considerano incompatibile con la complessità della mente.</p> 
+
+<p><strong>Kernberg</strong> risponde che ogni singolo studio è solo un tassello che, insieme a molti altri, costruisce 
+gradualmente un quadro più completo.</p>
+
+<p>La psicologia accademica moderna richiede inoltre verifica empirica e multidisciplinarità, due caratteristiche che la 
+psicoanalisi ha storicamente sviluppato poco.</p> 
+
+<p>La situazione cambia a partire dalla teoria dell'attaccamento di Bowlby e Ainsworth, con cui la disciplina comincia ad avvicinarsi
 alla ricerca empirica.</p>
 
 <p>Uno studio scientifico segue sempre cinque fasi:</p>
@@ -196,11 +207,11 @@ alla ricerca empirica.</p>
     <li>interpretare i risultati, confrontandoli con altri studi.</li>
 </ol>
 
-<p>La scienza è un <strong>processo cumulativo</strong>: ogni nuova ricerca si costruisce su teorie già esistenti. Una
+<p>La scienza è un <strong>processo cumulativo</strong>. Ogni nuova ricerca si costruisce su teorie già esistenti. Una
 <strong>teoria</strong> è un insieme di affermazioni sulle relazioni tra variabili (i fattori osservati, che possono cambiare ed
 essere misurati). Per essere scientifica, una teoria deve rispettare il <strong>principio di falsificabilità</strong> di Karl
 Popper: deve cioè poter essere, almeno in linea di principio, dimostrata falsa. Nessuna teoria può quindi essere dichiarata vera
-con assoluta certezza: più supera tentativi di smentita, più diventa credibile.</p>
+con assoluta certezza. Più supera tentativi di smentita, più diventa credibile.</p>
 
 <p>Un'<strong>ipotesi</strong> è una predizione specifica che nasce da una teoria e la collega al metodo di ricerca. Per formularla
 occorre trasformare una <strong>definizione teorica astratta</strong> di un concetto (l'idea generale) in una <strong>definizione
@@ -210,18 +221,22 @@ operazionale</strong> (il modo concreto in cui quel concetto viene osservato e m
 
 <ul>
     <li><strong>ricerca osservazionale</strong>: si osserva e registra il comportamento senza intervenire; usando più osservatori si
-calcola l'<strong>indice di accordo</strong> (quanto le loro osservazioni coincidono), utile per garantire oggettività;</li>
+calcola l'<strong>indice di accordo</strong> (quanto le loro osservazioni coincidono), utile per garantire oggettività</li>
     <li><strong>ricerca correlazionale</strong>: si mettono in relazione due variabili osservate, senza però poter stabilire un rapporto di
-causa-effetto tra loro;</li>
+causa-effetto tra loro</li>
     <li><strong>ricerca sperimentale</strong>: i partecipanti vengono divisi con <strong>assegnazione casuale</strong> (scelta a caso, per
 ridurre le differenze tra i gruppi) in un gruppo sperimentale e uno di controllo; si manipola una <strong>variabile
 indipendente</strong> (la causa) per osservarne l'effetto su una <strong>variabile dipendente</strong> (l'effetto misurato).</li>
 </ul>
 
-<p>La <strong>validità</strong> indica quanto ci si può fidare delle conclusioni di uno studio. La <strong>validità interna</strong>
-riguarda la certezza che il risultato dipenda davvero dalla variabile indipendente studiata, e non da altri fattori non
-controllati. La <strong>validità esterna</strong> riguarda invece la possibilità di generalizzare i risultati ad altre situazioni,
-popolazioni o contesti diversi da quello studiato.</p>
+<p>La <strong>validità</strong> indica quanto ci si può fidare delle conclusioni di uno studio.</p>
+
+<ul>
+    <li>La <strong>validità interna</strong> riguarda la certezza che il risultato dipenda davvero dalla variabile indipendente 
+    studiata, e non da altri fattori non controllati.</li>
+    <li>La <strong>validità esterna</strong> riguarda invece la possibilità di generalizzare i risultati ad altre situazioni, 
+    popolazioni o contesti diversi da quello studiato.</li>
+</ul>
 
 <p>In conclusione, la verifica empirica è oggi sempre più richiesta alla psicoanalisi: sia in ambito accademico, per decidere quali
 teorie insegnare, sia in ambito clinico, per decidere quali terapie finanziare. È quindi, oltre che una questione scientifica,
